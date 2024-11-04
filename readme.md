@@ -9,7 +9,7 @@ Recommended. All the Metadata is already frozen on-chain.
 
 ```typescript
 import { LegacyCoinMetadata } from "@hop.ag/legacy";
-import { CoinMetadata } from "@mysten/sui/src/client";
+import { CoinMetadata } from "@mysten/sui/client";
 
 const coinType = "0x43e9045850072b10168c565ca7c57060a420015343023a49e87e6e47d3a74231::hoppy::HOPPY";
 const coin_metadata: CoinMetadata = LegacyCoinMetadata[coinType];
@@ -19,7 +19,7 @@ const coin_metadata: CoinMetadata = LegacyCoinMetadata[coinType];
 
 ```typescript
 import { getLegacyMetadata } from "@hop.ag/legacy";
-import { CoinMetadata } from "@mysten/sui/src/client";
+import { CoinMetadata } from "@mysten/sui/client";
 
 const coinType = "0x43e9045850072b10168c565ca7c57060a420015343023a49e87e6e47d3a74231::hoppy::HOPPY";
 const coin_metadata: CoinMetadata = await getLegacyMetadata[coinType];
