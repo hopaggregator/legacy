@@ -1,0 +1,38 @@
+{
+  "name": "@hop.ag/legacy",
+  "version": "0.0.2",
+  "description": "Resolve Legacy hop.fun tokens metadata",
+  "type": "module",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.js"
+    }
+  },
+  "scripts": {
+    "test:resolve": "npx tsx src/tests/resolve.test.ts",
+    "build": "npm run build:esm && npm run build:cjs",
+    "build:esm": "tsc && echo '{\"type\":\"module\"}' > dist/esm/package.json",
+    "build:cjs": "tsc --project tsconfig.cjs.json && echo '{\"type\":\"commonjs\"}' > dist/cjs/package.json",
+    "pretty": "prettier . --write"
+  },
+  "author": "Hop Aggregator",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "prettier": "3.2.5",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@mysten/sui": "^1.14.0",
+    "cross-fetch": "^4.0.0",
+    "tslib": "^2.8.1"
+  },
+  "files": [
+    "dist/",
+    "README.md"
+  ]
+}

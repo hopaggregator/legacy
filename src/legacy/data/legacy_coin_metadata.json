@@ -1,0 +1,3530 @@
+{
+  "0x43e9045850072b10168c565ca7c57060a420015343023a49e87e6e47d3a74231::hoppy::HOPPY": {
+    "ticker": "HOPPY",
+    "name": "HOP BUNNY",
+    "icon": "https://images.hop.ag/ipfs/QmdSDb1nWDfZFnfrExfkYXvk7R3AMGiWcJQw2cAN354CCy",
+    "address": "0x43e9045850072b10168c565ca7c57060a420015343023a49e87e6e47d3a74231::hoppy::HOPPY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0d7acc8e91ea02582f3111dd6809f4f65e2ca2c1a0d13c966af3a673603ced42::orcie::ORCIE": {
+    "ticker": "ORCIE",
+    "name": "Orcie",
+    "icon": "https://images.hop.ag/ipfs/QmZUt7qM1GH1aTggoNMykKhP4F8kffagsrfkkEACav83KL",
+    "address": "0x0d7acc8e91ea02582f3111dd6809f4f65e2ca2c1a0d13c966af3a673603ced42::orcie::ORCIE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xfd1d9f625036109fc4c5be1e0a0485abc77470e9ea7fc475b2e73f07251e234a::one::ONE": {
+    "ticker": "1",
+    "name": "1",
+    "icon": "https://images.hop.ag/ipfs/QmYzrog6p5VNME4Q1BoLH1JWSJBotsdZ2vJedszyRHEm18",
+    "address": "0xfd1d9f625036109fc4c5be1e0a0485abc77470e9ea7fc475b2e73f07251e234a::one::ONE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x870c62977acdcf7cfba198eb7a92854ee65ad89a42cf731fbe0eac8947e3f6b5::hoppy::HOPPY": {
+    "ticker": "HOPPY",
+    "name": "HOPPY",
+    "icon": "https://images.hop.ag/ipfs/QmNvPcfqycMYz5ggfdizLLjDkUDW89Jc1DND85EdBo5sg5",
+    "address": "0x870c62977acdcf7cfba198eb7a92854ee65ad89a42cf731fbe0eac8947e3f6b5::hoppy::HOPPY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x32f310486e71202187848902efd49726277edff6d0269bf08891dccc059aeeb2::yeti::YETI": {
+    "ticker": "YETI",
+    "name": "Yeti",
+    "icon": "https://images.hop.ag/ipfs/QmTPcNsitTYs1hbs2jYKJUmUMCAm5FZHUcsv8bJNrYGYf8",
+    "address": "0x32f310486e71202187848902efd49726277edff6d0269bf08891dccc059aeeb2::yeti::YETI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x35ec45f1927663cbe36b07555b30bd25ccce7b0b938f2564ea185ffd879be4a2::hopeless::HOPELESS": {
+    "ticker": "HOPELESS",
+    "name": "HOPeless",
+    "icon": "https://images.hop.ag/ipfs/QmUSUvz6LgTdwnsTauQf5u6kPex8NwaMV2QVxgprTqc5Si",
+    "address": "0x35ec45f1927663cbe36b07555b30bd25ccce7b0b938f2564ea185ffd879be4a2::hopeless::HOPELESS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xeedb38544f4a0d264ff9ed9738768b6d8096d70499bdfa47c605d74fd2de1294::siu::SIU": {
+    "ticker": "SIU",
+    "name": "Siuuuuu",
+    "icon": "https://images.hop.ag/ipfs/QmWTYpGXt5vSa2Cb1Db2Lui7XkCypkSwur22btHymr1Jwm",
+    "address": "0xeedb38544f4a0d264ff9ed9738768b6d8096d70499bdfa47c605d74fd2de1294::siu::SIU",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x20883dfae09b5dd4a5433a1207bdd9fa945c9be8da24ae64f8af4145ca9af0e6::rex::REX": {
+    "ticker": "$REX",
+    "name": "Suirex",
+    "icon": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+    "address": "0x20883dfae09b5dd4a5433a1207bdd9fa945c9be8da24ae64f8af4145ca9af0e6::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe74876860836a4e2f2aed6cf8620f2652d8efc0d3c6e0255047b7c63c0e194fa::swoop::SWOOP": {
+    "ticker": "Swoop",
+    "name": "Swoop",
+    "icon": "https://images.hop.ag/ipfs/Qmb9SzPXE58pxXy8fXkGae31uSGfo9cPuhTHRNeS95FhWz",
+    "address": "0xe74876860836a4e2f2aed6cf8620f2652d8efc0d3c6e0255047b7c63c0e194fa::swoop::SWOOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x02be491c1755a14830f0702825069b3c7c8b373ab44dd3c191a8113205084c23::finger::FINGER": {
+    "ticker": "Finger",
+    "name": "Fingerprint",
+    "icon": "https://images.hop.ag/ipfs/QmNjshAEe9bKQ3ixcDqgZ7XrDxXbGEANsAzVJUMKhroYQt",
+    "address": "0x02be491c1755a14830f0702825069b3c7c8b373ab44dd3c191a8113205084c23::finger::FINGER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8088eeb68375927b42154f929c6d2f71df197547d03007b0f3b2a800e127479a::suilady::SUILADY": {
+    "ticker": "SUILADY",
+    "name": "The Queen Of Sui Ocean",
+    "icon": "https://images.hop.ag/ipfs/QmQeHxQXeguR8oeqf1zwciNn51oKRfkCszfBLwraBBhhB5",
+    "address": "0x8088eeb68375927b42154f929c6d2f71df197547d03007b0f3b2a800e127479a::suilady::SUILADY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc8961689a6a478438aa39dc5745cfe519a8df98586c7e82a87a6db608a21730e::suinut::SUINUT": {
+    "ticker": "SUINUT",
+    "name": "suinut",
+    "icon": "https://images.hop.ag/ipfs/QmYThJBWxVHUC4tLg9UkLKMQPvebeb6j8wQEEcxUJraXqo",
+    "address": "0xc8961689a6a478438aa39dc5745cfe519a8df98586c7e82a87a6db608a21730e::suinut::SUINUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x660edaa68c5553d962d99770153e6acf564c7bc2ba7b85b856e41f3df39333e6::unihop::UNIHOP": {
+    "ticker": "UNIHOP",
+    "name": "UNIHOP",
+    "icon": "https://images.hop.ag/ipfs/QmTLVZuQqm4A1UQaktUSyVeGcA7hzba4qq6ZL4oM421nfs",
+    "address": "0x660edaa68c5553d962d99770153e6acf564c7bc2ba7b85b856e41f3df39333e6::unihop::UNIHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc9cf8d39041f284877f0384deb5b7ba2aee691cf1aa7b817f844a5af0095351e::trump_2024::TRUMP_2024": {
+    "ticker": "TRUMP2024",
+    "name": "☑ TRUMP2024",
+    "icon": "https://images.hop.ag/ipfs/QmcDtgNM1PpTea6zxb6jkSFhkmjefMUpazqAYwq91E4aE6",
+    "address": "0xc9cf8d39041f284877f0384deb5b7ba2aee691cf1aa7b817f844a5af0095351e::trump_2024::TRUMP_2024",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x068b7840d85c99d273085f5366052d1eca3684d3f2df567a98b8423c237bb954::boi::BOI": {
+    "ticker": "BOI",
+    "name": "BoiOnSui",
+    "icon": "https://images.hop.ag/ipfs/QmVKNL7YQh94J1pUzwUqg8hdg84bkLjr2HXi6CEFk1zpK4",
+    "address": "0x068b7840d85c99d273085f5366052d1eca3684d3f2df567a98b8423c237bb954::boi::BOI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5217def12dd5c456244d6cd643f4360736ba281c7b3cda1d7a7ed45a49119606::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "HOPDOG",
+    "icon": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "address": "0x5217def12dd5c456244d6cd643f4360736ba281c7b3cda1d7a7ed45a49119606::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x19bb4ac89056993bd6f76ddfcd4b152b41c0fda25d3f01b343e98af29756b150::cally::CALLY": {
+    "ticker": "CALLY",
+    "name": "Pepecally",
+    "icon": "https://images.hop.ag/ipfs/QmSS6gMkGkoSXCZkN2F7LmxeeN3gsbLyPV5ugbVDYozNRr",
+    "address": "0x19bb4ac89056993bd6f76ddfcd4b152b41c0fda25d3f01b343e98af29756b150::cally::CALLY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb1b7ecfe0ae36fc078560a30212e5f5ee86459ebce027762bf74972d4415232d::hopdog::HOPDOG": {
+    "ticker": "HopDog",
+    "name": "HopDog",
+    "icon": "https://images.hop.ag/ipfs/QmSD5znzbTdpfxBFaUqLG95hHAmzV9WqbPut1vSNee8YJv",
+    "address": "0xb1b7ecfe0ae36fc078560a30212e5f5ee86459ebce027762bf74972d4415232d::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc9146981ef058c72263570fa818a75fc7a6d26b85c9095a30fe0354920ddd0c8::cat::CAT": {
+    "ticker": "CAT",
+    "name": "HOP CAT",
+    "icon": "https://images.hop.ag/ipfs/Qmen8LhMSiPa1Sy4VX3UjzvDY3XuRGaR2vzsQFWAHYKoyF",
+    "address": "0xc9146981ef058c72263570fa818a75fc7a6d26b85c9095a30fe0354920ddd0c8::cat::CAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x42d373163f9e4caa762bbb83350ae581b5781aa7bd27c34345455b2b2758db0c::wdog::WDOG": {
+    "ticker": "wDOG",
+    "name": "wrapped dog",
+    "icon": "https://images.hop.ag/ipfs/QmVAQDZHkqzaWotRwut3fjw1WAgRByiyqPVFMdWExzFExy",
+    "address": "0x42d373163f9e4caa762bbb83350ae581b5781aa7bd27c34345455b2b2758db0c::wdog::WDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x165814c3a252d8512a9572efebd600bbd83ce984fabdadbd2e869b6eb642cf54::hopcat::HOPCAT": {
+    "ticker": "HopCat",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmRa3XL5YZQhDzQQyyEzCH1Q9aGaDEGe6N1TXkwyeNDRtP",
+    "address": "0x165814c3a252d8512a9572efebd600bbd83ce984fabdadbd2e869b6eb642cf54::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x129c9d98e9354dd2210d4c8c1be0ca5c8e0e8a24945ed66422a0492309db3d4d::swoop::SWOOP": {
+    "ticker": "swoop",
+    "name": "swoop",
+    "icon": "https://images.hop.ag/ipfs/QmYGcjMQEVqv5DnLNKKH4gYuLi457vheuadKYpgbFhCN4a",
+    "address": "0x129c9d98e9354dd2210d4c8c1be0ca5c8e0e8a24945ed66422a0492309db3d4d::swoop::SWOOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x22059dd5a5fbd6dcb19f8fe5c3497277a764b71ce778f89b78bead4a881389e4::dragon::DRAGON": {
+    "ticker": "Dragon",
+    "name": "Totem-Dragon",
+    "icon": "https://images.hop.ag/ipfs/Qme4VYBTkrRKRD2qt29QTK5rg5h5jx9BGAcHzE2CgoUAWc",
+    "address": "0x22059dd5a5fbd6dcb19f8fe5c3497277a764b71ce778f89b78bead4a881389e4::dragon::DRAGON",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5c931e75a2aebbed6b314a80e722cd9ba8696c5a59c2db8143ed6845a69dd476::hopcat::HOPCAT": {
+    "ticker": "HopCat",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0x5c931e75a2aebbed6b314a80e722cd9ba8696c5a59c2db8143ed6845a69dd476::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc4f18516431908968571361a85d3273a08183fef69ee735f5068d83c94bbb0c4::bubl::BUBL": {
+    "ticker": "BuBL",
+    "name": "BuBL",
+    "icon": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+    "address": "0xc4f18516431908968571361a85d3273a08183fef69ee735f5068d83c94bbb0c4::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xfea33f6aa98650530e61347fe4e34b31d1cf4b3fbb02b0c09f110c950d873205::horse::HORSE": {
+    "ticker": "HORSE",
+    "name": "Suihorse",
+    "icon": "https://images.hop.ag/ipfs/QmfLLvTxyZuCXGujr532hX89vK5rxqkyD5DDZxrwaDkThm",
+    "address": "0xfea33f6aa98650530e61347fe4e34b31d1cf4b3fbb02b0c09f110c950d873205::horse::HORSE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xda2b55386cd1124a1d2da3dbc721496a5135a67480be9aab26da0b9579884d69::hopfrog::HOPFROG": {
+    "ticker": "HOPFROG",
+    "name": "HOP FROG",
+    "icon": "https://images.hop.ag/ipfs/QmdqJVpHZhhdnRxEDZtdwnJJyCXv6cpssE3RnxpYyeAQXN",
+    "address": "0xda2b55386cd1124a1d2da3dbc721496a5135a67480be9aab26da0b9579884d69::hopfrog::HOPFROG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x90fa5fa5f284536c80f01e909d46e0c9fdedc39aa921251ac5abc17f74bfdb1f::pnut::PNUT": {
+    "ticker": "pnut",
+    "name": "Peanut",
+    "icon": "https://images.hop.ag/ipfs/QmPv1TvN9U3fT1WHzueqouhcSu8oTPiHnmA7tFtGEuDztw",
+    "address": "0x90fa5fa5f284536c80f01e909d46e0c9fdedc39aa921251ac5abc17f74bfdb1f::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x22c03493c98b3b2c9c462610577e4fa5cda55283a771f74acd2c01e02388244a::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "HOPCAT",
+    "icon": "https://images.hop.ag/ipfs/QmTUTNJb9XaqLn8cduhndAGsDKQK1qYNsSQ3ZXLZNp21kQ",
+    "address": "0x22c03493c98b3b2c9c462610577e4fa5cda55283a771f74acd2c01e02388244a::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbf0c4bab1e98b8e608f9abf54604aecc4f2b5daf7b3fa7c2a042e794e0d725e7::hosu::HOSU": {
+    "ticker": "HOSU",
+    "name": "HOSU",
+    "icon": "https://images.hop.ag/ipfs/QmVrHtwSLeNZB7oWKVqtwMMEunGcgkTwFCeEhbfWZPrD26",
+    "address": "0xbf0c4bab1e98b8e608f9abf54604aecc4f2b5daf7b3fa7c2a042e794e0d725e7::hosu::HOSU",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8bab77656031938088a8e039b21748a6cf90e3b8f66c68d374d248a190b7ec14::swoop::SWOOP": {
+    "ticker": "SWOOP",
+    "name": "Swoop",
+    "icon": "https://images.hop.ag/ipfs/QmYGcjMQEVqv5DnLNKKH4gYuLi457vheuadKYpgbFhCN4a",
+    "address": "0x8bab77656031938088a8e039b21748a6cf90e3b8f66c68d374d248a190b7ec14::swoop::SWOOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdcd3cfccf1c84154a50e0079035a34aefc409df8239f5cfe7f275821911a6d03::rex::REX": {
+    "ticker": "REX",
+    "name": "Suirex",
+    "icon": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+    "address": "0xdcd3cfccf1c84154a50e0079035a34aefc409df8239f5cfe7f275821911a6d03::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xff6d855f2876cd5b5bfaa7fcbbb9721f447290606699a6207b4a7757e3eea0ae::sgf::SGF": {
+    "ticker": "SGF",
+    "name": "Smoking Sui Giga Fish",
+    "icon": "https://images.hop.ag/ipfs/QmdF5cs4EQtKrFzaWw6HJjmn3Xg35N5xxK6vDS25F39e1j",
+    "address": "0xff6d855f2876cd5b5bfaa7fcbbb9721f447290606699a6207b4a7757e3eea0ae::sgf::SGF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd5fcf6a2947411e145a01e31cf97d43d13d9cd37b7cac2bb3296f7539ebaaf4a::rex::REX": {
+    "ticker": "REX",
+    "name": "suirex",
+    "icon": "https://images.hop.ag/ipfs/QmUzqQG6zVXzQ3moLjrFhb3MnrAG2ufmKS6emzd7L2xNqn",
+    "address": "0xd5fcf6a2947411e145a01e31cf97d43d13d9cd37b7cac2bb3296f7539ebaaf4a::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf3bbbbe2104872a5258932fbfc11b0c6fc929c54347455ec91ab4d5d734ef570::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Pnut",
+    "icon": "https://images.hop.ag/ipfs/QmPMsM4mssGg77fgKnE9mW58f6xaDFiPnm9YLfgc9HGay9",
+    "address": "0xf3bbbbe2104872a5258932fbfc11b0c6fc929c54347455ec91ab4d5d734ef570::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0fbaa586d87caa19c90fd1678ec5d3e37c88fee76e1e09f4f08f5a9207735da0::fpnut::FPNUT": {
+    "ticker": "FPNUT",
+    "name": "First Pnut on Sui",
+    "icon": "https://images.hop.ag/ipfs/QmUkmJW32gqRkKoybQgH4h6XH5y1SvsotRUA3JhiGDwJkH",
+    "address": "0x0fbaa586d87caa19c90fd1678ec5d3e37c88fee76e1e09f4f08f5a9207735da0::fpnut::FPNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf4a61fc117400c8456a90ff6f5a2d3064a8082c7c675f35f0c662e5dc56fbf92::rex::REX": {
+    "ticker": "REX",
+    "name": "SUIREX",
+    "icon": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+    "address": "0xf4a61fc117400c8456a90ff6f5a2d3064a8082c7c675f35f0c662e5dc56fbf92::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8ff9243d747f3248ceee3e55f916561e8e3d5e29394ba3e608d9b2329d93d1ec::pnut::PNUT": {
+    "ticker": "PNUT",
+    "name": "Peanut",
+    "icon": "https://images.hop.ag/ipfs/QmbaiLBSQCXtxLAh6hPj1PJNFVLvsCo7w2Mhtp2AF4HBEH",
+    "address": "0x8ff9243d747f3248ceee3e55f916561e8e3d5e29394ba3e608d9b2329d93d1ec::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf56a4b3873046e4629e06a2a30b7a26842906fbf5b0d3e1c03daca94fec0afe7::hopdoge::HOPDOGE": {
+    "ticker": "HOPDoge",
+    "name": "HOPDoge",
+    "icon": "https://images.hop.ag/ipfs/QmdZP6M6z641fz4jynew9UjTVjrC4B1mBo8M4ZuA3hyL85",
+    "address": "0xf56a4b3873046e4629e06a2a30b7a26842906fbf5b0d3e1c03daca94fec0afe7::hopdoge::HOPDOGE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xaf14aa0eff34d85466b95a4e05c305755acf1d8a6bf5d46496823d5056906682::suirex::SUIREX": {
+    "ticker": "SUIREX",
+    "name": "Suirex",
+    "icon": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+    "address": "0xaf14aa0eff34d85466b95a4e05c305755acf1d8a6bf5d46496823d5056906682::suirex::SUIREX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd4ca972d2b8e1df1067ad2846cc8814d96c04fadf836d985c935f8e177f3fcf0::frog::FROG": {
+    "ticker": "FROG",
+    "name": "Frogger the FROG",
+    "icon": "https://images.hop.ag/ipfs/QmeqJeebVwbaen94yQy5cKp66w5a2XD8bRYHt99psyqf3E",
+    "address": "0xd4ca972d2b8e1df1067ad2846cc8814d96c04fadf836d985c935f8e177f3fcf0::frog::FROG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2be6e50bb0552ffaafc67b402620450ec892080a71557b9c1addf7ee8d11ad09::poring::PORING": {
+    "ticker": "PORING",
+    "name": "Poring",
+    "icon": "https://images.hop.ag/ipfs/QmRqMXgfJPNEJ2S4uXsAyAGDmcseXYeJ7CGqfKABZoBddR",
+    "address": "0x2be6e50bb0552ffaafc67b402620450ec892080a71557b9c1addf7ee8d11ad09::poring::PORING",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2b8f5741cd94da15593cdaedb950af922abc5f4e60eae008e188da0835716b8e::rex::REX": {
+    "ticker": "REX",
+    "name": "suirex",
+    "icon": "https://images.hop.ag/ipfs/QmYdBcFuBEcfycWePmayw4Tb3fwDa11GXYY389MNTpmh8P",
+    "address": "0x2b8f5741cd94da15593cdaedb950af922abc5f4e60eae008e188da0835716b8e::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf11dc1c9b737aa040ef42f521cb79306a51330156e42852949433c5214ec10a7::fckh::FCKH": {
+    "ticker": "FCKH",
+    "name": "FUCK HOP",
+    "icon": "https://images.hop.ag/ipfs/QmSt9Demj7SpA3zPL5wRc5Y4GKgd3xnFXAjyEE9uNGRnMy",
+    "address": "0xf11dc1c9b737aa040ef42f521cb79306a51330156e42852949433c5214ec10a7::fckh::FCKH",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x530e0e47ae51c083277e85cbf8e8a9f6ccdf9b3a5afb9f8d494659bb5f0727fe::aaa::AAA": {
+    "ticker": "AAA",
+    "name": "aaa Hop",
+    "icon": "https://images.hop.ag/ipfs/QmXC4qFVCAXdFqfmbMJVqsttrw6A6MMetmKZ1MZecedNH4",
+    "address": "0x530e0e47ae51c083277e85cbf8e8a9f6ccdf9b3a5afb9f8d494659bb5f0727fe::aaa::AAA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa17ff626e4d5fc136fad6b3511c9a27254e68b5040223136a06a22f537902e3d::seanut::SEANUT": {
+    "ticker": "SEANUT",
+    "name": "Seanut The Suirrel",
+    "icon": "https://images.hop.ag/ipfs/QmPncTECroMSa7Jxth4R69QNWwssKFFLrQ5Nvh3rFqBiJP",
+    "address": "0xa17ff626e4d5fc136fad6b3511c9a27254e68b5040223136a06a22f537902e3d::seanut::SEANUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa0c60c3f0c88eb7b09de07b74bd75581ff86ee9b176863d1d3fd617ebba51e57::fuckhop::FUCKHOP": {
+    "ticker": "FUCKHOP",
+    "name": "fuckhopfun",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0xa0c60c3f0c88eb7b09de07b74bd75581ff86ee9b176863d1d3fd617ebba51e57::fuckhop::FUCKHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbd8ca372ed85a5b15ceac2ab771ea0ea65940855282edbd5aba52acd746e70ff::suin::SUIN": {
+    "ticker": "SUIN",
+    "name": "SUI NIGGA",
+    "icon": "https://images.hop.ag/ipfs/QmUH69sCoZCiubx9NyHQjgu787tPk44oVDZeE4VPbUCb6B",
+    "address": "0xbd8ca372ed85a5b15ceac2ab771ea0ea65940855282edbd5aba52acd746e70ff::suin::SUIN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc2716c2d45c8e2f0ad108224907e92709a964220cf3ef46fb81f4f7ed3d4dad1::cat::CAT": {
+    "ticker": "cat",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0xc2716c2d45c8e2f0ad108224907e92709a964220cf3ef46fb81f4f7ed3d4dad1::cat::CAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xaab1d64c945163c29aa38ae2a9e565d542fee155d7ae4c7f6666e7e8f85fadab::swoop::SWOOP": {
+    "ticker": "SWOOP",
+    "name": "Swoop",
+    "icon": "https://images.hop.ag/ipfs/QmYGcjMQEVqv5DnLNKKH4gYuLi457vheuadKYpgbFhCN4a",
+    "address": "0xaab1d64c945163c29aa38ae2a9e565d542fee155d7ae4c7f6666e7e8f85fadab::swoop::SWOOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb47d4300fd7955b471bccf622e94efe6275f423c1a9b8d9ffea5b670b0d12fd1::hopdog::HOPDOG": {
+    "ticker": "HopDog",
+    "name": "HopDog",
+    "icon": "https://images.hop.ag/ipfs/QmSD5znzbTdpfxBFaUqLG95hHAmzV9WqbPut1vSNee8YJv",
+    "address": "0xb47d4300fd7955b471bccf622e94efe6275f423c1a9b8d9ffea5b670b0d12fd1::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x930294bc1273f445091e127dbdd02b5992e936e35bae7245f57528a579a2ac4e::pnut::PNUT": {
+    "ticker": "PNUT ",
+    "name": "Peanut The Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmSfHV3Gx7MHA6Lkvbuu8KTrNe6YmDU2kGUxfc5FhdGY3B",
+    "address": "0x930294bc1273f445091e127dbdd02b5992e936e35bae7245f57528a579a2ac4e::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc73ba7938f026985aba56513621d70a7e046ad327db687466e47b6c336faae0d::hopdog::HOPDOG": {
+    "ticker": "HopDog",
+    "name": "HopDog",
+    "icon": "https://images.hop.ag/ipfs/QmSfGqkPkqN5dqAY3Ds26wtXNLpJ66LgZXHwd8PZuizxTa",
+    "address": "0xc73ba7938f026985aba56513621d70a7e046ad327db687466e47b6c336faae0d::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd08ae76aabdc499721cf64b200885054cd4f30e6a77daf285dfa362f6e100f21::nut_4_trump::NUT_4_TRUMP": {
+    "ticker": "Nut4Trump",
+    "name": "Nut4Trump",
+    "icon": "https://images.hop.ag/ipfs/Qmd1PepZLWW7pLiHxNgHhHBU2Me35Bkh7sueumZfLLYYcL",
+    "address": "0xd08ae76aabdc499721cf64b200885054cd4f30e6a77daf285dfa362f6e100f21::nut_4_trump::NUT_4_TRUMP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8fb494ab5423bff8de3772c1c0b87550c6e59c8ece274d4367c97e3481255df7::suiyan::SUIYAN": {
+    "ticker": "Suiyan",
+    "name": "Super Suiyan",
+    "icon": "https://images.hop.ag/ipfs/QmQ6qeoySt1gDZoYWNWr7WZAehT3NaaAMVVbXLnPkaW4NF",
+    "address": "0x8fb494ab5423bff8de3772c1c0b87550c6e59c8ece274d4367c97e3481255df7::suiyan::SUIYAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc6984cb3f4a1fb638d9c09bbe4997f3a8c909f9fa9b25adfc6c6b36525a77ebf::dory::DORY": {
+    "ticker": "DORY",
+    "name": "DORY",
+    "icon": "https://images.hop.ag/ipfs/QmeYftaYw3vhjxrmvDJ5YhpvqPqsNH2t6tPmdsRcmMdtYP",
+    "address": "0xc6984cb3f4a1fb638d9c09bbe4997f3a8c909f9fa9b25adfc6c6b36525a77ebf::dory::DORY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb62c5dd33f051481d7c6b48c21378d0d7d1ddc5769e6a1f5d43bbf9fde4e06a2::peanut::PEANUT": {
+    "ticker": "PEANUT",
+    "name": "PEANUT",
+    "icon": "https://images.hop.ag/ipfs/QmQzRSgaAbP6Hpk9qwnxzYTJdRpKKJ6HUCo3ENaxuqXCob",
+    "address": "0xb62c5dd33f051481d7c6b48c21378d0d7d1ddc5769e6a1f5d43bbf9fde4e06a2::peanut::PEANUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4831b3f34faee0ea88fcce4564d8bcdb427d4cb7d4641a594272a95d285d1a71::hopper::HOPPER": {
+    "ticker": "HOPPER",
+    "name": "HOPPER THE FUN",
+    "icon": "https://images.hop.ag/ipfs/QmRbRssWarD6BpGu7HgMvvKrR8zwwuFMFgFp1ZS4sQx2VM",
+    "address": "0x4831b3f34faee0ea88fcce4564d8bcdb427d4cb7d4641a594272a95d285d1a71::hopper::HOPPER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb53b0ada678c2b0e722ee96231cbd2c34e79829dafeca6bd84a4c460b6a8e275::elphnt::ELPHNT": {
+    "ticker": "ELPHNT",
+    "name": "Suilephant",
+    "icon": "https://images.hop.ag/ipfs/QmcB9C7uDJon9eeq4Wx1w3Lp7e9BWuvKfEFe2H2zMMHk37",
+    "address": "0xb53b0ada678c2b0e722ee96231cbd2c34e79829dafeca6bd84a4c460b6a8e275::elphnt::ELPHNT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9ebc222dcb29977b3c7f059eca080af133f37a41cbd55733825eb36c3819f73f::onepepe::ONEPEPE": {
+    "ticker": "onepepe",
+    "name": "One Pepe",
+    "icon": "https://images.hop.ag/ipfs/QmdEPyZRxpvRig8qNvyrCnSQcf3Hvadq8TvnX7sJt1Jts9",
+    "address": "0x9ebc222dcb29977b3c7f059eca080af133f37a41cbd55733825eb36c3819f73f::onepepe::ONEPEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x55ff96aba7ffab8eac592f4fb550fa5d969adb351cda8905f30f69d287a9876c::mew::MEW": {
+    "ticker": "$MEW",
+    "name": "MeowWooF",
+    "icon": "https://images.hop.ag/ipfs/QmQzsgpFsSLA1XV3yeAS2j2MxfdLUt4qR9CaGnHgVWAiRA",
+    "address": "0x55ff96aba7ffab8eac592f4fb550fa5d969adb351cda8905f30f69d287a9876c::mew::MEW",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8462c4e7093d258c5f7a12def6ae44b95de8ba2f105412c3497c8b0c18d4febd::hopper::HOPPER": {
+    "ticker": "HOPPER",
+    "name": "The Rabbit",
+    "icon": "https://images.hop.ag/ipfs/QmZ6rdWkRLMFGzceL6YtgabAVo3c33BkxrKWThoQX3necS",
+    "address": "0x8462c4e7093d258c5f7a12def6ae44b95de8ba2f105412c3497c8b0c18d4febd::hopper::HOPPER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x79d047d9d174022088cc6067c442c76f6ea45b8e5b59f0826aa89f37d294f74d::bocat::BOCAT": {
+    "ticker": "BOCAT",
+    "name": "Book of Cats",
+    "icon": "https://images.hop.ag/ipfs/QmNpqTpCjdkZXwo7JhTF1wffLUgsX2xJrt6pioHTus5Bz9",
+    "address": "0x79d047d9d174022088cc6067c442c76f6ea45b8e5b59f0826aa89f37d294f74d::bocat::BOCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x51f8c180d805433bdb165af77e6ce6fbbadb6f06b3a1ec17859ca6395bf1ce2c::gfbf::GFBF": {
+    "ticker": "GFBF",
+    "name": "My Girlfriend's Boyfriend",
+    "icon": "https://images.hop.ag/ipfs/QmWGnNh9RorEvoJZTPJN56qwzYo1ywAoKaVgjbfoAFR5jf",
+    "address": "0x51f8c180d805433bdb165af77e6ce6fbbadb6f06b3a1ec17859ca6395bf1ce2c::gfbf::GFBF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0a86b64277925b83fbb339572c33a672b493bd3c9d6bde1f602ed48b04f71299::hpepe::HPEPE": {
+    "ticker": "HPEPE",
+    "name": "HopPEPE",
+    "icon": "https://images.hop.ag/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+    "address": "0x0a86b64277925b83fbb339572c33a672b493bd3c9d6bde1f602ed48b04f71299::hpepe::HPEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x840bc6e0ace6985a570ed3794e96877c7dd476437b73b9ea28b3bbc54b7b5eeb::sngui::SNGUI": {
+    "ticker": "SNGUI",
+    "name": "SnugglyUi",
+    "icon": "https://images.hop.ag/ipfs/QmZ45Hb6wKvJ9S11e11HFfSCDymT5ayLehoLQFcuKhm9R4",
+    "address": "0x840bc6e0ace6985a570ed3794e96877c7dd476437b73b9ea28b3bbc54b7b5eeb::sngui::SNGUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1da081b11b3d8ed1ee3b02ae405cee765ba7b8b5ae8929a4551ad1c891c8971d::devin::DEVIN": {
+    "ticker": "DEVIN",
+    "name": "Devin",
+    "icon": "https://images.hop.ag/ipfs/QmQvnd1wRvUpra4xuFm3j8xwz68tTwc2XaSFUzxJnggUT3",
+    "address": "0x1da081b11b3d8ed1ee3b02ae405cee765ba7b8b5ae8929a4551ad1c891c8971d::devin::DEVIN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x18bdb214d95837aa8e66da069cf2685db34cc7b01dea311829c1464b420484e5::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "RIP Pnut",
+    "icon": "https://images.hop.ag/ipfs/QmSnehJ1Ldn5XQjcxC5veGDVGrd5bG9bvLBz33UvdhveoE",
+    "address": "0x18bdb214d95837aa8e66da069cf2685db34cc7b01dea311829c1464b420484e5::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x93f4f805b3ff4d9432e6902786c69d1eedd77a80ee13e6ae6631759350e257ed::bvr::BVR": {
+    "ticker": "BVR",
+    "name": "BeaverSUI",
+    "icon": "https://images.hop.ag/ipfs/QmNRrzi7j2Lw4hBZfkFrg17jymuZqSMQa637Bz81xFE7Y3",
+    "address": "0x93f4f805b3ff4d9432e6902786c69d1eedd77a80ee13e6ae6631759350e257ed::bvr::BVR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x99b8701ebe1f1969477c01fac0f6a08583313f78601d30b85d84a016732b97e3::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmcizBAsLA1EiRKKYGveXjZLGSfDHWBad5jJr6SZ6bBEtz",
+    "address": "0x99b8701ebe1f1969477c01fac0f6a08583313f78601d30b85d84a016732b97e3::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x76fae3529733c9ee7617e2cbe1371d6334c53ebdbdb8106e4bcbad98cb385464::siu::SIU": {
+    "ticker": "siu",
+    "name": "CR7 ON Siiiuuuuu",
+    "icon": "https://images.hop.ag/ipfs/QmRPntw8tKpYPqtcyAe3df2vLNWX5Wb7gCCZZz7CrDEBi8",
+    "address": "0x76fae3529733c9ee7617e2cbe1371d6334c53ebdbdb8106e4bcbad98cb385464::siu::SIU",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x42078609783b30f9324ea771e26bd460f8efd1fb2691144e8ba41d85329a7020::aibear::AIBEAR": {
+    "ticker": "AIBEAR",
+    "name": "AI Bear",
+    "icon": "https://images.hop.ag/ipfs/QmWDKkhGNZqAopFdXJWvjFrhvdy8sqYg7WspWCd3jrekoK",
+    "address": "0x42078609783b30f9324ea771e26bd460f8efd1fb2691144e8ba41d85329a7020::aibear::AIBEAR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf36a8f2dd17c98ea8e084ed0a45b68b55a21e5df5822fbd0d32ad54aa51ab0c2::ghost::GHOST": {
+    "ticker": "GHOST",
+    "name": "GHOSTBUSTERS",
+    "icon": "https://images.hop.ag/ipfs/QmdYVstP8gYJ9qcT6LvuNtaXUXd1oemkKPfvxi8XNBNQm9",
+    "address": "0xf36a8f2dd17c98ea8e084ed0a45b68b55a21e5df5822fbd0d32ad54aa51ab0c2::ghost::GHOST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6dd9c6cab894913c129207f49890e4250054230bdb680e6a594118f303ef615a::nut::NUT": {
+    "ticker": "NUT",
+    "name": "PNUT",
+    "icon": "https://images.hop.ag/ipfs/QmcwCF29pUqfQWZ4su5QAKWTFP8Hd6f4cczUSck6heZMC7",
+    "address": "0x6dd9c6cab894913c129207f49890e4250054230bdb680e6a594118f303ef615a::nut::NUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd94502d3c1f942d0adc3b3d3a5a39fd5d788f3ab75b2a2a228b7b61269697bc1::luce::LUCE": {
+    "ticker": "Luce",
+    "name": "Luce",
+    "icon": "https://images.hop.ag/ipfs/QmZDVFcDL7L4uHZ5iARsnAxdqew8XGas2DirU6Pc4iB9jw",
+    "address": "0xd94502d3c1f942d0adc3b3d3a5a39fd5d788f3ab75b2a2a228b7b61269697bc1::luce::LUCE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4b91de2b2cb2ee7ea9c673680c78a0ca452a154283badd485bfd9ccea25e585a::hep::HEP": {
+    "ticker": "Hep",
+    "name": "Hep",
+    "icon": "https://images.hop.ag/ipfs/QmTiWn4JR3nJGz7P2FhJBQW1B6A3NMy8KeSxmE857dnRJK",
+    "address": "0x4b91de2b2cb2ee7ea9c673680c78a0ca452a154283badd485bfd9ccea25e585a::hep::HEP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x38ab5fbb5a9ddb0e4f5d441a12742ae6425dd3060b1ef80c53d22f24f6e0ede1::pnut::PNUT": {
+    "ticker": "pnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmYmE7pTAefxPr8mT15MD9X9seZvSTPWDM2sdFfNiKECHU",
+    "address": "0x38ab5fbb5a9ddb0e4f5d441a12742ae6425dd3060b1ef80c53d22f24f6e0ede1::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8a814a826e9e29777a4874abc5007560052ef39a236373795cf741113c8a228c::uni::UNI": {
+    "ticker": "UNI",
+    "name": "Sui Founders Dog",
+    "icon": "https://images.hop.ag/ipfs/QmTtssCS6nqc6Rr7oyuqCjtNPthe5RF3jeugVase7uQw59",
+    "address": "0x8a814a826e9e29777a4874abc5007560052ef39a236373795cf741113c8a228c::uni::UNI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4b39a93c6f46a876d86f5e967fc8f680fade10293f970aea998fe13946d39bb6::jugo::JUGO": {
+    "ticker": "JUGO",
+    "name": "Jugo",
+    "icon": "https://images.hop.ag/ipfs/Qmf1J2N3PkmFogopZZK8UYiTw5TFUd4uzrpcKSmRgnFMrQ",
+    "address": "0x4b39a93c6f46a876d86f5e967fc8f680fade10293f970aea998fe13946d39bb6::jugo::JUGO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf77b745efcdbb2f266b3552637c93f050be22a3eb186c450cb4861ae8b684f63::suicat::SUICAT": {
+    "ticker": "suicat",
+    "name": "suicat",
+    "icon": "https://images.hop.ag/ipfs/QmQnbVQ6ft5A9xvRzbcuBHnvvtqbi5V7HpvpFU9zygLvSa",
+    "address": "0xf77b745efcdbb2f266b3552637c93f050be22a3eb186c450cb4861ae8b684f63::suicat::SUICAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcca2f80561ed91585313340a7bf5a9c59ff6c73c6e610e8fbfbaf40b1f7ec8e0::hippo::HIPPO": {
+    "ticker": "HIPPO",
+    "name": "sudeng",
+    "icon": "https://images.hop.ag/ipfs/QmZSsgvbAXhXFBHo4wj9jchdfNhFmLWuHMjkFUcSRXbqup",
+    "address": "0xcca2f80561ed91585313340a7bf5a9c59ff6c73c6e610e8fbfbaf40b1f7ec8e0::hippo::HIPPO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x312bb4ede6409a35027f0f6313b0b58fb91086a92b57183e689bc5e7edc2d733::color::COLOR": {
+    "ticker": "Color",
+    "name": "Sui Color",
+    "icon": "https://images.hop.ag/ipfs/QmP5okeHmsKCLkWAbWA3C34BPcqUDRWvPYDyLXVTPuEFWL",
+    "address": "0x312bb4ede6409a35027f0f6313b0b58fb91086a92b57183e689bc5e7edc2d733::color::COLOR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xeb44d070a535e3d2e3daf467b60cfbdc5782d5d3cff823f3596a83162c8c3946::peanut::PEANUT": {
+    "ticker": "peanut ",
+    "name": "peanut",
+    "icon": "https://images.hop.ag/ipfs/QmPAo1rx8PpMhqe1RjoK8J9TNUUn9NYyxVKsVzZWMmE4bP",
+    "address": "0xeb44d070a535e3d2e3daf467b60cfbdc5782d5d3cff823f3596a83162c8c3946::peanut::PEANUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2178b6489dea4f059da3d1c0f442317cff0091f024cb5ef10add592153151eb6::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmbHZYAZM57G6qQz38YJaGhL8NsF3xvMEt7u3hacEJC8Jq",
+    "address": "0x2178b6489dea4f059da3d1c0f442317cff0091f024cb5ef10add592153151eb6::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0f66680756e9ca86549d3906e4094408f5a9a0abdf9c7d9371feef986d7cd015::hippo::HIPPO": {
+    "ticker": "HIPPO",
+    "name": "sudeng",
+    "icon": "https://images.hop.ag/ipfs/QmTQsPbCirNbwYkMho3V32nkzA6Utxs5rFTrEbipmBnhft",
+    "address": "0x0f66680756e9ca86549d3906e4094408f5a9a0abdf9c7d9371feef986d7cd015::hippo::HIPPO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcbf8738afe79f682023a8b86e6fc0be1f80f9f04dc172f5f6cb963637d70fca7::lmsh::LMSH": {
+    "ticker": "LMSH",
+    "name": "Lets Make Sui Hob Again",
+    "icon": "https://images.hop.ag/ipfs/QmUw5T6gKUTAuZu8seyWHAQtdWZJ3hdBEQKqy6AzcgHRvt",
+    "address": "0xcbf8738afe79f682023a8b86e6fc0be1f80f9f04dc172f5f6cb963637d70fca7::lmsh::LMSH",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xeba0a0e113fee87d3f2fca4c1ac5cc863eaee1e80b20c7d4fb31274ef78b93f4::trump::TRUMP": {
+    "ticker": "$Trump",
+    "name": "Donald trump",
+    "icon": "https://images.hop.ag/ipfs/QmTQoF7XcM3tHPjMnRwd7FnBTCHwqWSpkrnrpaASthxFU2",
+    "address": "0xeba0a0e113fee87d3f2fca4c1ac5cc863eaee1e80b20c7d4fb31274ef78b93f4::trump::TRUMP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc1ef630eea371735ebe514e634ba9e97a2a41ed163f2e3d9726747d3e5efac68::migo::MIGO": {
+    "ticker": "Migo",
+    "name": "Amigos",
+    "icon": "https://images.hop.ag/ipfs/QmXQJRsvAxiLHmv21kdwCEF6vyzWXiVJv1oV84cPUUpa9P",
+    "address": "0xc1ef630eea371735ebe514e634ba9e97a2a41ed163f2e3d9726747d3e5efac68::migo::MIGO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0220450ff31fff6bf50c19d44910ad75a07e5f5baad2e2386d03dff06acdaa44::hopium::HOPIUM": {
+    "ticker": "HOPIUM",
+    "name": "HOPIUM",
+    "icon": "https://images.hop.ag/ipfs/QmeSyknJVii7EtLft5ZnQEgiQAM9TvZvwFHgHLp54dmHtR",
+    "address": "0x0220450ff31fff6bf50c19d44910ad75a07e5f5baad2e2386d03dff06acdaa44::hopium::HOPIUM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5c4033c2c6012e53f35de934e6a8485d971b2838c35ef8cd9500bce0aaac3d21::siu::SIU": {
+    "ticker": "SIU",
+    "name": "SIU",
+    "icon": "https://images.hop.ag/ipfs/QmWtAVBvGGHAyDq8Lyb2tTSBptFAdqRRsvxBNsFJMsoAPA",
+    "address": "0x5c4033c2c6012e53f35de934e6a8485d971b2838c35ef8cd9500bce0aaac3d21::siu::SIU",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb9ae259693607f2f5f15331f144afc62434282a69e95288e63eb4a1b67a8d865::swoop::SWOOP": {
+    "ticker": "$Swoop",
+    "name": "Swoop",
+    "icon": "https://images.hop.ag/ipfs/QmXHzRikJ9VzUBwjr61nJaDsSXQyAnhuwuZgoKSVGaK1wE",
+    "address": "0xb9ae259693607f2f5f15331f144afc62434282a69e95288e63eb4a1b67a8d865::swoop::SWOOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc40a834debb557bff3654011b651564dff76d0d9b76d1e811fd339c3dea747df::test::TEST": {
+    "ticker": "TEST",
+    "name": "TEST",
+    "icon": "https://images.hop.ag/ipfs/QmcSDW1ETVsNnDoH9rNv4cCXUKNNFkwY9aum9C7DwHEqKi",
+    "address": "0xc40a834debb557bff3654011b651564dff76d0d9b76d1e811fd339c3dea747df::test::TEST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3a2fc16ace41d8e8f7e06cafcc14247a280c0733f88f84d171fba2da404e379f::hop::HOP": {
+    "ticker": "HOP",
+    "name": "HOP",
+    "icon": "https://images.hop.ag/ipfs/Qmb3jiE6CwdhupbcP1W2CSiRETFYVXofRk8ULypq3BCnRX",
+    "address": "0x3a2fc16ace41d8e8f7e06cafcc14247a280c0733f88f84d171fba2da404e379f::hop::HOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6187f8506f3a0f7aa95190fedbdc6a79b55e34921fba07bfca165d920489f718::kitty::KITTY": {
+    "ticker": "Kitty",
+    "name": "KittyCat",
+    "icon": "https://images.hop.ag/ipfs/QmPNf7yRRH3tRysSe3r3teM6P64USuk9LPbq523xiihR29",
+    "address": "0x6187f8506f3a0f7aa95190fedbdc6a79b55e34921fba07bfca165d920489f718::kitty::KITTY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf35ef74d98e181946b275c28fe2aa7a93c8afca0e520f45538d5a273eef468de::happy::HAPPY": {
+    "ticker": "HAPPY",
+    "name": "HAPPY",
+    "icon": "https://images.hop.ag/ipfs/QmXF6bpU6CdL8BFKY9XnCX8x6tqJNWrsRSnbgNN1wZuAx7",
+    "address": "0xf35ef74d98e181946b275c28fe2aa7a93c8afca0e520f45538d5a273eef468de::happy::HAPPY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x25a1db6fb543db366097aca1bf5a949536a58835837262cfa79ae4068ede8a72::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/QmbFzA2pwoSSjs1hr9a5z8p44eb2yAUF47TFpARHUu1orZ",
+    "address": "0x25a1db6fb543db366097aca1bf5a949536a58835837262cfa79ae4068ede8a72::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf395645ba076c43970796fefe1d22cef496bf714d077844d1034c9c71c770041::pnut::PNUT": {
+    "ticker": "PNUT",
+    "name": "Peanut",
+    "icon": "https://images.hop.ag/ipfs/QmPAo1rx8PpMhqe1RjoK8J9TNUUn9NYyxVKsVzZWMmE4bP",
+    "address": "0xf395645ba076c43970796fefe1d22cef496bf714d077844d1034c9c71c770041::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x704c08fd53e76585fed40defca833bea8c56bda177152f3687cc104425e29093::swoop::SWOOP": {
+    "ticker": "Swoop",
+    "name": "Swoop",
+    "icon": "https://images.hop.ag/ipfs/QmYGcjMQEVqv5DnLNKKH4gYuLi457vheuadKYpgbFhCN4a",
+    "address": "0x704c08fd53e76585fed40defca833bea8c56bda177152f3687cc104425e29093::swoop::SWOOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7d006a3536790e555d96b4cb3639c8fcb1088a83846890829fa5aaa55f320326::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmPncTECroMSa7Jxth4R69QNWwssKFFLrQ5Nvh3rFqBiJP",
+    "address": "0x7d006a3536790e555d96b4cb3639c8fcb1088a83846890829fa5aaa55f320326::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc46fe7c7642ab0135543528fe2f483e97e825a72e1e38c4a625ce827034256df::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+    "address": "0xc46fe7c7642ab0135543528fe2f483e97e825a72e1e38c4a625ce827034256df::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0298ecface4c8c7c2561ff251e9c6c1c0f3a6cfa7ecc3d16c929d1717d7980f2::trm::TRM": {
+    "ticker": "trm",
+    "name": "trump",
+    "icon": "https://images.hop.ag/ipfs/QmVU9jhfdyAVZkchT6Kb4bfT4jdjehHAfsYzmpAR3ZSt7w",
+    "address": "0x0298ecface4c8c7c2561ff251e9c6c1c0f3a6cfa7ecc3d16c929d1717d7980f2::trm::TRM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdd4e4cbca55e0100a614a0bb8ac54e1c84866c3547a23d6b04299797c83b635f::papa::PAPA": {
+    "ticker": "papa",
+    "name": "papa",
+    "icon": "https://images.hop.ag/ipfs/QmQLg1baonXESU5sGwQX7BV3BsertZn9JfASGNKhSTwRQJ",
+    "address": "0xdd4e4cbca55e0100a614a0bb8ac54e1c84866c3547a23d6b04299797c83b635f::papa::PAPA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x68efdc04bcbc10712447c359280bfab4fa7ed97fe2bc112621e32309b5e088b6::pnut::PNUT": {
+    "ticker": "PNUT",
+    "name": "Peanut",
+    "icon": "https://images.hop.ag/ipfs/QmT8Zmj2bxeoHmJWKfcZnPGBvL1mVBJtvF58TU9ymuph2A",
+    "address": "0x68efdc04bcbc10712447c359280bfab4fa7ed97fe2bc112621e32309b5e088b6::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2bb012eac3a6aae4964f4a96fd09687172b98d96338aed127fc406bb460a06b1::milady::MILADY": {
+    "ticker": "milady",
+    "name": "milady",
+    "icon": "https://images.hop.ag/ipfs/QmS8tJUtwo8WPzpVSvazPuvDBxNvcHmQPQgfZYKAPZzALE",
+    "address": "0x2bb012eac3a6aae4964f4a96fd09687172b98d96338aed127fc406bb460a06b1::milady::MILADY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa866581c68a353b8112510c43f86bb67856c850b488819aea6cf0c2f2b0a6834::toast::TOAST": {
+    "ticker": "TOAST",
+    "name": "HOP TOAST CAT",
+    "icon": "https://images.hop.ag/ipfs/QmVLxXBdm3ijhZ3mEQZtaX8H3H6SgZdRyCfDfjurndQmHP",
+    "address": "0xa866581c68a353b8112510c43f86bb67856c850b488819aea6cf0c2f2b0a6834::toast::TOAST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe634e37136cc9e14469f099b469725912cfbfe7b551fb29fea6735e9a48720f0::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "HOPCAT",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0xe634e37136cc9e14469f099b469725912cfbfe7b551fb29fea6735e9a48720f0::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x90956b47b4f600dedbc75b0396256b65bb498778871b1533cac14ab440995536::nymph::NYMPH": {
+    "ticker": "NYMPH",
+    "name": "Sui Nymph",
+    "icon": "https://images.hop.ag/ipfs/QmPcVkn5cuLsExwbyBbsBbzZBtjoPLAM6QKDECenQAv2hF",
+    "address": "0x90956b47b4f600dedbc75b0396256b65bb498778871b1533cac14ab440995536::nymph::NYMPH",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xac8ebfc7f4176e4805c763f00d7a0bb3fdbaf22c8a665bf503b5ac003b99b3f4::feet::FEET": {
+    "ticker": "Feet",
+    "name": "Feet JPG",
+    "icon": "https://images.hop.ag/ipfs/QmV7ssAAsbY28aLQPh4kb3rDCKAMYCFEGbM4F1LavmNsuU",
+    "address": "0xac8ebfc7f4176e4805c763f00d7a0bb3fdbaf22c8a665bf503b5ac003b99b3f4::feet::FEET",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbe54b6f79a8925c501006e2d68221d799d615baf8ea0296db60654f9adada8f4::piggy::PIGGY": {
+    "ticker": "Piggy",
+    "name": "Piggy Bank",
+    "icon": "https://images.hop.ag/ipfs/QmXtBrMNyovsXVKUi2LFEiUPYzNAJ5DsG3fetQ7HWuZzhy",
+    "address": "0xbe54b6f79a8925c501006e2d68221d799d615baf8ea0296db60654f9adada8f4::piggy::PIGGY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3daebd8e13018302a9017602980f7e512c7082f61aa018170464361d4750152d::hopunk::HOPUNK": {
+    "ticker": "HoPunk",
+    "name": "HoPunk",
+    "icon": "https://images.hop.ag/ipfs/QmQdEkttLHPfvBx7ptBhRaPKoTzAG1CUxgBqW9e8GZQWWc",
+    "address": "0x3daebd8e13018302a9017602980f7e512c7082f61aa018170464361d4750152d::hopunk::HOPUNK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x456c14348c770ec978a3da32ca1d4f19694b012230378c7c3c0948f23e134159::suiyan::SUIYAN": {
+    "ticker": "SUIYAN",
+    "name": "SUIYANCOIN",
+    "icon": "https://images.hop.ag/ipfs/QmWEV2uVXRBB4tBVoWd5s7qbeoZ6S5aVHzDoGdWpytSrBT",
+    "address": "0x456c14348c770ec978a3da32ca1d4f19694b012230378c7c3c0948f23e134159::suiyan::SUIYAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x39dbfaa18163c6586493ce7f7f1bdc75190ef98f64a00a69046d0bbd45b1f916::peanut::PEANUT": {
+    "ticker": "PEANUT",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmNWi2Hk4sPioqDx1MrkSEHVk6hLFtKnkk9Fk38UgwyN8v",
+    "address": "0x39dbfaa18163c6586493ce7f7f1bdc75190ef98f64a00a69046d0bbd45b1f916::peanut::PEANUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb121f052e505c0d4aca093fda59d61b3a23694871d38dd2335804e4971485e20::hdog::HDOG": {
+    "ticker": "HDOG",
+    "name": "HOP dog",
+    "icon": "https://images.hop.ag/ipfs/QmVAQDZHkqzaWotRwut3fjw1WAgRByiyqPVFMdWExzFExy",
+    "address": "0xb121f052e505c0d4aca093fda59d61b3a23694871d38dd2335804e4971485e20::hdog::HDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5c76d06037c5f23af4b9bf9eb814364ee9e02bb1122ede5e2b2e58804c1f33b0::bonkman::BONKMAN": {
+    "ticker": "bonkman",
+    "name": "bonkman",
+    "icon": "https://images.hop.ag/ipfs/QmWn6rXpcFnNjaZzGBaPKDz6yYqnW2H6AE82DHnUPDP4J6",
+    "address": "0x5c76d06037c5f23af4b9bf9eb814364ee9e02bb1122ede5e2b2e58804c1f33b0::bonkman::BONKMAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7f08e7a88a1e31c34b556d96a74851116e25fc3f97f9fec40c5a80264f218e76::ghost::GHOST": {
+    "ticker": "GHOST",
+    "name": "GHOSTBUSTERS",
+    "icon": "https://images.hop.ag/ipfs/QmdYVstP8gYJ9qcT6LvuNtaXUXd1oemkKPfvxi8XNBNQm9",
+    "address": "0x7f08e7a88a1e31c34b556d96a74851116e25fc3f97f9fec40c5a80264f218e76::ghost::GHOST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf05381d5c15833ddec7c4060e3b9bf3dded29cfa81d034ab0f693e68bcd9f9db::rachop::RACHOP": {
+    "ticker": "RACHOP",
+    "name": "Rachop",
+    "icon": "https://images.hop.ag/ipfs/QmcU72eDV2E2SnH9kbTTcNunjXrRUqDJBKMteLuxtJjXPt",
+    "address": "0xf05381d5c15833ddec7c4060e3b9bf3dded29cfa81d034ab0f693e68bcd9f9db::rachop::RACHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6cd11a84dd2806694370d2ff0c9a2f01da6e0a7e3d35d1ef14a28bb2d9a5059c::filigranio::FILIGRANIO": {
+    "ticker": "FILIGRANIO",
+    "name": "FILIGRANIO",
+    "icon": "https://images.hop.ag/ipfs/QmZP4hHqtgp37qrmcv5tPPAcBS4Mef9siLv6KxpQtMBtB8",
+    "address": "0x6cd11a84dd2806694370d2ff0c9a2f01da6e0a7e3d35d1ef14a28bb2d9a5059c::filigranio::FILIGRANIO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9ef51c8fe5b7f98331d5c7638c334ba0778b6e07ab030c4c52dbf7ddf16bc0ec::chop::CHOP": {
+    "ticker": "CHOP",
+    "name": "CHOP SUI",
+    "icon": "https://images.hop.ag/ipfs/QmR6qQCq4Zd5fmkLZt9uiaS9CauFVVya5iwkCGpdHRBFMA",
+    "address": "0x9ef51c8fe5b7f98331d5c7638c334ba0778b6e07ab030c4c52dbf7ddf16bc0ec::chop::CHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x52f00e0d15688d1ed29dcc74bccde9181115e8420c92ae67d870c0cee01c7930::suitama::SUITAMA": {
+    "ticker": "SUITAMA",
+    "name": "Suitama",
+    "icon": "https://images.hop.ag/ipfs/QmXDUpjaVwf6PLX4xtTK8j11ZS7CWBmSDRYgQM4PLrJLa6",
+    "address": "0x52f00e0d15688d1ed29dcc74bccde9181115e8420c92ae67d870c0cee01c7930::suitama::SUITAMA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe185b86cec4fbbae7b91344eaf0035fd3496988b7b25c85b778b316e2d073c7a::ollie::OLLIE": {
+    "ticker": "Ollie",
+    "name": "Rockstar Otter",
+    "icon": "https://images.hop.ag/ipfs/QmYfPDSwukxiDGbfiKBm1Tg7qLYJvR76Am5yUAHF2vk58Z",
+    "address": "0xe185b86cec4fbbae7b91344eaf0035fd3496988b7b25c85b778b316e2d073c7a::ollie::OLLIE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x01915890c2bb3ee12539b59a4a60ef051b339fc27fd27f866bb6d8ad828562ca::suno::SUNO": {
+    "ticker": "SUNO",
+    "name": "Sui Suno",
+    "icon": "https://images.hop.ag/ipfs/QmTSvUQgiHa3HbDRN4BxSA1Jfi1LzTMCpdPMj2BB7bhKjz",
+    "address": "0x01915890c2bb3ee12539b59a4a60ef051b339fc27fd27f866bb6d8ad828562ca::suno::SUNO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe1c47393d16dcb2a300ad4675c4c1c24f8f5a85840c0313a61191b4fca491a1a::pnut::PNUT": {
+    "ticker": "PNUT",
+    "name": "Penut",
+    "icon": "https://images.hop.ag/ipfs/QmNg6ALyfsiLZPnkFBjhwN8LGxv9gEanrZTHwvSc9EdwPL",
+    "address": "0xe1c47393d16dcb2a300ad4675c4c1c24f8f5a85840c0313a61191b4fca491a1a::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x40e5745dc262b3fad8de972eb34d1deeacd77c020469a0eff154cd92c61818eb::suilander::SUILANDER": {
+    "ticker": "SUILANDER",
+    "name": "SuiLander",
+    "icon": "https://images.hop.ag/ipfs/QmRLjAX2Fdue4K95hT6EBpBwMpZHZx5qP77upYS9K9W6Ci",
+    "address": "0x40e5745dc262b3fad8de972eb34d1deeacd77c020469a0eff154cd92c61818eb::suilander::SUILANDER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8e24e6a99f1d7a7ad03dd17e2cc564cfea222f2c54fbbd8cbf119e587a523896::cult::CULT": {
+    "ticker": "CULT",
+    "name": "NOT A CULT",
+    "icon": "https://images.hop.ag/ipfs/QmT2tzsVVnU6uMYHQL5GHLZfkp9Yw3rB51agq5VkXr9Cpa",
+    "address": "0x8e24e6a99f1d7a7ad03dd17e2cc564cfea222f2c54fbbd8cbf119e587a523896::cult::CULT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xee95161bd81f6476a9bac0c92da54c14e208ec8356893c2e24e23df08883e2c2::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "Hop Dog",
+    "icon": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "address": "0xee95161bd81f6476a9bac0c92da54c14e208ec8356893c2e24e23df08883e2c2::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x959f6228db998ee11e2f11c494f506a70bff6aa60d7cbdcda3176f6eaee069f1::suipepe::SUIPEPE": {
+    "ticker": "$SUIPEPE",
+    "name": "PEPEONSUI",
+    "icon": "https://images.hop.ag/ipfs/QmYbHdJKxc9PH64HkFeidzwDGpCRXECLPS1kwLYRQoXBQF",
+    "address": "0x959f6228db998ee11e2f11c494f506a70bff6aa60d7cbdcda3176f6eaee069f1::suipepe::SUIPEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4c0b496f07ba0ead086698069e32e31b249b5c2e671ef1067a19f945717e7b73::hopium::HOPIUM": {
+    "ticker": "hopium",
+    "name": "hopium",
+    "icon": "https://images.hop.ag/ipfs/QmTqZ1Kw82amoD575LSGhVf5sXtdpYhxs7HrBDV96Ld249",
+    "address": "0x4c0b496f07ba0ead086698069e32e31b249b5c2e671ef1067a19f945717e7b73::hopium::HOPIUM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x47f6e1cfd76de9161ac323e1ef0ef40dde538c2b3b42bab41b2b280d0cffc49d::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "HOPDOG",
+    "icon": "https://images.hop.ag/ipfs/QmcQeLSr4LME24GRTpS5kpt5hpwPi6vEHVYeZegkFdU232",
+    "address": "0x47f6e1cfd76de9161ac323e1ef0ef40dde538c2b3b42bab41b2b280d0cffc49d::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5f0d9413a0efe838ddac77b2134d0aef73b61446f388b89885aa47df88f7be19::pnut::PNUT": {
+    "ticker": "PNUT",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmPncTECroMSa7Jxth4R69QNWwssKFFLrQ5Nvh3rFqBiJP",
+    "address": "0x5f0d9413a0efe838ddac77b2134d0aef73b61446f388b89885aa47df88f7be19::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0ee2ddff21c6171cbdd8b26a547f8cfc4442797e2aa14132735df4b82f27be0d::owl::OWL": {
+    "ticker": "OWL",
+    "name": "HOPOWL",
+    "icon": "https://images.hop.ag/ipfs/QmSZ7xkgG9V8bVAr1pC4uwSBvgrSMxdSNAHaw1uoN3KNKd",
+    "address": "0x0ee2ddff21c6171cbdd8b26a547f8cfc4442797e2aa14132735df4b82f27be0d::owl::OWL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xac2b974b379896f8429f5911391408b5a85b2438293c8c96a60071ef82839ad9::spup::SPUP": {
+    "ticker": "spup",
+    "name": "seal pup",
+    "icon": "https://images.hop.ag/ipfs/QmSwqazGiAVe4BfFqbmDEq4ZRABgjK41VB9LXioY8BEDVA",
+    "address": "0xac2b974b379896f8429f5911391408b5a85b2438293c8c96a60071ef82839ad9::spup::SPUP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x17583d7125bf5825256af92564f3c28fe80d09257c18805abbe4ec08afb5f3c3::rabbit::RABBIT": {
+    "ticker": "Rabbit",
+    "name": "Rabbit",
+    "icon": "https://images.hop.ag/ipfs/QmTjuY6xdMyp96JdLEuU9MgvmUfSf34p5zhEXAbVrW1Z2S",
+    "address": "0x17583d7125bf5825256af92564f3c28fe80d09257c18805abbe4ec08afb5f3c3::rabbit::RABBIT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0fc34bb1abad3da4433e7450d7723e61e28905b801dede8abf8c28d120ff5e61::ghost::GHOST": {
+    "ticker": "GHOST",
+    "name": "GHOSTBUSTERS",
+    "icon": "https://images.hop.ag/ipfs/QmdYVstP8gYJ9qcT6LvuNtaXUXd1oemkKPfvxi8XNBNQm9",
+    "address": "0x0fc34bb1abad3da4433e7450d7723e61e28905b801dede8abf8c28d120ff5e61::ghost::GHOST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xba25c11b32159ecc215bd67a85ef2ae00edf1d278ad04198ffa6aae2c09bc12e::xai::XAI": {
+    "ticker": "XAI",
+    "name": "Xai Memes",
+    "icon": "https://images.hop.ag/ipfs/QmXVRmyotXfz5zSNmSM6Ao4qmmsry9CF5fsowYzZHxgSvP",
+    "address": "0xba25c11b32159ecc215bd67a85ef2ae00edf1d278ad04198ffa6aae2c09bc12e::xai::XAI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8b7aa115daaa980ac5476944d3971bce9731bc02380d2039f1bfb402fffa0fce::beluga::BELUGA": {
+    "ticker": "$BELUGA",
+    "name": "BELUGA",
+    "icon": "https://images.hop.ag/ipfs/QmenaDAB4AqadRUbwnigf7oJA7A5e9bS3YnZY6gfc1XUX3",
+    "address": "0x8b7aa115daaa980ac5476944d3971bce9731bc02380d2039f1bfb402fffa0fce::beluga::BELUGA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x607e010aa30291b1f6e96d53293b76c8a081488ca0d18cbdfa9bbe5a1720ff3d::suipe::SUIPE": {
+    "ticker": "SUIPE",
+    "name": "PEPE ON SUI",
+    "icon": "https://images.hop.ag/ipfs/QmRxbiTGcMUYKGZaKPZSLFSSKUNebRcQ5PEvQ1oqtkUGBF",
+    "address": "0x607e010aa30291b1f6e96d53293b76c8a081488ca0d18cbdfa9bbe5a1720ff3d::suipe::SUIPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x01de2b217167ab938ffd90692d9829273a080f035a5a27483ee12035691b85b8::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "HOPDOG",
+    "icon": "https://images.hop.ag/ipfs/QmQcWxSv4KMRKz5uhZgGAuiB3iK6VKcTio9r1wzAiaZk99",
+    "address": "0x01de2b217167ab938ffd90692d9829273a080f035a5a27483ee12035691b85b8::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0282df8fb7bd82114c70112b4716e77f8ba7012ce448ee561f12b07fc063f55a::swoop::SWOOP": {
+    "ticker": "SWOOP",
+    "name": "Swoop 💧🐤",
+    "icon": "https://images.hop.ag/ipfs/QmYGcjMQEVqv5DnLNKKH4gYuLi457vheuadKYpgbFhCN4a",
+    "address": "0x0282df8fb7bd82114c70112b4716e77f8ba7012ce448ee561f12b07fc063f55a::swoop::SWOOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc6df34d6e9c054900db2bd959e153d9e138fe5e8933692703ef81800d50f24ee::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+    "address": "0xc6df34d6e9c054900db2bd959e153d9e138fe5e8933692703ef81800d50f24ee::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc121465afb9596e63b35c6a90a97fcd3c4d3a2545c5e656200b42dd304734a62::hopwif::HOPWIF": {
+    "ticker": "HOPWIF",
+    "name": "HOP WIF",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0xc121465afb9596e63b35c6a90a97fcd3c4d3a2545c5e656200b42dd304734a62::hopwif::HOPWIF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x32f8e88b2a8167a29c2ad2fb6e26c68d58b50b525111657baa981e3f00e7444f::fun::FUN": {
+    "ticker": "fun",
+    "name": "HFM",
+    "icon": "https://images.hop.ag/ipfs/QmSyYkjBEBJc2orzpMBQyUPTTu7yNceZTYYCZU5BuQQRvN",
+    "address": "0x32f8e88b2a8167a29c2ad2fb6e26c68d58b50b525111657baa981e3f00e7444f::fun::FUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcd049bd0d295a26f74244e16b66927e2a76b60577beb01eb0a13668382a4f1e9::migo::MIGO": {
+    "ticker": "Migo",
+    "name": "Amigos",
+    "icon": "https://images.hop.ag/ipfs/QmbX9NveFjtYhDuetVw1RAXQbQAMHpB7W5ygZ1RTTjYHed",
+    "address": "0xcd049bd0d295a26f74244e16b66927e2a76b60577beb01eb0a13668382a4f1e9::migo::MIGO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x751b0e929c0d1dd77548dc31f2e2ccca736a00c0de3d1327f193e4d7521f3f0a::face::FACE": {
+    "ticker": "FACE",
+    "name": "Suiface",
+    "icon": "https://images.hop.ag/ipfs/QmUX2VTdjCJig67wWrH5t3MVxV521cv5w1CX9jTXt6wWqs",
+    "address": "0x751b0e929c0d1dd77548dc31f2e2ccca736a00c0de3d1327f193e4d7521f3f0a::face::FACE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1ca876cee2560a929907c09892b7c413e8eaea9ca402339631b3a4f08c355d0e::hdog::HDOG": {
+    "ticker": "HDOG",
+    "name": "Hop Dog",
+    "icon": "https://images.hop.ag/ipfs/QmT1PLJWZTfZQx8qA25EgA2oRqn4ANKDdK6pseWr1Z6RXt",
+    "address": "0x1ca876cee2560a929907c09892b7c413e8eaea9ca402339631b3a4f08c355d0e::hdog::HDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8d3b159836d9e9e83766c297429bd54864010fbaaf9118d293735cb25dae3206::squi::SQUI": {
+    "ticker": "SQUI",
+    "name": "SQUI",
+    "icon": "https://images.hop.ag/ipfs/QmQzzAfNYtgLQbGEaGruS5dQnAFqGmioht1WEFVfz3rQgW",
+    "address": "0x8d3b159836d9e9e83766c297429bd54864010fbaaf9118d293735cb25dae3206::squi::SQUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd709e7e941036e2c641da126d1a9097cf065bafdf23d3ea9f162121bba04ccb9::dodo::DODO": {
+    "ticker": "dodo",
+    "name": "dodo",
+    "icon": "https://images.hop.ag/ipfs/QmR9jrTj3kUoXBRQj8i4UxxtN72hRcuWiGXRZxWUg9Tife",
+    "address": "0xd709e7e941036e2c641da126d1a9097cf065bafdf23d3ea9f162121bba04ccb9::dodo::DODO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xba2ad31440c90386d3fc18d7449e530bbeefcdef335039d23be14b324873dc6f::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/QmbFzA2pwoSSjs1hr9a5z8p44eb2yAUF47TFpARHUu1orZ",
+    "address": "0xba2ad31440c90386d3fc18d7449e530bbeefcdef335039d23be14b324873dc6f::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb28dd39e55f54e81a817dd704b29eb19117f13a6084821a8073663bd894fc775::ghost::GHOST": {
+    "ticker": "GHOST",
+    "name": "Ghostbusters",
+    "icon": "https://images.hop.ag/ipfs/QmdYVstP8gYJ9qcT6LvuNtaXUXd1oemkKPfvxi8XNBNQm9",
+    "address": "0xb28dd39e55f54e81a817dd704b29eb19117f13a6084821a8073663bd894fc775::ghost::GHOST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc8380a4398e7fbba8a583768a03a8326ab89b1ede0c77064ad7faf5eab4ab15d::squide::SQUIDE": {
+    "ticker": "Squide",
+    "name": "Squide",
+    "icon": "https://images.hop.ag/ipfs/QmSdzf5XBe6TV93XX9RX19KJqiBii5VSiNozwVqbMwzzip",
+    "address": "0xc8380a4398e7fbba8a583768a03a8326ab89b1ede0c77064ad7faf5eab4ab15d::squide::SQUIDE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb2fcc6b75c35a75ad1ffdce3aa54e9109dbc4539d027580338cd5da51d8427ef::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmaGmGXfXxwfUnn9B3HjJPdzdXPft8LhmQX18PQkk4grRb",
+    "address": "0xb2fcc6b75c35a75ad1ffdce3aa54e9109dbc4539d027580338cd5da51d8427ef::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x48026bf948bc1b07036a5dbf65dfa091e35382734593ce21a9f854ed089cd40a::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmPWFeAXhN9rnQ2ZrpdNjmVqjJugFmu9sRbmDeom65pM9X",
+    "address": "0x48026bf948bc1b07036a5dbf65dfa091e35382734593ce21a9f854ed089cd40a::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7c557acc4c7de66c5f470d38d19cbda1f4244dc2b874bc8f2edbe60fbfcd52f5::suilana::SUILANA": {
+    "ticker": "SuiLANA",
+    "name": "Sui + Solana",
+    "icon": "https://images.hop.ag/ipfs/QmWQA2U7dG7u5tz1AGabd9ZZebM6bpBvSdvpJ3yMrKtung",
+    "address": "0x7c557acc4c7de66c5f470d38d19cbda1f4244dc2b874bc8f2edbe60fbfcd52f5::suilana::SUILANA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa24794a04e68476bc8d56926423bbc5fd06059cbfc81ea20650cfcbbc2a420a6::hopcat::HOPCAT": {
+    "ticker": "Hopcat",
+    "name": "Hopcat",
+    "icon": "https://images.hop.ag/ipfs/QmRa3XL5YZQhDzQQyyEzCH1Q9aGaDEGe6N1TXkwyeNDRtP",
+    "address": "0xa24794a04e68476bc8d56926423bbc5fd06059cbfc81ea20650cfcbbc2a420a6::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x60cdfe2606bbf7f4750e241d62bf419f0a104ac0e0d990b572d427d58c4bd4ad::migo::MIGO": {
+    "ticker": "Migo",
+    "name": "Amigos",
+    "icon": "https://images.hop.ag/ipfs/QmbX9NveFjtYhDuetVw1RAXQbQAMHpB7W5ygZ1RTTjYHed",
+    "address": "0x60cdfe2606bbf7f4750e241d62bf419f0a104ac0e0d990b572d427d58c4bd4ad::migo::MIGO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7e8bb443f34987fb5c223cb251f4da6163d0c2ec5e1ceeaa8dbbee55165d4aea::sui_rock::SUI_ROCK": {
+    "ticker": "SUI ROCK",
+    "name": "SUI ROCK",
+    "icon": "https://images.hop.ag/ipfs/Qme8AVsruhVUK64ndGjkvQV8kETbDz6csMpxdCcVU3rqZX",
+    "address": "0x7e8bb443f34987fb5c223cb251f4da6163d0c2ec5e1ceeaa8dbbee55165d4aea::sui_rock::SUI_ROCK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x632b7b1a865fa5257b77bbb69cf624ef49a2d5a4e2df0956f4475d211aa5d0d1::hpos::HPOS": {
+    "ticker": "HPOS",
+    "name": "Hop piece of shit",
+    "icon": "https://images.hop.ag/ipfs/QmZbv9UGvXyY1XSL628odoQyjvJ5y7bfmwRpBCxA9T8JJD",
+    "address": "0x632b7b1a865fa5257b77bbb69cf624ef49a2d5a4e2df0956f4475d211aa5d0d1::hpos::HPOS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8808a2959c2ba0204a7b55f8eeee5a9a3235ea1869e0250caa6a79a1189ea1cc::fuckhop::FUCKHOP": {
+    "ticker": "FUCKHOP",
+    "name": "FUCK HOPFUN",
+    "icon": "https://images.hop.ag/ipfs/QmPTYzanEi2Y2jB65g44E57BqaApb21JYB4BQpuUx5HRb4",
+    "address": "0x8808a2959c2ba0204a7b55f8eeee5a9a3235ea1869e0250caa6a79a1189ea1cc::fuckhop::FUCKHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe348db5b3a57f6696077887308d774652ede5c997a20b4a6efb882f39a6e0470::rebyata::REBYATA": {
+    "ticker": "REBYATA",
+    "name": "REBYATA",
+    "icon": "https://images.hop.ag/ipfs/QmSTAter1mysVmiA9S5hkL7S7EnXqXZLVhM7C8zCL4zWkK",
+    "address": "0xe348db5b3a57f6696077887308d774652ede5c997a20b4a6efb882f39a6e0470::rebyata::REBYATA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa2b587f73b9425ba1edd034e00a4b6c044b4f836f6ffff9ad5cff9061befb26b::rex::REX": {
+    "ticker": "REX",
+    "name": "suirex",
+    "icon": "https://images.hop.ag/ipfs/QmUzqQG6zVXzQ3moLjrFhb3MnrAG2ufmKS6emzd7L2xNqn",
+    "address": "0xa2b587f73b9425ba1edd034e00a4b6c044b4f836f6ffff9ad5cff9061befb26b::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x54add2d0cf25d62c87b9c4487a385d832a5b4f84c5f879f7b84cd0a072701c6e::ghost::GHOST": {
+    "ticker": "GHOST",
+    "name": "Ghostbusters",
+    "icon": "https://images.hop.ag/ipfs/QmdYVstP8gYJ9qcT6LvuNtaXUXd1oemkKPfvxi8XNBNQm9",
+    "address": "0x54add2d0cf25d62c87b9c4487a385d832a5b4f84c5f879f7b84cd0a072701c6e::ghost::GHOST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3b7deccf9a10af8dd2445a93be9786ccde9f219a58110c7b21c4b1f38962dafa::frog::FROG": {
+    "ticker": "$FROG",
+    "name": "HopFrog",
+    "icon": "https://images.hop.ag/ipfs/QmUxugtFwfRN2WVLSW9BTrKqM9c6udo7bM7aU81NkhTcUr",
+    "address": "0x3b7deccf9a10af8dd2445a93be9786ccde9f219a58110c7b21c4b1f38962dafa::frog::FROG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x50cd383d11a0f68ff337ef7515e80b04deca653baa3f331f1daca1234fe14e02::suilander::SUILANDER": {
+    "ticker": "SUILANDER",
+    "name": "SuiLander",
+    "icon": "https://images.hop.ag/ipfs/QmRLjAX2Fdue4K95hT6EBpBwMpZHZx5qP77upYS9K9W6Ci",
+    "address": "0x50cd383d11a0f68ff337ef7515e80b04deca653baa3f331f1daca1234fe14e02::suilander::SUILANDER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x72fdf062285dba36e3fd398098d6a1dc10d3ac08ae6eeddbc2aff71417bf36e0::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmaGmGXfXxwfUnn9B3HjJPdzdXPft8LhmQX18PQkk4grRb",
+    "address": "0x72fdf062285dba36e3fd398098d6a1dc10d3ac08ae6eeddbc2aff71417bf36e0::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9a00d43703b50a88728cb3cfc43f50425d925d53c2aef92f5a581bfe30103d36::red::RED": {
+    "ticker": "RED",
+    "name": "REDACTOOR",
+    "icon": "https://images.hop.ag/ipfs/QmSzRJngYETPu6CcWCDgMTNJ8ryUiLzgoh6hSei7rjHDWK",
+    "address": "0x9a00d43703b50a88728cb3cfc43f50425d925d53c2aef92f5a581bfe30103d36::red::RED",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdd65c7896270f98f58c0857ed248b747712144986b6093427adfbc636a6a26eb::hdog::HDOG": {
+    "ticker": "Hdog",
+    "name": "Hop dog",
+    "icon": "https://images.hop.ag/ipfs/QmVNLk4MXko3CAvq5nzH6BWteAcG45vQrY5zyrkDqHWPxs",
+    "address": "0xdd65c7896270f98f58c0857ed248b747712144986b6093427adfbc636a6a26eb::hdog::HDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x59a3502c812ba9fb0489949ee9ec75112afdf932ed0a38f41567e297439c4af9::first::FIRST": {
+    "ticker": "FIRST",
+    "name": "The First",
+    "icon": "https://images.hop.ag/ipfs/QmUNzFRPW4z3yzPS1A2KX6QdEZz27GN4aH3cQZoGSvxgAA",
+    "address": "0x59a3502c812ba9fb0489949ee9ec75112afdf932ed0a38f41567e297439c4af9::first::FIRST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbe4e75216625482efa98f67747ab5ccf60997aeca7273224967b7526dcd88a93::paw::PAW": {
+    "ticker": "PAW",
+    "name": "PawPaw",
+    "icon": "https://images.hop.ag/ipfs/QmVcgt1NRcAetTi3jHvrKscfaNQ5K5jJ83CzShbFk5qtRL",
+    "address": "0xbe4e75216625482efa98f67747ab5ccf60997aeca7273224967b7526dcd88a93::paw::PAW",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb3147a972e6c5a32822be8b816b13b0a153c4d3c3e9912d80136b21cb5e7881a::ghost::GHOST": {
+    "ticker": "GHOST",
+    "name": "Ghostbusters",
+    "icon": "https://images.hop.ag/ipfs/QmdYVstP8gYJ9qcT6LvuNtaXUXd1oemkKPfvxi8XNBNQm9",
+    "address": "0xb3147a972e6c5a32822be8b816b13b0a153c4d3c3e9912d80136b21cb5e7881a::ghost::GHOST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6860961d69cca084fb334c7aaf7b83b796810d96e7bf7612a414b2b257e01829::qui::QUI": {
+    "ticker": "Qui",
+    "name": "DeSQuill",
+    "icon": "https://images.hop.ag/ipfs/QmTkVX5LCn7iCvHJTTfMQr6kb2JCJ53xGfgmChbUBdg3gG",
+    "address": "0x6860961d69cca084fb334c7aaf7b83b796810d96e7bf7612a414b2b257e01829::qui::QUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4a1f4ff537d159b7f5c9245a62948976c8b24769cf0665ab3a8043b03c67939d::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Pnut",
+    "icon": "https://images.hop.ag/ipfs/QmbsG6iwzy3ykkrRhaqd1NKFao1QK33qTG9Jt6rf1ov8sR",
+    "address": "0x4a1f4ff537d159b7f5c9245a62948976c8b24769cf0665ab3a8043b03c67939d::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x76d23d1b2d8f4f6dc3b32accae541810ab508d891ad2a30a2cd7ac157fd97bb7::suiyan::SUIYAN": {
+    "ticker": "SUIYAN",
+    "name": "SUPER SUIYAN",
+    "icon": "https://images.hop.ag/ipfs/QmbnM9L7FdGNLYgNpA6kmJw3sSf4QFRm36QEaqwmzk5Zn8",
+    "address": "0x76d23d1b2d8f4f6dc3b32accae541810ab508d891ad2a30a2cd7ac157fd97bb7::suiyan::SUIYAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbb5e262d8174fd15d31bc7aa98e2aafee11d11fedabf97973325893e4f0d06c9::hopdog::HOPDOG": {
+    "ticker": "hopdog",
+    "name": "hopdog",
+    "icon": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "address": "0xbb5e262d8174fd15d31bc7aa98e2aafee11d11fedabf97973325893e4f0d06c9::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe938675eca6a01b5a3f20ec9c5d537a3c8986438b38cc8cbc3e9ea1c9db320a9::trump::TRUMP": {
+    "ticker": "TRUMP",
+    "name": "TRUMP",
+    "icon": "https://images.hop.ag/ipfs/Qmem6Q1rCNjf32qUWmRhENBP5e86Y3prNawHSubAiUJDXj",
+    "address": "0xe938675eca6a01b5a3f20ec9c5d537a3c8986438b38cc8cbc3e9ea1c9db320a9::trump::TRUMP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x93024aeaabac6f4144f0eb6956768decfa0619d8459057db7de2b0369f4698d0::ocean::OCEAN": {
+    "ticker": "OCEAN",
+    "name": "DEEP OCEAN",
+    "icon": "https://images.hop.ag/ipfs/QmR3XipksKVPboVVBCsGp29BVm3ieXZCNaDjhMXCiMEUTA",
+    "address": "0x93024aeaabac6f4144f0eb6956768decfa0619d8459057db7de2b0369f4698d0::ocean::OCEAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2b043acefa5f2228a7cdcbe6a3f3e0a1738c31e85ee018dc9917626875eecd30::hoppy::HOPPY": {
+    "ticker": "Hoppy",
+    "name": "Hoppy",
+    "icon": "https://images.hop.ag/ipfs/QmRA9w7AGKzny9WTuMnXEWzZGzPv3yxjqNEVRgBpdGKtyF",
+    "address": "0x2b043acefa5f2228a7cdcbe6a3f3e0a1738c31e85ee018dc9917626875eecd30::hoppy::HOPPY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x764ed8bbf6bc48562964aae62d951c0de71488f9897d31cefa43232019494f01::hopless::HOPLESS": {
+    "ticker": "HOPLESS",
+    "name": "HOPLESS",
+    "icon": "https://images.hop.ag/ipfs/QmY1Zr9Wbvevjs1KC8q31PsNKUeQL3ayc5Nx63ZUZ5GFid",
+    "address": "0x764ed8bbf6bc48562964aae62d951c0de71488f9897d31cefa43232019494f01::hopless::HOPLESS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0228d4f0062b8815e3eaa0c9227ab832c4bcf1ff19332c5c354670d5138a2138::rtm::RTM": {
+    "ticker": "RTM",
+    "name": "RAMBA THE MAMBA",
+    "icon": "https://images.hop.ag/ipfs/QmQxL6ZDNgaBLoAej8qHwi6yqtTazmXmf8J7JEYj7Pp5SP",
+    "address": "0x0228d4f0062b8815e3eaa0c9227ab832c4bcf1ff19332c5c354670d5138a2138::rtm::RTM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7e1affb0f1b07585e41f1580ad78c81c71553495a12dfbec0b96db3218d2e9bd::nsui::NSUI": {
+    "ticker": "nSUI",
+    "name": "First Nigga To Launch",
+    "icon": "https://images.hop.ag/ipfs/QmWCKj4rcA3wktrD2dJ6edJBmGhvBSAxhjDsqvDbZ7FefK",
+    "address": "0x7e1affb0f1b07585e41f1580ad78c81c71553495a12dfbec0b96db3218d2e9bd::nsui::NSUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xeb8a76fac7b4df641d8d6a3670396cc9fcc8aec02af5507c0cb73fdba9ae0755::hehe::HEHE": {
+    "ticker": "HEHE",
+    "name": "HEHE",
+    "icon": "https://images.hop.ag/ipfs/QmR1Rhbs6rBpoyHsnLvmdia7JfYF4TvdfT2uL3SWJxSZWb",
+    "address": "0xeb8a76fac7b4df641d8d6a3670396cc9fcc8aec02af5507c0cb73fdba9ae0755::hehe::HEHE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc554d030985ac0306b93807343918bbd9324342505970c683ce1844c195d4890::hoppo::HOPPO": {
+    "ticker": "Hoppo",
+    "name": "Hoppopotamus",
+    "icon": "https://images.hop.ag/ipfs/QmbyWg4TzUd5SXjEXCtiuednDfKjNRSgaR9kDP4L9ZQiKs",
+    "address": "0xc554d030985ac0306b93807343918bbd9324342505970c683ce1844c195d4890::hoppo::HOPPO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9058bc23103ea6acbaab9a76b023a07361896d78610dade9068bc8a0c7089ef8::shark::SHARK": {
+    "ticker": "SHARK",
+    "name": "SHARK",
+    "icon": "https://images.hop.ag/ipfs/Qmek5ZyUAektrzmq5VynwRFirMBQUgU1StKhuDLacGgk1b",
+    "address": "0x9058bc23103ea6acbaab9a76b023a07361896d78610dade9068bc8a0c7089ef8::shark::SHARK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1bd1a24892906bda8af25997246c265ab22e345f4d5a9bbb051fd9496db1f4ee::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "HopDog",
+    "icon": "https://images.hop.ag/ipfs/QmdnryzzbKJTEYVfeaEoeXM8dBrqciyP6ec5zKKGLQVMkT",
+    "address": "0x1bd1a24892906bda8af25997246c265ab22e345f4d5a9bbb051fd9496db1f4ee::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xad060f63bbfbc3db561d6c3fc10d6d97cfa0ef3984bef1aca881cdd1fbe6dfb9::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "HOPCAT",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0xad060f63bbfbc3db561d6c3fc10d6d97cfa0ef3984bef1aca881cdd1fbe6dfb9::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbde214cfe38436b3b6ddab43a34467284a63828e486ebf1f7ba1dae1f0c3ab8c::hops::HOPS": {
+    "ticker": "HOPS",
+    "name": "HopSui",
+    "icon": "https://images.hop.ag/ipfs/Qma1AMoKVKmhqhGoWA5zqrYxojKvQUtmkE2q3YxnP1cM1k",
+    "address": "0xbde214cfe38436b3b6ddab43a34467284a63828e486ebf1f7ba1dae1f0c3ab8c::hops::HOPS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6a201a57e85c335ebacd8333d47e1ef824316dc1cb3193fe912a5860d9f9c727::billy::BILLY": {
+    "ticker": "BILLY",
+    "name": "BILLY",
+    "icon": "https://images.hop.ag/ipfs/QmTf9tGmZXAuDG5BbYNG2iDomHudQqDVdArTwhsXS4cVqU",
+    "address": "0x6a201a57e85c335ebacd8333d47e1ef824316dc1cb3193fe912a5860d9f9c727::billy::BILLY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x220d50c0397bc50533557942c89dd172b99fd18bcd89e8bda85db911be900863::hopcat::HOPCAT": {
+    "ticker": "Hopcat ",
+    "name": "Hopcat",
+    "icon": "https://images.hop.ag/ipfs/QmRa3XL5YZQhDzQQyyEzCH1Q9aGaDEGe6N1TXkwyeNDRtP",
+    "address": "0x220d50c0397bc50533557942c89dd172b99fd18bcd89e8bda85db911be900863::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdd5178392d7747041bf0c81acc1cc87058212dc4f3848db82ec1fe074f04989f::ronado::RONADO": {
+    "ticker": "RONADO",
+    "name": "CRISTIANO RONADO",
+    "icon": "https://images.hop.ag/ipfs/QmUoLjvYgpAtStgNSJW1pyR8pwFboTAjrGqeGoGvCWdbai",
+    "address": "0xdd5178392d7747041bf0c81acc1cc87058212dc4f3848db82ec1fe074f04989f::ronado::RONADO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x928d76f7c44b451762a5d297ea52acfc0269c12af68d0f6ca302c18b79196456::dodo::DODO": {
+    "ticker": "dodo",
+    "name": "dodo",
+    "icon": "https://images.hop.ag/ipfs/QmR9jrTj3kUoXBRQj8i4UxxtN72hRcuWiGXRZxWUg9Tife",
+    "address": "0x928d76f7c44b451762a5d297ea52acfc0269c12af68d0f6ca302c18b79196456::dodo::DODO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc89f362e52384c3f3d0d2e888126f8a6b9a1f7a2c93ead4b5c8d3b2651aabd3e::uni::UNI": {
+    "ticker": "UNI",
+    "name": "UNI DOG",
+    "icon": "https://images.hop.ag/ipfs/QmaDNCGSuLUqitJNugBBCMLhdmPBNFZCdhU2eSYJzixpYK",
+    "address": "0xc89f362e52384c3f3d0d2e888126f8a6b9a1f7a2c93ead4b5c8d3b2651aabd3e::uni::UNI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x65491b4efcf6161237dabffabc7fedfced2ecdb9975d136b5628e859118cb8c0::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Pnut",
+    "icon": "https://images.hop.ag/ipfs/QmbZT8enZzdJURSpWyxf6MipPM5UKRXdx93HbDQrfw1m9x",
+    "address": "0x65491b4efcf6161237dabffabc7fedfced2ecdb9975d136b5628e859118cb8c0::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf375faa0611e0ca4dcbe9926f85b81f90cef3e6f54d8fd7c9b10888408723a17::bluuuub::BLUUUUB": {
+    "ticker": "BLUUUUB",
+    "name": "BLUUUB",
+    "icon": "https://images.hop.ag/ipfs/QmcY3e7vh8uMbZrjHG9whKw22vHuAntgSFDMkUaJhm4ptU",
+    "address": "0xf375faa0611e0ca4dcbe9926f85b81f90cef3e6f54d8fd7c9b10888408723a17::bluuuub::BLUUUUB",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6753612ea8530661e8b5992f218da04320d05a112be4be65c2f19ba23f588fef::bunny::BUNNY": {
+    "ticker": "BUNNY",
+    "name": "HopBunnyonsui",
+    "icon": "https://images.hop.ag/ipfs/QmbkLAsbAgonB67EgvfWjLD4RPzyW8WZM9Jjn5qArwjQe5",
+    "address": "0x6753612ea8530661e8b5992f218da04320d05a112be4be65c2f19ba23f588fef::bunny::BUNNY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdd47fe74fbc025597dd12eda75104782e9754e5b160c9065b1dc2265087c12d6::hopcat::HOPCAT": {
+    "ticker": "HopCat",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmRa3XL5YZQhDzQQyyEzCH1Q9aGaDEGe6N1TXkwyeNDRtP",
+    "address": "0xdd47fe74fbc025597dd12eda75104782e9754e5b160c9065b1dc2265087c12d6::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3c4468980e2f97fcec59d05fe7ff0ee60a5d5a03475ce20c6f74c831a5e43dda::pepepeppe::PEPEPEPPE": {
+    "ticker": "pepepeppe",
+    "name": "pepe",
+    "icon": "https://images.hop.ag/ipfs/QmcGJRRfktkf7tEMPbbXLYJgtLtbBvqVbnwKcCXhDBv2rb",
+    "address": "0x3c4468980e2f97fcec59d05fe7ff0ee60a5d5a03475ce20c6f74c831a5e43dda::pepepeppe::PEPEPEPPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd3f1ad0947540c3c473aa60d3224aa0556ef2c9574e34b0d1c195fbf59160aa1::hopium::HOPIUM": {
+    "ticker": "HOPIUM",
+    "name": "HOPIUM",
+    "icon": "https://images.hop.ag/ipfs/QmREEmntmUqpDp8goDBjxXK5cvRiEvvnAYinj426Kes3ro",
+    "address": "0xd3f1ad0947540c3c473aa60d3224aa0556ef2c9574e34b0d1c195fbf59160aa1::hopium::HOPIUM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa950cc9fcf3e3f25f92baccb215d9f30a6a8f54b0918b4997f5eaebf8003fc7b::birds::BIRDS": {
+    "ticker": "BIRDS",
+    "name": "BIRDS",
+    "icon": "https://images.hop.ag/ipfs/QmdxvG2gowhJZZihWpPam2RHXFJE1xzyxhaDfSLRB5iH72",
+    "address": "0xa950cc9fcf3e3f25f92baccb215d9f30a6a8f54b0918b4997f5eaebf8003fc7b::birds::BIRDS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb17d58e3fd2d0bd38a65e8835bb40d7f391bfb336313dac4e751fcd5d1cbc711::cb::CB": {
+    "ticker": "CB",
+    "name": "t-CallBoyZ",
+    "icon": "https://images.hop.ag/ipfs/QmZRMjD582M84ZRZBMkmAmzXQV5vLTbLqbt7CL27nuTXYN",
+    "address": "0xb17d58e3fd2d0bd38a65e8835bb40d7f391bfb336313dac4e751fcd5d1cbc711::cb::CB",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa23874c6510cf3978068e8e71b83825c76d99d7f70ed225a5f23c7b459f0e5c6::qui::QUI": {
+    "ticker": "Qui",
+    "name": "DeSQuill",
+    "icon": "https://images.hop.ag/ipfs/QmTkVX5LCn7iCvHJTTfMQr6kb2JCJ53xGfgmChbUBdg3gG",
+    "address": "0xa23874c6510cf3978068e8e71b83825c76d99d7f70ed225a5f23c7b459f0e5c6::qui::QUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0256fb7c8e9ea6a1ac2f7c47afb7dd27ec4921644cffec9228443e55b5390e6f::bvr::BVR": {
+    "ticker": "BVR",
+    "name": "Beaver",
+    "icon": "https://images.hop.ag/ipfs/QmdASx1tdgFPMUaBim37JC9nWTmXoJg8s6Bw21px1uVDLF",
+    "address": "0x0256fb7c8e9ea6a1ac2f7c47afb7dd27ec4921644cffec9228443e55b5390e6f::bvr::BVR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd51b25c84268b5e5ed2408ec3edef40dc88068cb346feff00d4a88574aa4635f::pepe::PEPE": {
+    "ticker": "pepe",
+    "name": "SUI PEPE",
+    "icon": "https://images.hop.ag/ipfs/QmWoETfzdWpdMb9MNrttKnUx4oFPBViqYdyvXidTrQAHXZ",
+    "address": "0xd51b25c84268b5e5ed2408ec3edef40dc88068cb346feff00d4a88574aa4635f::pepe::PEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2282aa660202720edb18ead7df1377be5e39fc34cb49d11e7a415ff85f1902d8::rex::REX": {
+    "ticker": "REX",
+    "name": "SuiRex",
+    "icon": "https://images.hop.ag/ipfs/QmSdMzkyWpF9ANKt6iLFa1dYEozZfKRHcvPKHZoL3o8z5V",
+    "address": "0x2282aa660202720edb18ead7df1377be5e39fc34cb49d11e7a415ff85f1902d8::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc3308ee10abddeaedd049fa10a988ab617fc0ee2619f791b1df7945bfe20714a::hop::HOP": {
+    "ticker": "HOP",
+    "name": "HopFun",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0xc3308ee10abddeaedd049fa10a988ab617fc0ee2619f791b1df7945bfe20714a::hop::HOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd73b611673fc86567733ef272e7370fdf691091cfdc6fd1ea4bd5caca929b0d5::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "HOPCAT",
+    "icon": "https://images.hop.ag/ipfs/QmQRV3UxnBtx1SPVBAFTGgMLbuTmivEBo7B8yKiwytCJbR",
+    "address": "0xd73b611673fc86567733ef272e7370fdf691091cfdc6fd1ea4bd5caca929b0d5::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x98d2e64e2cc22b651fb64cd747b00229a4cb62c7c097492496e5e052f6f67e3f::bk::BK": {
+    "ticker": "bk",
+    "name": "bonkman",
+    "icon": "https://images.hop.ag/ipfs/QmWn6rXpcFnNjaZzGBaPKDz6yYqnW2H6AE82DHnUPDP4J6",
+    "address": "0x98d2e64e2cc22b651fb64cd747b00229a4cb62c7c097492496e5e052f6f67e3f::bk::BK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf68f206fbdb3db58efcff3637b63bd362115e5cacbc1cfb806f674ec7dcc2af2::fred::FRED": {
+    "ticker": "FRED",
+    "name": "FRED",
+    "icon": "https://images.hop.ag/ipfs/QmZ9NUcGrhdW4pNz8bMeUpYNaecPQGjCuDHc7Wxs4uPpMP",
+    "address": "0xf68f206fbdb3db58efcff3637b63bd362115e5cacbc1cfb806f674ec7dcc2af2::fred::FRED",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3cff6237ec738e85ec1781cc087090cbc3cc6ec166ac987bb737fceae14c66c7::hopium::HOPIUM": {
+    "ticker": "HOPIUM",
+    "name": "Hopium",
+    "icon": "https://images.hop.ag/ipfs/QmaTPnY8SXLci5WsaJ41cDxsLrCWy7sjTiPUVu1prs3GP7",
+    "address": "0x3cff6237ec738e85ec1781cc087090cbc3cc6ec166ac987bb737fceae14c66c7::hopium::HOPIUM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x422e45ada00fc49369187e68f238c6b490207a838deb2038cd341edb0184b231::peanut::PEANUT": {
+    "ticker": "Peanut ",
+    "name": "Peanut",
+    "icon": "https://images.hop.ag/ipfs/QmPncTECroMSa7Jxth4R69QNWwssKFFLrQ5Nvh3rFqBiJP",
+    "address": "0x422e45ada00fc49369187e68f238c6b490207a838deb2038cd341edb0184b231::peanut::PEANUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa8debf9f3ea3d26903f7f3351d0b92e2958ef75948e712e3ad30adc7fd5474e3::kenobi::KENOBI": {
+    "ticker": "Kenobi",
+    "name": "Kenobi",
+    "icon": "https://images.hop.ag/ipfs/QmP1pNBdQPGzrbyN4wUuqzSWurVGJgxhkw1KpTnsMvwGUb",
+    "address": "0xa8debf9f3ea3d26903f7f3351d0b92e2958ef75948e712e3ad30adc7fd5474e3::kenobi::KENOBI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd9ce01c774e8d2cc32c37f4e032caec60fffa126ee9199030b4df2e5407305f7::srl::SRL": {
+    "ticker": "SRL",
+    "name": "Suirrel",
+    "icon": "https://images.hop.ag/ipfs/QmWNT3jGjZFRsz7ipsNyX8gwtptujcwaxgqde2yG5RsWCo",
+    "address": "0xd9ce01c774e8d2cc32c37f4e032caec60fffa126ee9199030b4df2e5407305f7::srl::SRL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd96e6388efed3936d7eb87e56d7e0f7d79a079f4a7b8617871850d3f3c3e9a02::hopfomo::HOPFOMO": {
+    "ticker": "HOPFOMO",
+    "name": "FOMOONHOPFUN",
+    "icon": "https://images.hop.ag/ipfs/Qmatv3A9BeHuB3CZCD7saRRfeJASPfmsmhPWwuQ4KVEnQg",
+    "address": "0xd96e6388efed3936d7eb87e56d7e0f7d79a079f4a7b8617871850d3f3c3e9a02::hopfomo::HOPFOMO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc36c43fdc76a8fd5432d8437d5a61f6a800e79b26b915278b43afb395651521f::jelly::JELLY": {
+    "ticker": "JELLY",
+    "name": "Jellyfish",
+    "icon": "https://images.hop.ag/ipfs/QmdR2uB1NC5gFjMMFZXVCJbnmejCXrNWCtsu4w9HnhZJxH",
+    "address": "0xc36c43fdc76a8fd5432d8437d5a61f6a800e79b26b915278b43afb395651521f::jelly::JELLY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x58627316a410ef3b78a7f2a92952132e39113ece40b619768daa6b708c75be0e::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut",
+    "icon": "https://images.hop.ag/ipfs/QmbnhjUbZ2xop1AaCY1nPcG5YAcqJy8mMFSnj9Bbu5Ewav",
+    "address": "0x58627316a410ef3b78a7f2a92952132e39113ece40b619768daa6b708c75be0e::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x636cc3fbe001601798c0d3db0c5e4993b628a2a4923e7c81970dcdae970e1456::bk::BK": {
+    "ticker": "bk",
+    "name": "bonkman",
+    "icon": "https://images.hop.ag/ipfs/QmWn6rXpcFnNjaZzGBaPKDz6yYqnW2H6AE82DHnUPDP4J6",
+    "address": "0x636cc3fbe001601798c0d3db0c5e4993b628a2a4923e7c81970dcdae970e1456::bk::BK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4020d15dba843ad8dd7d431f1537ae2baa3f1ae7cb97a3e200a2d4610eb7b2e8::cat::CAT": {
+    "ticker": "CAT",
+    "name": "HOP CAT",
+    "icon": "https://images.hop.ag/ipfs/Qmen8LhMSiPa1Sy4VX3UjzvDY3XuRGaR2vzsQFWAHYKoyF",
+    "address": "0x4020d15dba843ad8dd7d431f1537ae2baa3f1ae7cb97a3e200a2d4610eb7b2e8::cat::CAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x686a9b2610ea994c3d0db8e6d0158d079e78a2741484e2b5b7fe4c6f56713fa6::suiamese::SUIAMESE": {
+    "ticker": "SUIAMESE",
+    "name": "SUIAMESE",
+    "icon": "https://images.hop.ag/ipfs/QmWH5eVPRXrDRZGESQugsshjC5FrFqAt67Kui6eVcL9G8h",
+    "address": "0x686a9b2610ea994c3d0db8e6d0158d079e78a2741484e2b5b7fe4c6f56713fa6::suiamese::SUIAMESE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x174f56009be0098866b7138e8ad610ac43342c2f676ab327d80d51ab4ddd135f::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Obi PNut Kenobi",
+    "icon": "https://images.hop.ag/ipfs/QmbZT8enZzdJURSpWyxf6MipPM5UKRXdx93HbDQrfw1m9x",
+    "address": "0x174f56009be0098866b7138e8ad610ac43342c2f676ab327d80d51ab4ddd135f::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcb0443cff8f6084c2af518994253e9c4cfc09491d15366461ddc607f20caa381::ocean::OCEAN": {
+    "ticker": "OCEAN",
+    "name": "DEEP OCEAN",
+    "icon": "https://images.hop.ag/ipfs/QmR3XipksKVPboVVBCsGp29BVm3ieXZCNaDjhMXCiMEUTA",
+    "address": "0xcb0443cff8f6084c2af518994253e9c4cfc09491d15366461ddc607f20caa381::ocean::OCEAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd9e58e83a8733c302853918b6cd875bb32f7c3ca92c8ea5f3ef6a13622e21686::hopmoon::HOPMOON": {
+    "ticker": "HOPMOON",
+    "name": "HOP to the MOON",
+    "icon": "https://images.hop.ag/ipfs/QmfVVYWYUPjqJEZS5qv9GKi1bhpxs54Cc8yCMHwdNz6jHe",
+    "address": "0xd9e58e83a8733c302853918b6cd875bb32f7c3ca92c8ea5f3ef6a13622e21686::hopmoon::HOPMOON",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe93a37714cff07c6fc1a4d19b1124b55ab17259c6fd375c06a18569144a7942f::ius::IUS": {
+    "ticker": "IUS",
+    "name": "IUS",
+    "icon": "https://images.hop.ag/ipfs/QmWMp5GNdW8h9RJgkrDSMbSDuQYPMop335DKr8YPCuSuP5",
+    "address": "0xe93a37714cff07c6fc1a4d19b1124b55ab17259c6fd375c06a18569144a7942f::ius::IUS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x61987c04d8db9a8005f6605de52179e324fc133e2733f44984f200fc9eb88e03::hopfun::HOPFUN": {
+    "ticker": "Hopfun",
+    "name": "Hopfun",
+    "icon": "https://images.hop.ag/ipfs/QmRsoyPX9rPxfS6WjVxBxygpJTywFMYhpt3uZ9b5wUKciZ",
+    "address": "0x61987c04d8db9a8005f6605de52179e324fc133e2733f44984f200fc9eb88e03::hopfun::HOPFUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa47519e90e68a36d78f175437915473826d38a2cc2f8731fc0e57c7d95aea4db::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+    "address": "0xa47519e90e68a36d78f175437915473826d38a2cc2f8731fc0e57c7d95aea4db::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xfd1bb9943bd6b666e1307257b1e1419f8908c0bc137a4c309e5166eaa908b0dd::hopcat::HOPCAT": {
+    "ticker": "HopCat",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0xfd1bb9943bd6b666e1307257b1e1419f8908c0bc137a4c309e5166eaa908b0dd::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xde0b6447ab3b091ce4639393fef174ae31c7fbfffd5b49fb0a99f80494264913::doghop::DOGHOP": {
+    "ticker": "DOGHOP",
+    "name": "HappyDOG",
+    "icon": "https://images.hop.ag/ipfs/QmdPryMZ2dAt6AqskqWJZ2oNvGpwDemp26ssT4Uw7sJZ3P",
+    "address": "0xde0b6447ab3b091ce4639393fef174ae31c7fbfffd5b49fb0a99f80494264913::doghop::DOGHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4e36ba46db5767172126bd29618744f974ac7f7554e50456904077f2c8f2a832::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "Hop Cat",
+    "icon": "https://images.hop.ag/ipfs/QmbyoV2waeruJkBGp4niEkgNnD2WGgDqjpgGgWK8dLU2RH",
+    "address": "0x4e36ba46db5767172126bd29618744f974ac7f7554e50456904077f2c8f2a832::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7c73dccb881dec4ade395af196c4aab432d353d5d1b73accab38cdcdbdd0f11c::hops::HOPS": {
+    "ticker": "HopS",
+    "name": "HopSoul",
+    "icon": "https://images.hop.ag/ipfs/QmTDKRGW9SF1yf5ShGVdV6Hr3AbraDP2t7oxPTEgAYgwSj",
+    "address": "0x7c73dccb881dec4ade395af196c4aab432d353d5d1b73accab38cdcdbdd0f11c::hops::HOPS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcc2fa1e12b68480419bb23b7968ff777ff8454e12265a2359dabee78983d50b3::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "hopcat",
+    "icon": "https://images.hop.ag/ipfs/QmUYrJD3CGxmvxdn6BmkiBRht3KZnrxAqWnj7fxtVB4QyW",
+    "address": "0xcc2fa1e12b68480419bb23b7968ff777ff8454e12265a2359dabee78983d50b3::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x82d3b9f9d886c6bf6671f8f8e19e13e3f4a3bca0c0daee1930d5ac7d52a697c1::hopcat::HOPCAT": {
+    "ticker": "HopCat",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmRa3XL5YZQhDzQQyyEzCH1Q9aGaDEGe6N1TXkwyeNDRtP",
+    "address": "0x82d3b9f9d886c6bf6671f8f8e19e13e3f4a3bca0c0daee1930d5ac7d52a697c1::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x71f21ebf33eac29b52c6e24177d58a6b8283c6cee4f5ee50ef0f5fbdf986a962::gud::GUD": {
+    "ticker": "GUD",
+    "name": "GUD COIN",
+    "icon": "https://images.hop.ag/ipfs/QmSbyWJn388iyGLjvKbK2nBcXtqGevcZr6YHU2xLmeWuSa",
+    "address": "0x71f21ebf33eac29b52c6e24177d58a6b8283c6cee4f5ee50ef0f5fbdf986a962::gud::GUD",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3e295b4b835496ee460a503d37f44e1696cc2d38d2c27484ae8ab542e3ce0fe1::hoprabbit::HOPRABBIT": {
+    "ticker": "HopRabbit",
+    "name": "HopRabbit",
+    "icon": "https://images.hop.ag/ipfs/QmcjJPsYoytXCn1dmZDqXuCkv8rxn8N19iY7UGMQLsB7ya",
+    "address": "0x3e295b4b835496ee460a503d37f44e1696cc2d38d2c27484ae8ab542e3ce0fe1::hoprabbit::HOPRABBIT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa8b75b04cf62cfd9656513bd74cc7abba9862272d56f144eaa9a08194844e897::pnut::PNUT": {
+    "ticker": "PNUT",
+    "name": "Peanut Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmWf2zuxzRm2F6kVzorpcV9TKtbrJ6bPKJkoA3hZDan11D",
+    "address": "0xa8b75b04cf62cfd9656513bd74cc7abba9862272d56f144eaa9a08194844e897::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7909c84b318301eec0ac363d2d0a9dc4afb95e7bc48b0dfc5161aef6a22d9532::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut",
+    "icon": "https://images.hop.ag/ipfs/QmbnhjUbZ2xop1AaCY1nPcG5YAcqJy8mMFSnj9Bbu5Ewav",
+    "address": "0x7909c84b318301eec0ac363d2d0a9dc4afb95e7bc48b0dfc5161aef6a22d9532::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1243640212f32afbf73890529cd404e6b0f63993cdb9636f7ac8d4e4f8fc1601::hopape::HOPAPE": {
+    "ticker": "HopApe",
+    "name": "HopApe",
+    "icon": "https://images.hop.ag/ipfs/QmeCQDaeW7MJoZpHHgNU3jbyrquuugPKM2DZYv5L6wLJbc",
+    "address": "0x1243640212f32afbf73890529cd404e6b0f63993cdb9636f7ac8d4e4f8fc1601::hopape::HOPAPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x336fb6bb95b6601e41a46b8fb7364e740d89ad8fbbe3e063cbd5a810389ddc40::rex::REX": {
+    "ticker": "REX",
+    "name": "suirex",
+    "icon": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+    "address": "0x336fb6bb95b6601e41a46b8fb7364e740d89ad8fbbe3e063cbd5a810389ddc40::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xeddf484e1ca2179eb9523cc003f26fd88f1a12b8c16c7c8b3c0ca89df2e32428::wrz::WRZ": {
+    "ticker": "WRZ",
+    "name": "WorlldZ",
+    "icon": "https://images.hop.ag/ipfs/QmYMUF8UshRkcepq3PByxGC9aB9Z2WvRntkDPbvtQm5fGJ",
+    "address": "0xeddf484e1ca2179eb9523cc003f26fd88f1a12b8c16c7c8b3c0ca89df2e32428::wrz::WRZ",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe9af0525761f274dc1ceb24c4dbb36a95393efc8e551b6fa5a0f322d79fc0c6b::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "HopDog",
+    "icon": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "address": "0xe9af0525761f274dc1ceb24c4dbb36a95393efc8e551b6fa5a0f322d79fc0c6b::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdb2cf357c80a0b8d8b10fff25f594e721d82548a2bcb1a1fc24d7da8a731a3a8::boi::BOI": {
+    "ticker": "boi",
+    "name": "$boi",
+    "icon": "https://images.hop.ag/ipfs/QmVKNL7YQh94J1pUzwUqg8hdg84bkLjr2HXi6CEFk1zpK4",
+    "address": "0xdb2cf357c80a0b8d8b10fff25f594e721d82548a2bcb1a1fc24d7da8a731a3a8::boi::BOI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x85245e7fc36ae68cab210fff39359c84fabc8b79370e71ce06d320b61f57d0c6::hopmoon::HOPMOON": {
+    "ticker": "HOPMOON",
+    "name": "HOP MOON",
+    "icon": "https://images.hop.ag/ipfs/QmfVVYWYUPjqJEZS5qv9GKi1bhpxs54Cc8yCMHwdNz6jHe",
+    "address": "0x85245e7fc36ae68cab210fff39359c84fabc8b79370e71ce06d320b61f57d0c6::hopmoon::HOPMOON",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4b49e232bdd1e193c1d3192547a6429cafb4047c8ddcbdd831451fe743ab3141::hop::HOP": {
+    "ticker": "HOP",
+    "name": "HOP",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0x4b49e232bdd1e193c1d3192547a6429cafb4047c8ddcbdd831451fe743ab3141::hop::HOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1788c208e0f0c3a0b9119119c7bc37069012f8528d84178b1583570c34531b48::pepe::PEPE": {
+    "ticker": "PEPE",
+    "name": "pepe",
+    "icon": "https://images.hop.ag/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+    "address": "0x1788c208e0f0c3a0b9119119c7bc37069012f8528d84178b1583570c34531b48::pepe::PEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6e5b36fb9d6502e7350e9da4c6b18eac4e00108cb17d993248c0b2001699c6f8::rachop::RACHOP": {
+    "ticker": "Rachop",
+    "name": "RachopSui",
+    "icon": "https://images.hop.ag/ipfs/QmSGQUYn4MkWnYhmmQCaf7rWtNrd4zcsRt1UWr9HFZ1Mgp",
+    "address": "0x6e5b36fb9d6502e7350e9da4c6b18eac4e00108cb17d993248c0b2001699c6f8::rachop::RACHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf58742b8df1e378d8dc6d847c6ece15beeaa7d00cb4872d8fffc4266a489972f::bruce::BRUCE": {
+    "ticker": "BRUCE",
+    "name": "Bruce the Sharky",
+    "icon": "https://images.hop.ag/ipfs/QmZQFWExhtGNwLbeR4Qpv5T6FcPRQew2WbYrh8Su82xCst",
+    "address": "0xf58742b8df1e378d8dc6d847c6ece15beeaa7d00cb4872d8fffc4266a489972f::bruce::BRUCE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x71bfbdc71303564c972a3cf666f9267c53cd27e39157acc886f42106e0c6f9b1::toad::TOAD": {
+    "ticker": "Toad",
+    "name": "BLUE TOAD",
+    "icon": "https://images.hop.ag/ipfs/QmUJbs9ahB2JLBZ5ADaggGDnJTZP3gU8ZhtXYFdZva97nP",
+    "address": "0x71bfbdc71303564c972a3cf666f9267c53cd27e39157acc886f42106e0c6f9b1::toad::TOAD",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x19fa591719f5d4988833e267f844ae9980bbfd228508a36b963990c91e6e1b8c::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+    "address": "0x19fa591719f5d4988833e267f844ae9980bbfd228508a36b963990c91e6e1b8c::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe39251444808ea8ff5f746cf4a7d4dfac808b699e03adf8495ca8d2df0d7c483::hdog::HDOG": {
+    "ticker": "HDOG",
+    "name": "HopDoge",
+    "icon": "https://images.hop.ag/ipfs/QmQ1Zdkn6oHcD84WQTSgsa4GVvnobAgnjHq5MLwT54Ubf2",
+    "address": "0xe39251444808ea8ff5f746cf4a7d4dfac808b699e03adf8495ca8d2df0d7c483::hdog::HDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x70ab8b80afef4ce52d44f8bd7936b46eb5ed7d2d12ee17bb5c4c03dcf35e7362::msi::MSI": {
+    "ticker": "msi",
+    "name": "messui",
+    "icon": "https://images.hop.ag/ipfs/QmUSNPmaR2RsHzHyeMgv4XzCrunu5RH5akyQd8nQCFdmH4",
+    "address": "0x70ab8b80afef4ce52d44f8bd7936b46eb5ed7d2d12ee17bb5c4c03dcf35e7362::msi::MSI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcf3c00eaeb7e3de07075341619351c936c9d455e4f6e93ef1d35f5b1d1d8dc62::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+    "address": "0xcf3c00eaeb7e3de07075341619351c936c9d455e4f6e93ef1d35f5b1d1d8dc62::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x99192eed432b68339d1368c9fd36e6ce3172b0ac39ef49ee08157cba7b973651::blue::BLUE": {
+    "ticker": "BLUE",
+    "name": "Sui is Blue",
+    "icon": "https://images.hop.ag/ipfs/QmTXNQMd43G96w6ugbCEeaCZEeZdKyCUFGxLjRRjAECTXB",
+    "address": "0x99192eed432b68339d1368c9fd36e6ce3172b0ac39ef49ee08157cba7b973651::blue::BLUE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe909e777e6cc3030858d88bfe901970d03cb6209a3445fdad61f4a3e7308c7c8::suibbu::SUIBBU": {
+    "ticker": "SUIBBU",
+    "name": "Suibbu The Crab",
+    "icon": "https://images.hop.ag/ipfs/QmTupQs35dErnPeKhqo7ZD5JzfWPKwv3cb4rqbpukmPTby",
+    "address": "0xe909e777e6cc3030858d88bfe901970d03cb6209a3445fdad61f4a3e7308c7c8::suibbu::SUIBBU",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4c800d296b0c419e91f5f64b3179f4210197222b9206c985da9c19f2a3b49afe::suiyan::SUIYAN": {
+    "ticker": "SUIYAN",
+    "name": "Super Suiyan",
+    "icon": "https://images.hop.ag/ipfs/QmQHXY6CFB9iCvec79J5YqUMozWzcMFuEfqYK658MuBJ2S",
+    "address": "0x4c800d296b0c419e91f5f64b3179f4210197222b9206c985da9c19f2a3b49afe::suiyan::SUIYAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd5890d08f42cce8a2186d4a5b0c3469306209af6558fc545eed4f10e718cc72b::pepe::PEPE": {
+    "ticker": "PEPE",
+    "name": "pepe",
+    "icon": "https://images.hop.ag/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+    "address": "0xd5890d08f42cce8a2186d4a5b0c3469306209af6558fc545eed4f10e718cc72b::pepe::PEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x724bc7349fc5984bfd5159fa5c9d7680a99871bc087e02a6d4256f47b5898882::sip::SIP": {
+    "ticker": "SIP",
+    "name": "SUIPEPSI",
+    "icon": "https://images.hop.ag/ipfs/QmaS9xVSRRUZAttHzzUmsy9rhnN6QD1v5QfbCpM3AR9Yas",
+    "address": "0x724bc7349fc5984bfd5159fa5c9d7680a99871bc087e02a6d4256f47b5898882::sip::SIP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9a5e61995c97c54047cc5b1ba9f33ede09f8b83b067383192cc34577944323ce::pepe::PEPE": {
+    "ticker": "PEPE",
+    "name": "PEPE",
+    "icon": "https://images.hop.ag/ipfs/QmNLswqyxnmqFFsnK9nVf6x8ht5BV6t8weiZQMJHeRw8Dc",
+    "address": "0x9a5e61995c97c54047cc5b1ba9f33ede09f8b83b067383192cc34577944323ce::pepe::PEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2db4802b9bbacba5b09e8608b073822e347df90069ef521af4603c8e5fad1977::luce::LUCE": {
+    "ticker": "LUCE",
+    "name": "Official Mascot of the Holy Year",
+    "icon": "https://images.hop.ag/ipfs/QmNzBmiH4jsj8486brCKCyb5qCu1XuJAwe4z7uBPu8RgPu",
+    "address": "0x2db4802b9bbacba5b09e8608b073822e347df90069ef521af4603c8e5fad1977::luce::LUCE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8d66961e572809bc9ebe7e5c815d245a3876f64e98ac899834d350f93e4b70e1::swojak::SWOJAK": {
+    "ticker": "SWOJAK",
+    "name": "Scuba Wojak",
+    "icon": "https://images.hop.ag/ipfs/QmZyJjJi6qZDSKv8ajBF3nZxbq3AiY67jjXGkJPffaJxRF",
+    "address": "0x8d66961e572809bc9ebe7e5c815d245a3876f64e98ac899834d350f93e4b70e1::swojak::SWOJAK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd66c2962485722dc0b66e5c04e5e1a04e31d38dfa385cc1c1cfb18fcd78a3a66::cat::CAT": {
+    "ticker": "Cat",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0xd66c2962485722dc0b66e5c04e5e1a04e31d38dfa385cc1c1cfb18fcd78a3a66::cat::CAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe5f4cc66045cd848c4f03158b0fcdc3f34632821c3ceea8186e8f41e3840910e::suirex::SUIREX": {
+    "ticker": "suirex",
+    "name": "$REX",
+    "icon": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+    "address": "0xe5f4cc66045cd848c4f03158b0fcdc3f34632821c3ceea8186e8f41e3840910e::suirex::SUIREX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x111737546136c229fc13affad74044752cabbd66ccbd4535cbbde77da8f42243::funny::FUNNY": {
+    "ticker": "FUNNY",
+    "name": "FUNNY HOP",
+    "icon": "https://images.hop.ag/ipfs/QmWmcL1puULZohnKkJVwkbdUvrpUiNVXDs1SqfoyMWKfpm",
+    "address": "0x111737546136c229fc13affad74044752cabbd66ccbd4535cbbde77da8f42243::funny::FUNNY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x92716fb26f1c1f7a49de4bff22af52ac91fadd77ad7211221205532047c67139::bb::BB": {
+    "ticker": "BB",
+    "name": "Blue Balls",
+    "icon": "https://images.hop.ag/ipfs/QmWR9cLBYcE1MFRp3YyEvHjWLe5q7qP6KPkkbJsGtfZZB3",
+    "address": "0x92716fb26f1c1f7a49de4bff22af52ac91fadd77ad7211221205532047c67139::bb::BB",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xef370a8773eb53367acb4af1d51b286c143aa57a49afe75651aaa9b5f10fd530::sdog::SDOG": {
+    "ticker": "SDOG",
+    "name": "Sui Dog Wif Hat",
+    "icon": "https://images.hop.ag/ipfs/Qmd4F8GBXDgwuWXmBoHAzSwncnbhnNGXevijZZ9QPEMdde",
+    "address": "0xef370a8773eb53367acb4af1d51b286c143aa57a49afe75651aaa9b5f10fd530::sdog::SDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd852c2a215253d5d4c1b5c444a08660cbb239c61ac601dc284cae249196d939d::sdog::SDOG": {
+    "ticker": "SDOG",
+    "name": "SUI Dog wif haglt",
+    "icon": "https://images.hop.ag/ipfs/Qmd4F8GBXDgwuWXmBoHAzSwncnbhnNGXevijZZ9QPEMdde",
+    "address": "0xd852c2a215253d5d4c1b5c444a08660cbb239c61ac601dc284cae249196d939d::sdog::SDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xfacc7fa035b257b8102763d1d862a65020ea293680c7e15a17d9e75daf7d12c4::rachop::RACHOP": {
+    "ticker": "RacHop",
+    "name": "RacHop",
+    "icon": "https://images.hop.ag/ipfs/QmSGQUYn4MkWnYhmmQCaf7rWtNrd4zcsRt1UWr9HFZ1Mgp",
+    "address": "0xfacc7fa035b257b8102763d1d862a65020ea293680c7e15a17d9e75daf7d12c4::rachop::RACHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcd4ed875925cf784baf93d8a72dbeae0d03a845cc146570bb39ece644a67a517::suicat::SUICAT": {
+    "ticker": "SUICAT",
+    "name": "SUI CAT",
+    "icon": "https://images.hop.ag/ipfs/QmbXnWcnTmsPDuXdhcyfhxxXxKS4HKGaYNYHQhX3hqbQ6f",
+    "address": "0xcd4ed875925cf784baf93d8a72dbeae0d03a845cc146570bb39ece644a67a517::suicat::SUICAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb97cef2708ca6d923f5db39c438f1df49c1c055469c4b6558b26b0a71ad5725f::chop::CHOP": {
+    "ticker": "CHOP",
+    "name": "Chop Sui",
+    "icon": "https://images.hop.ag/ipfs/Qme4mtJfcXaxR8Cw7iYxSMW5UMd5pYykbbTyzZgEjCT6Wh",
+    "address": "0xb97cef2708ca6d923f5db39c438f1df49c1c055469c4b6558b26b0a71ad5725f::chop::CHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x223d8d4676acce50e57edb9c48aca2df1c871870d6633a1b7a8e5c59ebcb6e1f::hopj::HOPJ": {
+    "ticker": "HopJ",
+    "name": "Hopthisjerks",
+    "icon": "https://images.hop.ag/ipfs/QmYM5UY4BWvkccQRTYwe5j38usBjGe7iGdZTBEVe4XRbA8",
+    "address": "0x223d8d4676acce50e57edb9c48aca2df1c871870d6633a1b7a8e5c59ebcb6e1f::hopj::HOPJ",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x25f94cc7689695cc6389fb1daefc28d418a07159a07de15421367141ac9e78c8::nuts::NUTS": {
+    "ticker": "NUTS",
+    "name": "deeez",
+    "icon": "https://images.hop.ag/ipfs/QmZwieh4F7LBqGYUE6HLqmC6HJPNtdpRjHoGjk5u7pMxW9",
+    "address": "0x25f94cc7689695cc6389fb1daefc28d418a07159a07de15421367141ac9e78c8::nuts::NUTS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5cfd8b2f1f10244d33373b07ce5b059ef5cb7af74b14d2f8dacf865775e50605::wow::WOW": {
+    "ticker": "wow",
+    "name": "wow",
+    "icon": "https://images.hop.ag/ipfs/QmQcYx6XHXSg9tPncEtHH6rJc9PkDhPTdBZQnUgd8rLUVT",
+    "address": "0x5cfd8b2f1f10244d33373b07ce5b059ef5cb7af74b14d2f8dacf865775e50605::wow::WOW",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb6ec6838d4e3c673ae78e16b528731fff6915873146810d3fe07e2891d44d6af::hehe::HEHE": {
+    "ticker": "HEHE",
+    "name": "HEHE",
+    "icon": "https://images.hop.ag/ipfs/QmR1Rhbs6rBpoyHsnLvmdia7JfYF4TvdfT2uL3SWJxSZWb",
+    "address": "0xb6ec6838d4e3c673ae78e16b528731fff6915873146810d3fe07e2891d44d6af::hehe::HEHE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc94eb248239231afc218410057f52df73636e42b14f35e28b02f5b025f6d69b8::gandon::GANDON": {
+    "ticker": "gandon",
+    "name": "gandon",
+    "icon": "https://images.hop.ag/ipfs/QmXv1HcSMWxh5g9foYs4yMrXup4VmAhrUwf8QLWbY1gXcV",
+    "address": "0xc94eb248239231afc218410057f52df73636e42b14f35e28b02f5b025f6d69b8::gandon::GANDON",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa155958ad5c9ca1632e75a0f9ae7458b636782eddffd20398a33f10bad825fea::bonkman::BONKMAN": {
+    "ticker": "BONKMAN",
+    "name": "BONKMAN",
+    "icon": "https://images.hop.ag/ipfs/Qmd9jqXeosv6cZU3orK2kw5EpMhZdR4Scuvwq3ds1rPjoV",
+    "address": "0xa155958ad5c9ca1632e75a0f9ae7458b636782eddffd20398a33f10bad825fea::bonkman::BONKMAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa476530e3c40f262b493812e56bcb253b5c085ca541f84d2cf45306235d45ac7::goat::GOAT": {
+    "ticker": "GOAT",
+    "name": "Sui GOAT",
+    "icon": "https://images.hop.ag/ipfs/QmbPR3XjpsTdzZN9i7Fa1Bp2acBmnxC5J4tK2Sf39MzEhc",
+    "address": "0xa476530e3c40f262b493812e56bcb253b5c085ca541f84d2cf45306235d45ac7::goat::GOAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe3576a72f3173d09167348258a1f39ff267615fcb1ea9fe1a9a5d08301949934::fuckhop::FUCKHOP": {
+    "ticker": "FuckHop",
+    "name": "hop dick",
+    "icon": "https://images.hop.ag/ipfs/QmUVtyA2K1SLwjvx43XoAvHFteiXbLC7RSr6ccMJbMyF1C",
+    "address": "0xe3576a72f3173d09167348258a1f39ff267615fcb1ea9fe1a9a5d08301949934::fuckhop::FUCKHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcb709905655391e363e2010df55f74a12a632053e2ed48dd2d5e6b9748877712::dragon::DRAGON": {
+    "ticker": "Dragon",
+    "name": "Totem-Dragon",
+    "icon": "https://images.hop.ag/ipfs/Qme4VYBTkrRKRD2qt29QTK5rg5h5jx9BGAcHzE2CgoUAWc",
+    "address": "0xcb709905655391e363e2010df55f74a12a632053e2ed48dd2d5e6b9748877712::dragon::DRAGON",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5d4d21ddf1aa2a79089cc0fe5e15b96bd8d4fa0272ac991e909da1393042da2f::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmPncTECroMSa7Jxth4R69QNWwssKFFLrQ5Nvh3rFqBiJP",
+    "address": "0x5d4d21ddf1aa2a79089cc0fe5e15b96bd8d4fa0272ac991e909da1393042da2f::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x71a8c329b4894f76c86c3aed0689e345033549d640a330670c46a10e2a70ae46::verse::VERSE": {
+    "ticker": "VERSE",
+    "name": "SUIVERSE",
+    "icon": "https://images.hop.ag/ipfs/QmP5yt8khqwvXUK2DDPw6joXk5L1BrXJcjrfnGfvAWXNBd",
+    "address": "0x71a8c329b4894f76c86c3aed0689e345033549d640a330670c46a10e2a70ae46::verse::VERSE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4640c793cecc315c1e66d1adcc9825639f0274f4b609e02ac449273c0af85e7c::paws::PAWS": {
+    "ticker": "PAWS",
+    "name": "PandaPaws",
+    "icon": "https://images.hop.ag/ipfs/QmeDe8Cy2kSsUa9zWuz3wt5pbpBrdysEWZBm2aGnHCmj2H",
+    "address": "0x4640c793cecc315c1e66d1adcc9825639f0274f4b609e02ac449273c0af85e7c::paws::PAWS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc52ae95fc0d0d3176998c2aace2ad76a251f98d34cd2f43e92ea33837f66abc7::sheikh::SHEIKH": {
+    "ticker": "$SHEIKH",
+    "name": "SHIEKH ZACK MORRIS",
+    "icon": "https://images.hop.ag/ipfs/QmUyRaShHAaRyZoKn2tkxgnnMa4QvQLfmkMu9bewBjaXkN",
+    "address": "0xc52ae95fc0d0d3176998c2aace2ad76a251f98d34cd2f43e92ea33837f66abc7::sheikh::SHEIKH",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x09e66b9cb979692be470168c58a65138566ba6b1e3a06150ce40e481cdbe977c::nutsui::NUTSUI": {
+    "ticker": "NUTSUI",
+    "name": "Peanut Squirrel on SUI",
+    "icon": "https://images.hop.ag/ipfs/QmPPR5ywjHCa4jz9grD86sCymCxW8DNG87ywn4RnE4pcFL",
+    "address": "0x09e66b9cb979692be470168c58a65138566ba6b1e3a06150ce40e481cdbe977c::nutsui::NUTSUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x83ce7fd0a8819c815f06823e4435c572fcf31d36dbd5f5b9325954696df4bab6::nossy::NOSSY": {
+    "ticker": "NOSSY",
+    "name": "catwifnosejob",
+    "icon": "https://images.hop.ag/ipfs/QmdQ8fAoh7yTWaydLewGcRd3b9ykCz7t6UdfhqHhVLtLPP",
+    "address": "0x83ce7fd0a8819c815f06823e4435c572fcf31d36dbd5f5b9325954696df4bab6::nossy::NOSSY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe0bb454911c926076f15fb8fcc0cb4ac16d1e3754e700d3abe867d39841abc24::trumpsui::TRUMPSUI": {
+    "ticker": "TRUMPSUI",
+    "name": "TRUMPSUI",
+    "icon": "https://images.hop.ag/ipfs/QmfQmCpSA9aZ1oDSBkcHYwJNZgNFUktLqxCzEBR2rHVkyv",
+    "address": "0xe0bb454911c926076f15fb8fcc0cb4ac16d1e3754e700d3abe867d39841abc24::trumpsui::TRUMPSUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1ee9e24487d278887dafbe1bb0cd2ae617f6afc390a19d97aeb1551e3b827ef6::xsn::XSN": {
+    "ticker": "XSN",
+    "name": "XONO",
+    "icon": "https://images.hop.ag/ipfs/QmXxcaytQghx8vJuhgJNPyCTc939NthS8zr8R4F1DFL7o4",
+    "address": "0x1ee9e24487d278887dafbe1bb0cd2ae617f6afc390a19d97aeb1551e3b827ef6::xsn::XSN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7ad0db94c830ccda11ab71a4a1ba56deca21faa43ba5f086a6d34e09b7a00d76::bonkman::BONKMAN": {
+    "ticker": "bonkman",
+    "name": "bonkman",
+    "icon": "https://images.hop.ag/ipfs/QmWn6rXpcFnNjaZzGBaPKDz6yYqnW2H6AE82DHnUPDP4J6",
+    "address": "0x7ad0db94c830ccda11ab71a4a1ba56deca21faa43ba5f086a6d34e09b7a00d76::bonkman::BONKMAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf2d0df7cc1c1f683a4d6276304ff859d6f7ce8bdead7d8854d22643102fd44d4::bunni::BUNNI": {
+    "ticker": "BUNNI",
+    "name": "Bunni",
+    "icon": "https://images.hop.ag/ipfs/QmcyG4vT1pbjTcHHVEtyCN1s6G4Sd7UEQFA7ayLUYgmMyN",
+    "address": "0xf2d0df7cc1c1f683a4d6276304ff859d6f7ce8bdead7d8854d22643102fd44d4::bunni::BUNNI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3c8d27c982b063a32f2e7fa3cc663df336b21fbd5f26e8860c1b92a267dceccb::apnut::APNUT": {
+    "ticker": "apnut",
+    "name": "armoured pnut",
+    "icon": "https://images.hop.ag/ipfs/QmQF38oVRC6JLp1dZAKXi5EtiESe4jNy2L1G7Wm6mh8iRY",
+    "address": "0x3c8d27c982b063a32f2e7fa3cc663df336b21fbd5f26e8860c1b92a267dceccb::apnut::APNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xebd3cc21316f77355cd704f11a28ded4572507e6b3de496e89f34d75f26ec3c4::hops::HOPS": {
+    "ticker": "HopS",
+    "name": "HopSoul",
+    "icon": "https://images.hop.ag/ipfs/QmTDKRGW9SF1yf5ShGVdV6Hr3AbraDP2t7oxPTEgAYgwSj",
+    "address": "0xebd3cc21316f77355cd704f11a28ded4572507e6b3de496e89f34d75f26ec3c4::hops::HOPS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd54a80ddb0490d135d05b326e4e08b747874047e5720d191b4febd634493fc83::yummy::YUMMY": {
+    "ticker": "YUMMY",
+    "name": "YummyOnSui",
+    "icon": "https://images.hop.ag/ipfs/Qmd3rykaDny8QZhWrmFvRMcmyTGSJzbmJHAiqfKKBmZFQZ",
+    "address": "0xd54a80ddb0490d135d05b326e4e08b747874047e5720d191b4febd634493fc83::yummy::YUMMY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5f29db0672874096398206c241fe5b2b56140043d16db4713b4e909823572382::luv::LUV": {
+    "ticker": "LUV",
+    "name": "Missing Luv",
+    "icon": "https://images.hop.ag/ipfs/QmUWzHyv7hnYZtyyyX8ne88huNuGuunNVKAdaXZn3t8m8S",
+    "address": "0x5f29db0672874096398206c241fe5b2b56140043d16db4713b4e909823572382::luv::LUV",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5332a42fea343f2000831653e898b626e36a03161fe85418d754e32d93756162::hop::HOP": {
+    "ticker": "HOP",
+    "name": "Hoppy",
+    "icon": "https://images.hop.ag/ipfs/QmPVm7QNhstGvhyMnKoYHXVsmuwGRcyT4riAH2Z3cr1MgG",
+    "address": "0x5332a42fea343f2000831653e898b626e36a03161fe85418d754e32d93756162::hop::HOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd8fed11cfecf4d9fa648a81ddb82e2b800d8b674d2ca741be2dca4c477d34bec::goat::GOAT": {
+    "ticker": "GOAT",
+    "name": "Goatseus Maximus",
+    "icon": "https://images.hop.ag/ipfs/Qmc8m42xdJYWrXB4DKx8Mo7BmgFGxPALqQPSccoyh18JvN",
+    "address": "0xd8fed11cfecf4d9fa648a81ddb82e2b800d8b674d2ca741be2dca4c477d34bec::goat::GOAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x27df1672f5fd2696b0fe9ae536897f724c6377d71184f7ebd2ae7c81c6b216cf::hoppussy::HOPPUSSY": {
+    "ticker": "HOPPUSSY",
+    "name": "hoppussy",
+    "icon": "https://images.hop.ag/ipfs/QmPoRLCfJUDefzMeB8CRnfxMqDfH96BuEmmSpMXQqq8DKA",
+    "address": "0x27df1672f5fd2696b0fe9ae536897f724c6377d71184f7ebd2ae7c81c6b216cf::hoppussy::HOPPUSSY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4733f8b64bd26c06b3c479bd71f4152b38d85ad5b9599af3cd3f1128ea5d546d::poring::PORING": {
+    "ticker": "PORING",
+    "name": "Poring",
+    "icon": "https://images.hop.ag/ipfs/QmUu4Yz7JM48n45Buj4aeW1kd5Ew6wKiNjfQgGsz7Z7gwK",
+    "address": "0x4733f8b64bd26c06b3c479bd71f4152b38d85ad5b9599af3cd3f1128ea5d546d::poring::PORING",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x04fc571b6b280bc652aa14231178d6db1c3f9d1269b8642b8567b84f81e332f0::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "HopCat",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0x04fc571b6b280bc652aa14231178d6db1c3f9d1269b8642b8567b84f81e332f0::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1d61730a419d1cdc0ddd6bb345a76c9ba9853732918cedccc4505989be8f8490::hopfun::HOPFUN": {
+    "ticker": "HOPFUN",
+    "name": "HopFun",
+    "icon": "https://images.hop.ag/ipfs/QmasV1aD6bC7yGm3bqAEJWXT5uiSQsQqcZvx1PdA1jUoCU",
+    "address": "0x1d61730a419d1cdc0ddd6bb345a76c9ba9853732918cedccc4505989be8f8490::hopfun::HOPFUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xaf0af4aa4de8c5b2db97996946075ec62e2e38e055cc5f5c1791348194a9da0c::degen::DEGEN": {
+    "ticker": "$Degen",
+    "name": "Sui degen Apes",
+    "icon": "https://images.hop.ag/ipfs/QmYeV5vyP5ePiWtDZAZWY2dUHBY3qc1FXtETUArGhY5uYi",
+    "address": "0xaf0af4aa4de8c5b2db97996946075ec62e2e38e055cc5f5c1791348194a9da0c::degen::DEGEN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc29fd16450a13be5ac505515c5b569b33bdaa10f259a2eeae1a71a0d679d6670::hpf::HPF": {
+    "ticker": "HPF",
+    "name": "Hopfun",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0xc29fd16450a13be5ac505515c5b569b33bdaa10f259a2eeae1a71a0d679d6670::hpf::HPF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbdae394b9adea9676ecf4c2fe098a322f06919e1c51d5327a6e0606ea3aaf719::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmQUAM2io5bgcf1LU8ocEhwnp11p318nPxrQQcNBXHPq2d",
+    "address": "0xbdae394b9adea9676ecf4c2fe098a322f06919e1c51d5327a6e0606ea3aaf719::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8ba7b4dc853d243d2118b395f1319a8e0de09cea487a1a74fef3f63173308a11::dik::DIK": {
+    "ticker": "$Dik",
+    "name": "Dog In Kimono",
+    "icon": "https://images.hop.ag/ipfs/QmZsaDzbPs5NbGCRkN2HhnnBEavmDviESkxWYJbcVXPitY",
+    "address": "0x8ba7b4dc853d243d2118b395f1319a8e0de09cea487a1a74fef3f63173308a11::dik::DIK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x79ebdb4563c3de2d660899651fa2beea321dbc764af6caf1586e90d52e489271::suit::SUIT": {
+    "ticker": "SUIT",
+    "name": "SUITARDIO",
+    "icon": "https://images.hop.ag/ipfs/Qman7tyZQTrW7fZDJ4xPxRtE6sEy7eipTKnGwAMgt56mAM",
+    "address": "0x79ebdb4563c3de2d660899651fa2beea321dbc764af6caf1586e90d52e489271::suit::SUIT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x744cdf261a4cb78d982b38d46a7e0d6900633a829a042651bfa43a5c86456629::hfish::HFISH": {
+    "ticker": "HFISH",
+    "name": "HOP FISH",
+    "icon": "https://images.hop.ag/ipfs/QmWJJR8B1qXzo6FpAq4YGtPKYBNZWFA4AqZdrSPVZSBUJs",
+    "address": "0x744cdf261a4cb78d982b38d46a7e0d6900633a829a042651bfa43a5c86456629::hfish::HFISH",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1481f80d016da65f64a6008d6314cf918335e13c46c53adee48d4995b05e61bc::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Obi PNut Kenobi",
+    "icon": "https://images.hop.ag/ipfs/QmbZT8enZzdJURSpWyxf6MipPM5UKRXdx93HbDQrfw1m9x",
+    "address": "0x1481f80d016da65f64a6008d6314cf918335e13c46c53adee48d4995b05e61bc::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0e6469f65bcdc68a1f822bd74a29de93adcf6585fe46524cb1ee122bab80a3aa::notfun::NOTFUN": {
+    "ticker": "NOTFUN",
+    "name": "HOP_NOT_FUN",
+    "icon": "https://images.hop.ag/ipfs/QmfVjjkcGghv6gKJCqdib7dUcFDbvjx4n7inJaRMykaVdf",
+    "address": "0x0e6469f65bcdc68a1f822bd74a29de93adcf6585fe46524cb1ee122bab80a3aa::notfun::NOTFUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2eca8de7f34403a6a279ce0719e8301f4416279a7bf0b0cb7a3c88b02a53770a::dragon::DRAGON": {
+    "ticker": "Dragon",
+    "name": "Totem-Dragon",
+    "icon": "https://images.hop.ag/ipfs/Qme4VYBTkrRKRD2qt29QTK5rg5h5jx9BGAcHzE2CgoUAWc",
+    "address": "0x2eca8de7f34403a6a279ce0719e8301f4416279a7bf0b0cb7a3c88b02a53770a::dragon::DRAGON",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x78fa5b1ae635dbdf6dec9fcf5e61869dbd9c3038399038a4aa0afe26a203d89f::papa::PAPA": {
+    "ticker": "PAPA",
+    "name": "Papa on sui",
+    "icon": "https://images.hop.ag/ipfs/Qma4cHoUL3SkNopMHUeC52kgemZJCaoAUP4a7zjLDf7rH2",
+    "address": "0x78fa5b1ae635dbdf6dec9fcf5e61869dbd9c3038399038a4aa0afe26a203d89f::papa::PAPA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x37a8be46dfb5bb0bbe24ecfec81d815a879f2eb4bfdd87ac19d52daa57974b55::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Obi PNut Kenobi",
+    "icon": "https://images.hop.ag/ipfs/QmbZT8enZzdJURSpWyxf6MipPM5UKRXdx93HbDQrfw1m9x",
+    "address": "0x37a8be46dfb5bb0bbe24ecfec81d815a879f2eb4bfdd87ac19d52daa57974b55::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0f3334f0844ece6df3a7c24252acf406cf57fbeb5616efca06c68d8c7124cdf2::mist::MIST": {
+    "ticker": "MIST",
+    "name": "MIST",
+    "icon": "https://images.hop.ag/ipfs/QmXfKoD1f6dLvD3iBJ4v5TnaB75bnDiuMutDnQyknmr6zE",
+    "address": "0x0f3334f0844ece6df3a7c24252acf406cf57fbeb5616efca06c68d8c7124cdf2::mist::MIST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x947fba1d02183f75de3299d90a99d5fff2ffe20a6bd8c83a161b853936aaa43a::pnut::PNUT": {
+    "ticker": "Pnut",
+    "name": "Obi PNut Kenobi",
+    "icon": "https://images.hop.ag/ipfs/QmbZT8enZzdJURSpWyxf6MipPM5UKRXdx93HbDQrfw1m9x",
+    "address": "0x947fba1d02183f75de3299d90a99d5fff2ffe20a6bd8c83a161b853936aaa43a::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6a554724498a49c35559453a7903cd7e3a522bf7ad74eac127311a1e73d679bb::dik::DIK": {
+    "ticker": "$Dik",
+    "name": "Dog In Kimono",
+    "icon": "https://images.hop.ag/ipfs/QmZsaDzbPs5NbGCRkN2HhnnBEavmDviESkxWYJbcVXPitY",
+    "address": "0x6a554724498a49c35559453a7903cd7e3a522bf7ad74eac127311a1e73d679bb::dik::DIK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc6c993b4a13c426f4430a4db3fa91c56f9ec594d326f253cdb4d98cadd16a38b::suidoku::SUIDOKU": {
+    "ticker": "SUIDOKU",
+    "name": "Suidoku",
+    "icon": "https://images.hop.ag/ipfs/QmeGwAY8xRRu4NDqCQFAjpXMckjS4HjjjjepuLjULHHyMg",
+    "address": "0xc6c993b4a13c426f4430a4db3fa91c56f9ec594d326f253cdb4d98cadd16a38b::suidoku::SUIDOKU",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xeb56b41ffe075460960c5a03ba6a5b5c210c7f58d0885a2749535efc847138e0::suina::SUINA": {
+    "ticker": "SUINA",
+    "name": "SUINA The Pig",
+    "icon": "https://images.hop.ag/ipfs/QmSAkqGpWYUMLTYGa2v6EPkGJVPM4DiMogBzUAsn6F21aG",
+    "address": "0xeb56b41ffe075460960c5a03ba6a5b5c210c7f58d0885a2749535efc847138e0::suina::SUINA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9c6a5d7d40218b5b1a8d5893075b544c47407374a1f800e0e4172b95e46b9e33::qeewwer::QEEWWER": {
+    "ticker": "QEEWWER",
+    "name": "QEEWWER",
+    "icon": "https://images.hop.ag/ipfs/QmaKAAxb9cVRwscXZhpBiQsmTjuqaVkLrXUs9jDV9txzRx",
+    "address": "0x9c6a5d7d40218b5b1a8d5893075b544c47407374a1f800e0e4172b95e46b9e33::qeewwer::QEEWWER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xee2a6e5e8a5413b71cd9cd90ccedf6a6e00217df02adf4a07bc65287ff2342cd::hophip::HOPHIP": {
+    "ticker": "HOPHIP",
+    "name": "Hop Hip",
+    "icon": "https://images.hop.ag/ipfs/QmPwgfqwdxAPAh9kkRHG6ZQ4XY2xYJr8TEzxY8kmA4h3MM",
+    "address": "0xee2a6e5e8a5413b71cd9cd90ccedf6a6e00217df02adf4a07bc65287ff2342cd::hophip::HOPHIP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdad461789a33099cd20a610c49e40c13b3d431e68e8b8e04326c16ad60b8f3e8::pac::PAC": {
+    "ticker": "$PAC",
+    "name": "PacMoon SUI",
+    "icon": "https://images.hop.ag/ipfs/QmaRFQwFAUMGZM8pGLfDm9eLBZavpWtgxTBXK9x9e5ZzLQ",
+    "address": "0xdad461789a33099cd20a610c49e40c13b3d431e68e8b8e04326c16ad60b8f3e8::pac::PAC",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xefabcce7d0aae789f7daf945d4ab23a23b81d908199fe9299e1525156938e9f2::oink::OINK": {
+    "ticker": "OINK",
+    "name": "Sui Oink",
+    "icon": "https://images.hop.ag/ipfs/QmSVLVKJgudnXQTyowHTJ8MTYV9SvtZrbVKk7QzcCFzRqh",
+    "address": "0xefabcce7d0aae789f7daf945d4ab23a23b81d908199fe9299e1525156938e9f2::oink::OINK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x05ac5e4d6453c006d6ba0a6eb3936c457c55a4991058c9447a491abe5c40e184::snut::SNUT": {
+    "ticker": "$SNUT",
+    "name": "Sui Pnut",
+    "icon": "https://images.hop.ag/ipfs/Qmbnpp7WVCfooUVPHWgQZAaPaHPDT2SpAuizdwiAiJjna4",
+    "address": "0x05ac5e4d6453c006d6ba0a6eb3936c457c55a4991058c9447a491abe5c40e184::snut::SNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x29efdd11e52333fcbb5536a5fc712bc75ac3194b5b95b4e274c6e34e730a13fe::gecko::GECKO": {
+    "ticker": "GECKO",
+    "name": "GECKO on SUI",
+    "icon": "https://images.hop.ag/ipfs/QmSff1TKR7VtLhDzUxCFS2xnLNCv8aiKeZoetM5a9dd8GR",
+    "address": "0x29efdd11e52333fcbb5536a5fc712bc75ac3194b5b95b4e274c6e34e730a13fe::gecko::GECKO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x697fc97c0de6b64510e61b11ec60a9c4205f751ed94fc6d6838c9947e6dc328e::wtef::WTEF": {
+    "ticker": "Wtef ",
+    "name": "Wojack depressed",
+    "icon": "https://images.hop.ag/ipfs/QmeSo8MBND3SfGGKpqYwCR7dktkQj92Fu3ezC2W5bToSLz",
+    "address": "0x697fc97c0de6b64510e61b11ec60a9c4205f751ed94fc6d6838c9947e6dc328e::wtef::WTEF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x25a5067fe76bd40c6cd2f7ba2a04d45477cf7a49e375e80def752ce125e624fd::lfog::LFOG": {
+    "ticker": "LFOG",
+    "name": "Light Dog",
+    "icon": "https://images.hop.ag/ipfs/QmXy5wRB1PFZqGBJCigqXdww5izCsU6DG2AuUdqJds4m7R",
+    "address": "0x25a5067fe76bd40c6cd2f7ba2a04d45477cf7a49e375e80def752ce125e624fd::lfog::LFOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x21dcbcd2ce9263efcd3696928a92373f9dd1b93bbaa06a86f04bdc0f35539f1d::moodeng::MOODENG": {
+    "ticker": "MOODENG",
+    "name": "Moo Deng",
+    "icon": "https://images.hop.ag/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
+    "address": "0x21dcbcd2ce9263efcd3696928a92373f9dd1b93bbaa06a86f04bdc0f35539f1d::moodeng::MOODENG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd7defed8761e92af73394fcd804c7be0b679b6734e32895637fa479be26f995e::fkhopfun::FKHOPFUN": {
+    "ticker": "FKHOPFUN",
+    "name": "FUCK HOPFUN",
+    "icon": "https://images.hop.ag/ipfs/QmeJTNVE4rNjHtkpua8ELKt4PjD7Rhijf468bZcy8gqw9v",
+    "address": "0xd7defed8761e92af73394fcd804c7be0b679b6734e32895637fa479be26f995e::fkhopfun::FKHOPFUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb341a7ed07449a8f86a0378f3b833eda00d973567d51dbeed92c319d66e33434::maga::MAGA": {
+    "ticker": "MAGA",
+    "name": "DonaldTrump",
+    "icon": "https://images.hop.ag/ipfs/QmdebTpGuM5H7CVH8Msy67PbgTdZ3Poz4vNbcgbwxmbuk5",
+    "address": "0xb341a7ed07449a8f86a0378f3b833eda00d973567d51dbeed92c319d66e33434::maga::MAGA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x54a779744e32118a487d71025d063c35dfb1180041127638f5e3c264bf1cc709::sui::SUI": {
+    "ticker": "SUI",
+    "name": "Soviet Union International",
+    "icon": "https://images.hop.ag/ipfs/QmbsLdRdxRWrMhrxebDqbasS4pDppP3u1THrfoEroVk6wQ",
+    "address": "0x54a779744e32118a487d71025d063c35dfb1180041127638f5e3c264bf1cc709::sui::SUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4c31cf94bef22b75517b2ad72ef384b7f0cf64497607ce4e7309191aa8f79f1c::mother::MOTHER": {
+    "ticker": "MOTHER",
+    "name": "MOTHER IGGY",
+    "icon": "https://images.hop.ag/ipfs/QmPeS4kL3Fns3714U5uZt4jQc8yeGXY1JGRHHDLATn2Ydn",
+    "address": "0x4c31cf94bef22b75517b2ad72ef384b7f0cf64497607ce4e7309191aa8f79f1c::mother::MOTHER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe8e02c6048c67dec3afa3726e40f8207635499fcbe3d5924c1df2dba28c748fc::jinbe::JINBE": {
+    "ticker": "JINBE",
+    "name": "$JINBE",
+    "icon": "https://images.hop.ag/ipfs/QmSChK2Nui2F9DjuDQASU1XAcgkcqoJ933zgbejrhohEpk",
+    "address": "0xe8e02c6048c67dec3afa3726e40f8207635499fcbe3d5924c1df2dba28c748fc::jinbe::JINBE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x187e8490e84627a8d57ddfdc090f260e3194f3a56369aa50484df69057eddb09::rex::REX": {
+    "ticker": "rex",
+    "name": "suirex",
+    "icon": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+    "address": "0x187e8490e84627a8d57ddfdc090f260e3194f3a56369aa50484df69057eddb09::rex::REX",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8bf9579b40562dd897bbcd9ab584846948184ac9a02c386820e3940eaf0ca4df::rachop::RACHOP": {
+    "ticker": "Rachop",
+    "name": "Rachopsui",
+    "icon": "https://images.hop.ag/ipfs/QmSUPaCSxT5YU6vRgwnKte1VmxHzQVTHcazNx4kwQZpk6B",
+    "address": "0x8bf9579b40562dd897bbcd9ab584846948184ac9a02c386820e3940eaf0ca4df::rachop::RACHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x6893472b18b487c8ea91ee6620689d7b8f7b132e70c8e43b1cf6e4659926963b::wst::WST": {
+    "ticker": "WST",
+    "name": "We Stand Together",
+    "icon": "https://images.hop.ag/ipfs/QmQG9P7QDw7BufufZW8r16xNRKHvReYC3Cgwgngjq4ufDH",
+    "address": "0x6893472b18b487c8ea91ee6620689d7b8f7b132e70c8e43b1cf6e4659926963b::wst::WST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x045eb84651748cc77f5f57a0a99f8892b33947ccd2c43835fb5e2f9a5b27f834::fkhopfun::FKHOPFUN": {
+    "ticker": "FKHOPFUN",
+    "name": "FUCK HOPFUN",
+    "icon": "https://images.hop.ag/ipfs/QmeJTNVE4rNjHtkpua8ELKt4PjD7Rhijf468bZcy8gqw9v",
+    "address": "0x045eb84651748cc77f5f57a0a99f8892b33947ccd2c43835fb5e2f9a5b27f834::fkhopfun::FKHOPFUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd4d7b1b2109d012a7d79d55408326b94dad86ed4f503ec00274657ad1320c5a7::wen::WEN": {
+    "ticker": "Wen",
+    "name": "Emperor Wen",
+    "icon": "https://images.hop.ag/ipfs/QmaFJxFzvkSa4JTJ63tTmWmSpPyhWhq9GJLUyve7NpeuV1",
+    "address": "0xd4d7b1b2109d012a7d79d55408326b94dad86ed4f503ec00274657ad1320c5a7::wen::WEN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x97a17493acd0a87f86b3e6343d7677a812285b0ccfdd8831a57dc966a60a94b7::rainy::RAINY": {
+    "ticker": "RAINY",
+    "name": "Rainy",
+    "icon": "https://images.hop.ag/ipfs/QmW1t9epgxG7zjUJJqUCwFhVppndPD8fR6QuSS21uUHsvz",
+    "address": "0x97a17493acd0a87f86b3e6343d7677a812285b0ccfdd8831a57dc966a60a94b7::rainy::RAINY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8dc05188d7452fcc30e34b4a7ad0154c99fc4b85808031aa6471dcba78e891be::idog::IDOG": {
+    "ticker": "idog",
+    "name": "instadog",
+    "icon": "https://images.hop.ag/ipfs/QmawnaomKYfiWaVdV8tqnDQLh3WKBRFCPEbxNWLinYJATJ",
+    "address": "0x8dc05188d7452fcc30e34b4a7ad0154c99fc4b85808031aa6471dcba78e891be::idog::IDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7617147aa3f5e1c86b329c5f945a6d735be5e3ee15dc1897d64bcc07d0d3a06e::boi::BOI": {
+    "ticker": "$BOI",
+    "name": "Boi",
+    "icon": "https://images.hop.ag/ipfs/QmVKNL7YQh94J1pUzwUqg8hdg84bkLjr2HXi6CEFk1zpK4",
+    "address": "0x7617147aa3f5e1c86b329c5f945a6d735be5e3ee15dc1897d64bcc07d0d3a06e::boi::BOI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2571d74caefb669e9f16db46dce095ca6771bb7b1dbb0edcd68969ab7a485cc0::supepe::SUPEPE": {
+    "ticker": "$SUPEPE",
+    "name": "SUI PEPE",
+    "icon": "https://images.hop.ag/ipfs/QmYZov3JKTf297uSHqgMevQZ4TJYzoUH83NhFxriq7yQWV",
+    "address": "0x2571d74caefb669e9f16db46dce095ca6771bb7b1dbb0edcd68969ab7a485cc0::supepe::SUPEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe868a2dc6fcb745345f5b8c7618b56866c8659ced912b1d126d7aea7c0b257c4::amigos::AMIGOS": {
+    "ticker": "AMIGOS",
+    "name": "Amigos",
+    "icon": "https://images.hop.ag/ipfs/QmbX9NveFjtYhDuetVw1RAXQbQAMHpB7W5ygZ1RTTjYHed",
+    "address": "0xe868a2dc6fcb745345f5b8c7618b56866c8659ced912b1d126d7aea7c0b257c4::amigos::AMIGOS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x11c1d0cfe6da6a96d007cc2d39d1cdc3eca4c7313cbe652a2384b6dfc2539600::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "HOPDOG",
+    "icon": "https://images.hop.ag/ipfs/QmZZCMGkhJwLmFRrpQiLKSHzqnRP9kgvRqbEKxBLJkpoBB",
+    "address": "0x11c1d0cfe6da6a96d007cc2d39d1cdc3eca4c7313cbe652a2384b6dfc2539600::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xadd24186047e4018ba387d5f78854477f2c2bdb5be1416fff4007f7c3e3bba58::neiro::NEIRO": {
+    "ticker": "Neiro",
+    "name": "Neiro",
+    "icon": "https://images.hop.ag/ipfs/QmYUJWWhREqjnXfuAtoeW66sEeiMUXBirbnNZ6RqK1XKsp",
+    "address": "0xadd24186047e4018ba387d5f78854477f2c2bdb5be1416fff4007f7c3e3bba58::neiro::NEIRO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe300dd5a63077e1ee302b8cb1f5ef1676a1ce45e21fefa3e54e38764df66dc8a::yarra::YARRA": {
+    "ticker": "YARRA",
+    "name": "YARRAAA",
+    "icon": "https://images.hop.ag/ipfs/QmP9GZWakzUY6sGazfQBwXoEJT4FAousRpL1RjpGoCYxiB",
+    "address": "0xe300dd5a63077e1ee302b8cb1f5ef1676a1ce45e21fefa3e54e38764df66dc8a::yarra::YARRA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe684d9e8c901c35030f4e7a9c0175f71eca65ac4689d97203556a623a54a62db::brett::BRETT": {
+    "ticker": "BRETT",
+    "name": "sui mascot",
+    "icon": "https://images.hop.ag/ipfs/QmWDYu5WFZDSfpKEFAaQw3BUDavKEoWA91E7kuTYHwNpPi",
+    "address": "0xe684d9e8c901c35030f4e7a9c0175f71eca65ac4689d97203556a623a54a62db::brett::BRETT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xfdd0ddc5096be4cbe753f5ffdb391c164992e00a1c21fedd028d2a038b2809a1::rachop::RACHOP": {
+    "ticker": "RacHop",
+    "name": "RacHop",
+    "icon": "https://images.hop.ag/ipfs/QmSGQUYn4MkWnYhmmQCaf7rWtNrd4zcsRt1UWr9HFZ1Mgp",
+    "address": "0xfdd0ddc5096be4cbe753f5ffdb391c164992e00a1c21fedd028d2a038b2809a1::rachop::RACHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x24e040e6f0f269aade7207155d26cdb7da07a0f46289a64527e63267cb1c23ca::three34::THREE34": {
+    "ticker": "334",
+    "name": "FWOG",
+    "icon": "https://images.hop.ag/ipfs/QmaSj7FAiStKkgRE1KZVmRYrN7wytKDWe3zZttUHAW6PPB",
+    "address": "0x24e040e6f0f269aade7207155d26cdb7da07a0f46289a64527e63267cb1c23ca::three34::THREE34",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb8145b6587f2b17a9b782d9eabc6001083068b34f641f88dfa0e577806c009ed::test::TEST": {
+    "ticker": "test",
+    "name": "test",
+    "icon": "https://images.hop.ag/ipfs/QmUkdBKYUp8MWVFb6RUPaZafYnvsKmrW47Aoab7J94Lz73",
+    "address": "0xb8145b6587f2b17a9b782d9eabc6001083068b34f641f88dfa0e577806c009ed::test::TEST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3fe111cdd7bc13c7d6f48fdf0b84c5bab19b635702220d07c9ed175dfdaa1a19::hopcat::HOPCAT": {
+    "ticker": "HopCAT",
+    "name": "HopCAT",
+    "icon": "https://images.hop.ag/ipfs/QmVuuFiSKSdFKUNH2c3FgeHDqmGWqakRv6Tzo263R9wvbb",
+    "address": "0x3fe111cdd7bc13c7d6f48fdf0b84c5bab19b635702220d07c9ed175dfdaa1a19::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa58539760a542fc4107adb73d2d91bdf0a9a75c2ef62544b343af7099b43281c::rachop_sui::RACHOP_SUI": {
+    "ticker": "rachop_sui",
+    "name": "rachop",
+    "icon": "https://images.hop.ag/ipfs/QmSGQUYn4MkWnYhmmQCaf7rWtNrd4zcsRt1UWr9HFZ1Mgp",
+    "address": "0xa58539760a542fc4107adb73d2d91bdf0a9a75c2ef62544b343af7099b43281c::rachop_sui::RACHOP_SUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8113ffdb18c0fe9d81f5f72d478d25643c50397b4f7e4df73bf087b0fa273799::hopecat::HOPECAT": {
+    "ticker": "Hopecat",
+    "name": "HopeCat",
+    "icon": "https://images.hop.ag/ipfs/QmZypMAezu4x4ipm3i19AjGBChe8qxbovtTM7GJ8yVAqw8",
+    "address": "0x8113ffdb18c0fe9d81f5f72d478d25643c50397b4f7e4df73bf087b0fa273799::hopecat::HOPECAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x26c671063205375267d330ed58a2c62bfc0165a9dc8802a82b99698401a5bcf6::bean::BEAN": {
+    "ticker": "BEAN",
+    "name": "Sui Bean",
+    "icon": "https://images.hop.ag/ipfs/Qmci1TMNqoHovfPdCm1mnEetb9S9XycQpT3yYmqGGCD3x1",
+    "address": "0x26c671063205375267d330ed58a2c62bfc0165a9dc8802a82b99698401a5bcf6::bean::BEAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb66a3f06aaa5204eb71c04bd9ea73794411f9c386bde587c251ca9e80071d79a::lr::LR": {
+    "ticker": "LR",
+    "name": "Landlord Ronald",
+    "icon": "https://images.hop.ag/ipfs/QmWHuuMWwCXd2ubez9Q5u1QauN2XDbu2simgin54XaSsgf",
+    "address": "0xb66a3f06aaa5204eb71c04bd9ea73794411f9c386bde587c251ca9e80071d79a::lr::LR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x709d735de93025c2289536a4b0b5d4744937486e634c25c502652d59b7a2d750::funny::FUNNY": {
+    "ticker": "$FUNNY",
+    "name": "$FUNNY Bunny",
+    "icon": "https://images.hop.ag/ipfs/QmWmcL1puULZohnKkJVwkbdUvrpUiNVXDs1SqfoyMWKfpm",
+    "address": "0x709d735de93025c2289536a4b0b5d4744937486e634c25c502652d59b7a2d750::funny::FUNNY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc98ce498cc15857665e95071e75966c48621af092413a5a7fc14fffaa50739a6::oink::OINK": {
+    "ticker": "OINK",
+    "name": "SuiOink",
+    "icon": "https://images.hop.ag/ipfs/QmSVLVKJgudnXQTyowHTJ8MTYV9SvtZrbVKk7QzcCFzRqh",
+    "address": "0xc98ce498cc15857665e95071e75966c48621af092413a5a7fc14fffaa50739a6::oink::OINK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xedd5ad84bb24fcb045ca8a8ffb60503863c4977229fc4b8cb9cf1258d5180a05::dragon::DRAGON": {
+    "ticker": "Dragon",
+    "name": "DragonBall",
+    "icon": "https://images.hop.ag/ipfs/QmfV4hUT8yxWs4wotYEUYfAh4gyfcBBHUqYgvfzVAuGRii",
+    "address": "0xedd5ad84bb24fcb045ca8a8ffb60503863c4977229fc4b8cb9cf1258d5180a05::dragon::DRAGON",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xccf0256bd92e90df640fd754e5f4f07aab11c91477d460207932d6ec98ece252::hoptr::HOPTR": {
+    "ticker": "HOPTR",
+    "name": "HOPTRUMP",
+    "icon": "https://images.hop.ag/ipfs/QmcN9sisk3LacH4UnEE9RWcJFfoVMbjSqtnR5GUpYUWESZ",
+    "address": "0xccf0256bd92e90df640fd754e5f4f07aab11c91477d460207932d6ec98ece252::hoptr::HOPTR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8d4afd8bd1783ba08f02caa4f76aea118aa9febcdfe70103f21b8abae22bec85::hnf::HNF": {
+    "ticker": "$HNF",
+    "name": "HopNOTfun",
+    "icon": "https://images.hop.ag/ipfs/QmTiNDjZ4hd1uJchrb48jEDqaZDiRNFpbfzKL3seP3so4K",
+    "address": "0x8d4afd8bd1783ba08f02caa4f76aea118aa9febcdfe70103f21b8abae22bec85::hnf::HNF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x488b22bacd390bf8663c4184d22ecdc2bdb3665abfd51636d2416907b3758e58::hopium::HOPIUM": {
+    "ticker": "HOPIUM",
+    "name": "HOPIUM",
+    "icon": "https://images.hop.ag/ipfs/QmU9QrCTAucUpYtFY3uKkE9WyVSDqoJAJDh4H2pvxoaBeS",
+    "address": "0x488b22bacd390bf8663c4184d22ecdc2bdb3665abfd51636d2416907b3758e58::hopium::HOPIUM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa7a4516b13f1200f2596ae8c8c54cf66dce04d77ac9dc13ac8dd24c9ad41df87::test::TEST": {
+    "ticker": "test",
+    "name": "test",
+    "icon": "https://images.hop.ag/ipfs/QmUkdBKYUp8MWVFb6RUPaZafYnvsKmrW47Aoab7J94Lz73",
+    "address": "0xa7a4516b13f1200f2596ae8c8c54cf66dce04d77ac9dc13ac8dd24c9ad41df87::test::TEST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2ebaee2adeb35d69b67c4be97e0f7826a476e557119eb8150d8f48d788cb6f4d::sdg::SDG": {
+    "ticker": "SDG",
+    "name": "Suidogigog",
+    "icon": "https://images.hop.ag/ipfs/Qmf6Dv1zTqzoj8kJa4G7NX2VDxNmuXkRjrmPqnTPSWrACf",
+    "address": "0x2ebaee2adeb35d69b67c4be97e0f7826a476e557119eb8150d8f48d788cb6f4d::sdg::SDG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x10a20e3c7702f8695e2695bad4dae90686b3449e7757d3c839c52f62a05c3200::spinach::SPINACH": {
+    "ticker": "SPINACH",
+    "name": "Popeye",
+    "icon": "https://images.hop.ag/ipfs/QmSdG4LtSM11izmJqLGr96PkgUjwL6NeZATfm9TD85zbv5",
+    "address": "0x10a20e3c7702f8695e2695bad4dae90686b3449e7757d3c839c52f62a05c3200::spinach::SPINACH",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2e7a242a0fb88f15067663530c089e2aca3d0b735d77467b59cc38884f605423::sink::SINK": {
+    "ticker": "Sink",
+    "name": "Sinky",
+    "icon": "https://images.hop.ag/ipfs/QmVbNVJGkpyftqjBwuxEH8RLA4uPFsUQQr7ctTVnAERrQA",
+    "address": "0x2e7a242a0fb88f15067663530c089e2aca3d0b735d77467b59cc38884f605423::sink::SINK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf4a56139e94f2ea5211e18abe04955890fa6ad276a81fe8f57624ed0299280bc::phase::PHASE": {
+    "ticker": "PHASE",
+    "name": "PHASE",
+    "icon": "https://images.hop.ag/ipfs/QmdkSLte4wYi4q4sQ8ZVTkRdPFoshigydPWA18ARdEFeQE",
+    "address": "0xf4a56139e94f2ea5211e18abe04955890fa6ad276a81fe8f57624ed0299280bc::phase::PHASE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8b579e9bfac3c80c4569f45fc6cb1b0963abc99c5bc29fca74743161ed57e7e3::hoptr::HOPTR": {
+    "ticker": "HOPTR",
+    "name": "HOPTRUMP",
+    "icon": "https://images.hop.ag/ipfs/QmcN9sisk3LacH4UnEE9RWcJFfoVMbjSqtnR5GUpYUWESZ",
+    "address": "0x8b579e9bfac3c80c4569f45fc6cb1b0963abc99c5bc29fca74743161ed57e7e3::hoptr::HOPTR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x273aa5fb15a5efe60c095501a0c4848b4248ef9a5b47de1591a7bfde6d1291ab::hf::HF": {
+    "ticker": "HF",
+    "name": "Hopfun",
+    "icon": "https://images.hop.ag/ipfs/QmUdqYWffGtgH38hqcZEjiPjMtYKUKuwFba4yrDusbvowZ",
+    "address": "0x273aa5fb15a5efe60c095501a0c4848b4248ef9a5b47de1591a7bfde6d1291ab::hf::HF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x7ea88f012cd76fa4f3c355a093142349e6578800404398b3bda3747e196cc491::test::TEST": {
+    "ticker": "test",
+    "name": "test",
+    "icon": "https://images.hop.ag/ipfs/Qmb18A9c3jtfzThWbeA4YXvuW5vw4YEASTUsJzDGxCLCxq",
+    "address": "0x7ea88f012cd76fa4f3c355a093142349e6578800404398b3bda3747e196cc491::test::TEST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2fb62edccc779568e706c57f20df1e4491508ac459d88f8176a848c0dbc0cd9c::hoppy::HOPPY": {
+    "ticker": "HOPPY",
+    "name": "Hoppy The Kangaroo",
+    "icon": "https://images.hop.ag/ipfs/QmYwrdy1dzk4bt6EDLv6P37yQVApNzvT9L3e83N8xVvPT2",
+    "address": "0x2fb62edccc779568e706c57f20df1e4491508ac459d88f8176a848c0dbc0cd9c::hoppy::HOPPY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x014fcd3b7aef4aefd3bbea702cad21b9b067dace47948df66c2d2df85c604cc5::hopeless::HOPELESS": {
+    "ticker": "Hopeless",
+    "name": "Hopeless",
+    "icon": "https://images.hop.ag/ipfs/Qma9tD4Htzyd7iNoohVNcqwSpuLCn67SVwDHJGEANxwhop",
+    "address": "0x014fcd3b7aef4aefd3bbea702cad21b9b067dace47948df66c2d2df85c604cc5::hopeless::HOPELESS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf221f685b78721105507881eb9e477ab3ee1f638095ab839b74db318e27000b1::cock::COCK": {
+    "ticker": "COCK",
+    "name": "Cock",
+    "icon": "https://images.hop.ag/ipfs/QmTMTAPxfEC9Fu9rgS7qGZsE3Bt49BnTkDc8yK11fbP1ig",
+    "address": "0xf221f685b78721105507881eb9e477ab3ee1f638095ab839b74db318e27000b1::cock::COCK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x76bcf6691912aa12d6a4f78eb663caa0b9565841f6490391bc2335848f56d525::soil::SOIL": {
+    "ticker": "SOIL",
+    "name": "Soil",
+    "icon": "https://images.hop.ag/ipfs/QmPs1DZQxpfav8AKpBSJtVuwx8JnF2LPb5XeAEYCQqdoJo",
+    "address": "0x76bcf6691912aa12d6a4f78eb663caa0b9565841f6490391bc2335848f56d525::soil::SOIL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd6a5c62104964d02f9067966c13fa9bad9a01bb2dea3112b4b0548c031d3263f::mutt::MUTT": {
+    "ticker": "MUTT",
+    "name": "Mutt Coin",
+    "icon": "https://images.hop.ag/ipfs/QmPoUkTqLhdZSVsV1FpUFaUPYVFPNyUcV6TSMdRr4Z2Hut",
+    "address": "0xd6a5c62104964d02f9067966c13fa9bad9a01bb2dea3112b4b0548c031d3263f::mutt::MUTT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xfe9c4da07b85ddc57a55e24bc6f27bf745c08164abe1fd8cf7633701d4145515::suihui::SUIHUI": {
+    "ticker": "SUIHUI",
+    "name": "SUIHUI",
+    "icon": "https://images.hop.ag/ipfs/Qmc7VRGYen2ZET1Vi1gf5punGbL2EQCH7vzYvwSiFcvKhn",
+    "address": "0xfe9c4da07b85ddc57a55e24bc6f27bf745c08164abe1fd8cf7633701d4145515::suihui::SUIHUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x500414f02b1ab466fc6cedcd919b196fb16fb518ce8f41a30b67ffe0c271b45a::hoppy::HOPPY": {
+    "ticker": "HOPPY",
+    "name": "HOPPY official mascot",
+    "icon": "https://images.hop.ag/ipfs/QmQPNiA8v8E3C2zZVd4FL6AE8WuRuGhSyyn9cpwr1Q2voM",
+    "address": "0x500414f02b1ab466fc6cedcd919b196fb16fb518ce8f41a30b67ffe0c271b45a::hoppy::HOPPY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa1c3fd23b950a174bee3c7f4eae1ba827e0136664b56b3bd184080dd9e2c6a6d::lr::LR": {
+    "ticker": "LR",
+    "name": "Landlord Ronald",
+    "icon": "https://images.hop.ag/ipfs/QmWHuuMWwCXd2ubez9Q5u1QauN2XDbu2simgin54XaSsgf",
+    "address": "0xa1c3fd23b950a174bee3c7f4eae1ba827e0136664b56b3bd184080dd9e2c6a6d::lr::LR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x39f1f00cd5ed97b6325c77e1e39e80dc7d4da84e01c4c914b23528d6c0094af1::pepe::PEPE": {
+    "ticker": "PEPE",
+    "name": "sui pepe",
+    "icon": "https://images.hop.ag/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+    "address": "0x39f1f00cd5ed97b6325c77e1e39e80dc7d4da84e01c4c914b23528d6c0094af1::pepe::PEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe5d4be4c98a6d7394e12a930cbd5c021c2891084947bdf04233b5f59977a59f3::soil::SOIL": {
+    "ticker": "SOIL",
+    "name": "Soil",
+    "icon": "https://images.hop.ag/ipfs/QmPs1DZQxpfav8AKpBSJtVuwx8JnF2LPb5XeAEYCQqdoJo",
+    "address": "0xe5d4be4c98a6d7394e12a930cbd5c021c2891084947bdf04233b5f59977a59f3::soil::SOIL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9f2c6d3a517c6e0609efcc75188c5770c1a7460610d6236da65f49b4ddb055dd::dik::DIK": {
+    "ticker": "$Dik",
+    "name": "Dog In Kimono",
+    "icon": "https://images.hop.ag/ipfs/QmZsaDzbPs5NbGCRkN2HhnnBEavmDviESkxWYJbcVXPitY",
+    "address": "0x9f2c6d3a517c6e0609efcc75188c5770c1a7460610d6236da65f49b4ddb055dd::dik::DIK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe190779272ac22ef8b9b6a10990cff4a5662c2fdc686db71f1969553cf7868aa::one8::ONE8": {
+    "ticker": "18",
+    "name": "KEBAP",
+    "icon": "https://images.hop.ag/ipfs/QmdrrsA2EygRRBGmVz91UUHbLmJ23Vn1SFnzw1nLGG5dat",
+    "address": "0xe190779272ac22ef8b9b6a10990cff4a5662c2fdc686db71f1969553cf7868aa::one8::ONE8",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x64af15d1f1c8501f60de4eb36cba8b6f357a2efd926a6d3aa68f1ec1de3c33be::rachop::RACHOP": {
+    "ticker": "RACHOP",
+    "name": "Rachop",
+    "icon": "https://images.hop.ag/ipfs/Qmc3C2biRPk3rnwDtvtF9k2HUwgUPf9DiELJJmqQCMqYhv",
+    "address": "0x64af15d1f1c8501f60de4eb36cba8b6f357a2efd926a6d3aa68f1ec1de3c33be::rachop::RACHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x78e1cc63cd28dc6c886976dc4263bd85add1c164b361470fe329d34df93844d8::suiyans::SUIYANS": {
+    "ticker": "SUIYANS",
+    "name": "Super Suiyan",
+    "icon": "https://images.hop.ag/ipfs/QmQHXY6CFB9iCvec79J5YqUMozWzcMFuEfqYK658MuBJ2S",
+    "address": "0x78e1cc63cd28dc6c886976dc4263bd85add1c164b361470fe329d34df93844d8::suiyans::SUIYANS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xea6b409ac68337887ab57f920463444f1e399dbf577069cd381406ff92c947d2::one::ONE": {
+    "ticker": "1",
+    "name": "1",
+    "icon": "https://images.hop.ag/ipfs/QmPsK3ecsE6Jq6yZfQBciDJCfrSzA3a1Rgq1cRPDnyHZyt",
+    "address": "0xea6b409ac68337887ab57f920463444f1e399dbf577069cd381406ff92c947d2::one::ONE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8eadff2506baf4b4c79e7326bb2650ca38ea4e0cb8063f2da665977bd4531f0c::pnut::PNUT": {
+    "ticker": "PNUT",
+    "name": "PNUT",
+    "icon": "https://images.hop.ag/ipfs/QmRmSLrceFLKSQp84UqSvqbe8nJbdhQgSq3gJWQPKcb9aM",
+    "address": "0x8eadff2506baf4b4c79e7326bb2650ca38ea4e0cb8063f2da665977bd4531f0c::pnut::PNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1947dfcb062fb1dcd42c831ac24fdcf2383c9f5965873379469093e1e79e1b67::fun::FUN": {
+    "ticker": "FUN",
+    "name": "FUN Token",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0x1947dfcb062fb1dcd42c831ac24fdcf2383c9f5965873379469093e1e79e1b67::fun::FUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe43e92c53edeeb19fa01095f89de25340434f54e0f7bbb2d31332792f979744f::hpd::HPD": {
+    "ticker": "HPD",
+    "name": "HOPDOG",
+    "icon": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "address": "0xe43e92c53edeeb19fa01095f89de25340434f54e0f7bbb2d31332792f979744f::hpd::HPD",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xefda13da8caabe1146e55e2559693517e3220f537d379b4f711fc09a4ee530f7::degen::DEGEN": {
+    "ticker": "$Degen",
+    "name": "Sui Degen Apes",
+    "icon": "https://images.hop.ag/ipfs/QmYeV5vyP5ePiWtDZAZWY2dUHBY3qc1FXtETUArGhY5uYi",
+    "address": "0xefda13da8caabe1146e55e2559693517e3220f537d379b4f711fc09a4ee530f7::degen::DEGEN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf39dba2f6ccc84f5ebf5e81b463241464acde7a840a9b93b8a53c298248154d9::rabbit::RABBIT": {
+    "ticker": "rabbit",
+    "name": "rabbit",
+    "icon": "https://images.hop.ag/ipfs/QmU2tKh2oSARzAn1YgtnhZac33qxDukZtu8SGQr9B1AwM8",
+    "address": "0xf39dba2f6ccc84f5ebf5e81b463241464acde7a840a9b93b8a53c298248154d9::rabbit::RABBIT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x88035636d2787e6247d9ea5cd2ca6b8c5ff3d78fa09e32b37ac4208a2db64cf3::hpd::HPD": {
+    "ticker": "HPD",
+    "name": "HOPDOG",
+    "icon": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "address": "0x88035636d2787e6247d9ea5cd2ca6b8c5ff3d78fa09e32b37ac4208a2db64cf3::hpd::HPD",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x69e631f10afe33ce8a9dea104ec1d09a5e6ff2b06c1462d5d0aa4a3a6f6cae96::orcie::ORCIE": {
+    "ticker": "orcie",
+    "name": "ORCIE",
+    "icon": "https://images.hop.ag/ipfs/Qmbrtoc1nZpMbbRUGQbSXwMQkVN4GBtRysMFKZG26BYxpC",
+    "address": "0x69e631f10afe33ce8a9dea104ec1d09a5e6ff2b06c1462d5d0aa4a3a6f6cae96::orcie::ORCIE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x34bc4064a21d6d01add70d473b9fac30816b74e2b7e0f701e6290f8dcb74b3cf::uturn::UTURN": {
+    "ticker": "UTURN",
+    "name": "UTU",
+    "icon": "https://images.hop.ag/ipfs/QmRk1tn7dbk7gkNYwMtDsvVJhQuCpz5aYBTcDqDLZzzuSQ",
+    "address": "0x34bc4064a21d6d01add70d473b9fac30816b74e2b7e0f701e6290f8dcb74b3cf::uturn::UTURN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3cd3a9681a2cef93e9d34dce6d4bdff4061bc9a13d6b67231d5cad2bf6af3a36::heppo::HEPPO": {
+    "ticker": "heppo",
+    "name": "suiheppo",
+    "icon": "https://images.hop.ag/ipfs/QmT9cAytovJL78nHHhq6cJJRiQPXNgaj9aLg8DjuRkiqKq",
+    "address": "0x3cd3a9681a2cef93e9d34dce6d4bdff4061bc9a13d6b67231d5cad2bf6af3a36::heppo::HEPPO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0e35ce0e73f055567569b441413ff6ec3d9197220acccab5af45567af84dabd6::bubl::BUBL": {
+    "ticker": "BUBL",
+    "name": "BUBL",
+    "icon": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+    "address": "0x0e35ce0e73f055567569b441413ff6ec3d9197220acccab5af45567af84dabd6::bubl::BUBL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x3523fcb1c7edccac316d0e0686dd367ca5fd4da756555a15590c4a65ca7dfe0b::angrybob::ANGRYBOB": {
+    "ticker": "AngryBoB",
+    "name": "BOB",
+    "icon": "https://images.hop.ag/ipfs/QmQQSmJMymLqNgnXRXqUmbaGaxWguh9AxnCahSZ8WADNVd",
+    "address": "0x3523fcb1c7edccac316d0e0686dd367ca5fd4da756555a15590c4a65ca7dfe0b::angrybob::ANGRYBOB",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x15c5ab249affeaea72bf47e21fd680c86ac032d5f09fb60876fc06701ba9dc87::volo::VOLO": {
+    "ticker": "Volo",
+    "name": "Volo",
+    "icon": "https://images.hop.ag/ipfs/QmSazt7U4M5rYv7RLdf7YXwKAPVdYqSaADXnZmhGWribUu",
+    "address": "0x15c5ab249affeaea72bf47e21fd680c86ac032d5f09fb60876fc06701ba9dc87::volo::VOLO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x090ee54ad2b815ec7d56900ce4900d1922c1b885bee757c1fca0734a39580cc0::wizd::WIZD": {
+    "ticker": "WIZD",
+    "name": "WIZARD OG",
+    "icon": "https://images.hop.ag/ipfs/QmYM5HoWMH7N65SmbqVJHDYkooNujto1bfkEzGoVb3oZxe",
+    "address": "0x090ee54ad2b815ec7d56900ce4900d1922c1b885bee757c1fca0734a39580cc0::wizd::WIZD",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x88794d0af53179c1f76484261b668719d5d6d0c12ea5884ab11c620102c10485::fun::FUN": {
+    "ticker": "FUN",
+    "name": "F.U.N",
+    "icon": "https://images.hop.ag/ipfs/QmUF6Yv6fB9XpFSTdYx1yCayyJ6CanWVq39MQoumYnKn2x",
+    "address": "0x88794d0af53179c1f76484261b668719d5d6d0c12ea5884ab11c620102c10485::fun::FUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x09d3832f62120537c716a86119e31f14b339072106bf0b617b6678cde75385d5::pant::PANT": {
+    "ticker": "PANT",
+    "name": "PEANUT",
+    "icon": "https://images.hop.ag/ipfs/QmZBrpBA4jMMhRAQoiB5mGKC9xQVZYab2V167RHZpGgvKz",
+    "address": "0x09d3832f62120537c716a86119e31f14b339072106bf0b617b6678cde75385d5::pant::PANT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xdad0aa74735bb23eabf9611aa0f58f538b54c2828c0cc042248db73455400d5c::obi::OBI": {
+    "ticker": "OBI",
+    "name": "Obi PNut Kenobi",
+    "icon": "https://images.hop.ag/ipfs/QmUgNB1eRwLHapVXTwZ1gib5DZRfXUwx1WYqgrBD43QoRF",
+    "address": "0xdad0aa74735bb23eabf9611aa0f58f538b54c2828c0cc042248db73455400d5c::obi::OBI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x68686c7e954af2d8bfef2ab43447ae1534005d8a56b7ebd0340fe7cfda7f5d85::suiba::SUIBA": {
+    "ticker": "Suiba",
+    "name": "Suibabot",
+    "icon": "https://images.hop.ag/ipfs/QmSwXgMoo5rydqLo5XZVXAuoRxCmBnAs5dJmWR3SscZibe",
+    "address": "0x68686c7e954af2d8bfef2ab43447ae1534005d8a56b7ebd0340fe7cfda7f5d85::suiba::SUIBA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1b87e5992c418340030ec22a3e49eb81e69ad63377f4f4c9c03658a31cb849d5::vio::VIO": {
+    "ticker": "VIO",
+    "name": "Avior Protocol",
+    "icon": "https://images.hop.ag/ipfs/QmPhNF5RNkBxNrR87TtMGtxsNiRnCs28rDFDDW5J2SXRiZ",
+    "address": "0x1b87e5992c418340030ec22a3e49eb81e69ad63377f4f4c9c03658a31cb849d5::vio::VIO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x2fb79cde4a36a766816dc3e1b0ad88683e33756ebcb27004ebcc7a0472d81c95::neo::NEO": {
+    "ticker": "NEO",
+    "name": "Neo Whale",
+    "icon": "https://images.hop.ag/ipfs/QmW8tZQKxvxLXLkpzbWDwVAEEVc7ySFXhNgdQB1SS24h2p",
+    "address": "0x2fb79cde4a36a766816dc3e1b0ad88683e33756ebcb27004ebcc7a0472d81c95::neo::NEO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9d206c5ff2b1f2a345b07430a30dde901ae14403109cebf366ecef04a6eec2c4::mock::MOCK": {
+    "ticker": "MOCK",
+    "name": "SpongeMock",
+    "icon": "https://images.hop.ag/ipfs/QmP5Ei3RVwqCNNfnzrJWBMKCoyc25115HBNMoxWXNDiVfQ",
+    "address": "0x9d206c5ff2b1f2a345b07430a30dde901ae14403109cebf366ecef04a6eec2c4::mock::MOCK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xea398b97b3f729947fefba36ba10b72c068506576a24de4aac295473b281c42c::fun::FUN": {
+    "ticker": "FUN",
+    "name": "FUN",
+    "icon": "https://images.hop.ag/ipfs/QmUF6Yv6fB9XpFSTdYx1yCayyJ6CanWVq39MQoumYnKn2x",
+    "address": "0xea398b97b3f729947fefba36ba10b72c068506576a24de4aac295473b281c42c::fun::FUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4c38555a991be7546cd234b80d7a55200abe7372574e685625fb7e2ededeb049::carts::CARTS": {
+    "ticker": "CARTS",
+    "name": "CARROTS",
+    "icon": "https://images.hop.ag/ipfs/QmXBkNQMW6Wm3KQNAifBeY4FR984oxx4sNjnYTvpHDgeuk",
+    "address": "0x4c38555a991be7546cd234b80d7a55200abe7372574e685625fb7e2ededeb049::carts::CARTS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4ee15df8d94d2baffe9c97af966becad31260229553d4052b50a1d385aee4ae6::test::TEST": {
+    "ticker": "test",
+    "name": "test",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0x4ee15df8d94d2baffe9c97af966becad31260229553d4052b50a1d385aee4ae6::test::TEST",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5fb8214653416e84c3db4facb913614e2bdda5fda701a429651ae06b9bb395d5::suirrell::SUIRRELL": {
+    "ticker": "Suirrell",
+    "name": "Peanut the Suirrell",
+    "icon": "https://images.hop.ag/ipfs/Qmepmeh8sXCpdwc3aUWLEYtAKf6FvJsFLRkB2YtuV5NcMt",
+    "address": "0x5fb8214653416e84c3db4facb913614e2bdda5fda701a429651ae06b9bb395d5::suirrell::SUIRRELL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4802c573538c7eb1f68a891be873e65a9b7e8a54dbee80bcedf1f371672d399d::ronado::RONADO": {
+    "ticker": "RONADO",
+    "name": "CRISTIANO RONADO",
+    "icon": "https://images.hop.ag/ipfs/Qmf9wTVZEsGyiXDGzzjxgta3vtSuHPkfzoUxXZqdo5LQ8Q",
+    "address": "0x4802c573538c7eb1f68a891be873e65a9b7e8a54dbee80bcedf1f371672d399d::ronado::RONADO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x787b548acdec73eeb214faedd6dbf0b0f8db1178612bd503e3a0fe2ad0eb235b::bullrun::BULLRUN": {
+    "ticker": "bullrun",
+    "name": "bull run",
+    "icon": "https://images.hop.ag/ipfs/QmRMX3Rvp9A1cM6uhBTRHa5oyfpyapUcW1ckZSDQvgPhQY",
+    "address": "0x787b548acdec73eeb214faedd6dbf0b0f8db1178612bd503e3a0fe2ad0eb235b::bullrun::BULLRUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xbfbbd1227efb5625a0197b6311ced381aa26d84cdb92316e204a8c22e7e5d0a4::cat::CAT": {
+    "ticker": "cat",
+    "name": "cat",
+    "icon": "https://images.hop.ag/ipfs/QmSBEtrrD5pQea3TesfXNiUf5UYxZme313KjsprnbpSvxo",
+    "address": "0xbfbbd1227efb5625a0197b6311ced381aa26d84cdb92316e204a8c22e7e5d0a4::cat::CAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd40a1393dfc8371afe006c491c1301044c9198a4a5b978d2453657423e5cf886::plop::PLOP": {
+    "ticker": "Plop",
+    "name": "PlopSui",
+    "icon": "https://images.hop.ag/ipfs/QmTE4PwdbR5ffPETh6uTbrMBRp9TWvNtBjguG9Ky8NsqaM",
+    "address": "0xd40a1393dfc8371afe006c491c1301044c9198a4a5b978d2453657423e5cf886::plop::PLOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x322b8f9589af8abc842335c63e3e3edb5a07ddd38f75c4b7237272e3e885385b::hophop::HOPHOP": {
+    "ticker": "hophop",
+    "name": "Hophop",
+    "icon": "https://images.hop.ag/ipfs/QmbuMR86qgMrUYzxQTVHbdT4o8Ugc2ZnyaUG8v4YSHCKnu",
+    "address": "0x322b8f9589af8abc842335c63e3e3edb5a07ddd38f75c4b7237272e3e885385b::hophop::HOPHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf5f8bfb68c78a6dab9e42b7110cb72728864195747fe04af795713c02d82ec50::cult::CULT": {
+    "ticker": "CULT",
+    "name": "SUICULT",
+    "icon": "https://images.hop.ag/ipfs/QmTuTjNCwKmvVYt4DfmU31vGCX3UhPfJ16vDTMmTazwuUs",
+    "address": "0xf5f8bfb68c78a6dab9e42b7110cb72728864195747fe04af795713c02d82ec50::cult::CULT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xc4389723b8a5fd75810470aa21d1558cda50132a10cb82c62489ce4e82be8f2d::rachop::RACHOP": {
+    "ticker": "Rachop",
+    "name": "RacHop",
+    "icon": "https://images.hop.ag/ipfs/QmSGQUYn4MkWnYhmmQCaf7rWtNrd4zcsRt1UWr9HFZ1Mgp",
+    "address": "0xc4389723b8a5fd75810470aa21d1558cda50132a10cb82c62489ce4e82be8f2d::rachop::RACHOP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x177f6ca5fc36e9db2c6578dee08b6f36b07d6d01f747c8d526c2539d65d2a7a3::ursa::URSA": {
+    "ticker": "Ursa",
+    "name": "Ursa",
+    "icon": "https://images.hop.ag/ipfs/QmQdcPJPTjijSd2SernGAANhTVrzZ5kfw55eUZiAedpj2u",
+    "address": "0x177f6ca5fc36e9db2c6578dee08b6f36b07d6d01f747c8d526c2539d65d2a7a3::ursa::URSA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8998927eae653684f09ad972f154a05ce48d2521bbd41878c48411440babd244::pepepepe::PEPEPEPE": {
+    "ticker": "PePePePe",
+    "name": "SuiPepe",
+    "icon": "https://images.hop.ag/ipfs/Qma5cG1SeSywxE5jWvRPr889mVtJVVa6QNHsHFBUpwutdk",
+    "address": "0x8998927eae653684f09ad972f154a05ce48d2521bbd41878c48411440babd244::pepepepe::PEPEPEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe73e47ab83ac74a9c20e0a50719cc4edf7a1f4762fba51d57cd6e74fed8b9984::hnf::HNF": {
+    "ticker": "HNF",
+    "name": "Hop not fun",
+    "icon": "https://images.hop.ag/ipfs/QmdLRnEHuS5JR44BJE91Ucao1E7iCYoQ67z5ABvToXk82y",
+    "address": "0xe73e47ab83ac74a9c20e0a50719cc4edf7a1f4762fba51d57cd6e74fed8b9984::hnf::HNF",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5e621dbc4a3a2ae67cb1320e45720a0422c40d13fdad420b653b6e28edd99f79::hopdog::HOPDOG": {
+    "ticker": "HOPDOG",
+    "name": "hopdog",
+    "icon": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "address": "0x5e621dbc4a3a2ae67cb1320e45720a0422c40d13fdad420b653b6e28edd99f79::hopdog::HOPDOG",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8110c3175efd16ef3b9f9c0ddfc3cf8cfd138d2897263b05f94c14306dd9f3ff::gat::GAT": {
+    "ticker": "GAT",
+    "name": "GATTIVO",
+    "icon": "https://images.hop.ag/ipfs/QmNrKaQozVsdD9Wj5z22WaKZCD2hq9wAAEaCSZEunuj7Lo",
+    "address": "0x8110c3175efd16ef3b9f9c0ddfc3cf8cfd138d2897263b05f94c14306dd9f3ff::gat::GAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x47e827d7270ecc768a5fb0701ce91592137782377d9ce73f80052510828c1ac0::dinui::DINUI": {
+    "ticker": "DINUI",
+    "name": "Dinosaurs on SUI",
+    "icon": "https://images.hop.ag/ipfs/QmSoqSoLBNZKXXmA6KuLaSeJKr9LpVeqYkpJv1HFuNbg5M",
+    "address": "0x47e827d7270ecc768a5fb0701ce91592137782377d9ce73f80052510828c1ac0::dinui::DINUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x56f2cfc358d64c666d9cddfbf2baeb1cbd54fefb7db3ade5b97dfe33d6b7367e::hoppnut::HOPPNUT": {
+    "ticker": "HopPnut",
+    "name": "Peanut the Squirrel",
+    "icon": "https://images.hop.ag/ipfs/QmPMsM4mssGg77fgKnE9mW58f6xaDFiPnm9YLfgc9HGay9",
+    "address": "0x56f2cfc358d64c666d9cddfbf2baeb1cbd54fefb7db3ade5b97dfe33d6b7367e::hoppnut::HOPPNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1feaebfa9d9f82dee64441316eacb07a92d8ea189a105b15e45aa9d9d6d14aa9::suitor::SUITOR": {
+    "ticker": "SUITOR",
+    "name": "SUITOR",
+    "icon": "https://images.hop.ag/ipfs/QmVF94XX4638p9on4vVtdgGVUd5SvZ86accADaca4e42m4",
+    "address": "0x1feaebfa9d9f82dee64441316eacb07a92d8ea189a105b15e45aa9d9d6d14aa9::suitor::SUITOR",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xb3df40059f631bba20b03c11c51cbb8a7f353edc9132fee3a4cfd362354ae510::hopbunny::HOPBUNNY": {
+    "ticker": "HopBunny",
+    "name": "HOPBUNNY",
+    "icon": "https://images.hop.ag/ipfs/QmearEhnZ62uzEeHUHY3r4B1QQENYW8ykzBnHc6UGo1tfD",
+    "address": "0xb3df40059f631bba20b03c11c51cbb8a7f353edc9132fee3a4cfd362354ae510::hopbunny::HOPBUNNY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xba1dfab87087bf2411db8e6cbf3df9498a735a9f1b2d69a8e4cd8ecbbc932e2c::hopcat::HOPCAT": {
+    "ticker": "HOPCAT",
+    "name": "Hop Cat",
+    "icon": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "address": "0xba1dfab87087bf2411db8e6cbf3df9498a735a9f1b2d69a8e4cd8ecbbc932e2c::hopcat::HOPCAT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0c01d494aa6049ed87c5f7f2b81b9525446ad9a63c7bfd95d68bc8188a629190::era::ERA": {
+    "ticker": "ERA",
+    "name": "SUI ERA",
+    "icon": "https://images.hop.ag/ipfs/QmcayForoZDr6vagigwmag9nUmUhaM33qBJVngjdLb4j5v",
+    "address": "0x0c01d494aa6049ed87c5f7f2b81b9525446ad9a63c7bfd95d68bc8188a629190::era::ERA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8aebe57c78013f64a2c5d5683d200663dde6553ce883c81b3cd7621519de9144::luce::LUCE": {
+    "ticker": "$LUCE",
+    "name": "Sui’s Mascot LUCE",
+    "icon": "https://images.hop.ag/ipfs/QmeEerocjzoMJDiP2rNaSTzHvB5XkhLT9LyLKAkYsZ4Kqs",
+    "address": "0x8aebe57c78013f64a2c5d5683d200663dde6553ce883c81b3cd7621519de9144::luce::LUCE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x732f1d3341851051be61c25713eb44f68896e1742df8f10cfdd5b939e65ebd61::chopsui::CHOPSUI": {
+    "ticker": "CHOPSUI",
+    "name": "CHOPSUI",
+    "icon": "https://images.hop.ag/ipfs/QmeyJbuLUBhj1nrV9kn3afsujZut4x97JU9bsqdNUQsbt4",
+    "address": "0x732f1d3341851051be61c25713eb44f68896e1742df8f10cfdd5b939e65ebd61::chopsui::CHOPSUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8fbdc608dbcec5ee18e49934baacef5becd2f5aa284d11b0857d9a485687ef1b::dos::DOS": {
+    "ticker": "DOS",
+    "name": "DogsOnSui",
+    "icon": "https://images.hop.ag/ipfs/QmT2M1dW8UfUJjxi8WZGD7w1FTzJnVekDSTKcuTjXFqEUe",
+    "address": "0x8fbdc608dbcec5ee18e49934baacef5becd2f5aa284d11b0857d9a485687ef1b::dos::DOS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf278951a03feb79005ad981f47663cb268dc1a3cdc0ab053c2e8c347d1401aa3::jepe::JEPE": {
+    "ticker": "JEPE",
+    "name": "JEPE",
+    "icon": "https://images.hop.ag/ipfs/QmXsmK5y1Tzd3D3qXAHQjd2LRXsZUXEoYBcbLUahTcg6vd",
+    "address": "0xf278951a03feb79005ad981f47663cb268dc1a3cdc0ab053c2e8c347d1401aa3::jepe::JEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x0de6b7bd017a1e2fb43053abb08681f70356408f6c31ba1b6df2a5912b57d751::prts::PRTS": {
+    "ticker": "PRTS",
+    "name": "Pirates",
+    "icon": "https://images.hop.ag/ipfs/QmVypqKBU4pLBbDZxo9P1dcVEUHneLpf27DmfKS6Q8Mdnu",
+    "address": "0x0de6b7bd017a1e2fb43053abb08681f70356408f6c31ba1b6df2a5912b57d751::prts::PRTS",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xd96e1f97176b2a1133ab41e0cc6e7bcc1b9f4d967bab7a18ae93780eda12c4b1::chopsui::CHOPSUI": {
+    "ticker": "CHOPSUI",
+    "name": "CHOPSUI",
+    "icon": "https://images.hop.ag/ipfs/QmeyJbuLUBhj1nrV9kn3afsujZut4x97JU9bsqdNUQsbt4",
+    "address": "0xd96e1f97176b2a1133ab41e0cc6e7bcc1b9f4d967bab7a18ae93780eda12c4b1::chopsui::CHOPSUI",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x4975e31d8bad38e7f2bc2c4fe60e867e8d03e8161d4d29e78cbfd853555ec1c1::pizza::PIZZA": {
+    "ticker": "pizza",
+    "name": "pizzasui",
+    "icon": "https://images.hop.ag/ipfs/QmXCcVQRykHR9LJQi3a1jSLD7mT4aqDw2u418WqkRM7FFj",
+    "address": "0x4975e31d8bad38e7f2bc2c4fe60e867e8d03e8161d4d29e78cbfd853555ec1c1::pizza::PIZZA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf220961763b9243b16c802492549d6f4a718c70db746b1dead7a4e1f55a5bb77::fcksol::FCKSOL": {
+    "ticker": "fcksol",
+    "name": "Fuck Sol",
+    "icon": "https://images.hop.ag/ipfs/QmTPxkdrNWGsdxYrFuQ2vVqWbq34UHkkfpH5VrKX3Sdc52",
+    "address": "0xf220961763b9243b16c802492549d6f4a718c70db746b1dead7a4e1f55a5bb77::fcksol::FCKSOL",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xe12542839dcb2df132368890996a4a01463ae7fff8ec90a9bdc96909c1d61f83::smn::SMN": {
+    "ticker": "SMN",
+    "name": "Suizle My Nizzle",
+    "icon": "https://images.hop.ag/ipfs/QmekntpGV7MVAymRKLBNrvUoEtABSyKoWV3sncw3n8UieX",
+    "address": "0xe12542839dcb2df132368890996a4a01463ae7fff8ec90a9bdc96909c1d61f83::smn::SMN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8578d346930d15f8786dc7ef67f7866b6d09035e42cc7408778a515535507878::meowlk::MEOWLK": {
+    "ticker": "MEOWLK",
+    "name": "MEOWLK",
+    "icon": "https://images.hop.ag/ipfs/QmaAF9uTKVwL5FhEjqoP6mNbxLi7jyWp2G7A7PWBx1zDPs",
+    "address": "0x8578d346930d15f8786dc7ef67f7866b6d09035e42cc7408778a515535507878::meowlk::MEOWLK",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x510e9fedd07643e706214408fa4671db0ff0d962e6268844ba65440e2227d5bf::ssy::SSY": {
+    "ticker": "SSY",
+    "name": "supersuiyan",
+    "icon": "https://images.hop.ag/ipfs/QmQHXY6CFB9iCvec79J5YqUMozWzcMFuEfqYK658MuBJ2S",
+    "address": "0x510e9fedd07643e706214408fa4671db0ff0d962e6268844ba65440e2227d5bf::ssy::SSY",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xcfd3096f8f90fed61e269a5da6157d097ab4648c0dfb9a4a3c3a8e7963e6531c::trumpnut::TRUMPNUT": {
+    "ticker": "$TRUMPNUT",
+    "name": "TRUMP THE SQUIRREL",
+    "icon": "https://images.hop.ag/ipfs/Qmc5Vdhnd32987yD6AuwEq9E17ZLyr71fPo5oNfTKuE4aZ",
+    "address": "0xcfd3096f8f90fed61e269a5da6157d097ab4648c0dfb9a4a3c3a8e7963e6531c::trumpnut::TRUMPNUT",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xa31adbab149e8641620ac948f548d1ee13b90622e241f914dcdf2773876d0810::nasdaq_4200::NASDAQ_4200": {
+    "ticker": "NASDAQ4200",
+    "name": "Stonks",
+    "icon": "https://images.hop.ag/ipfs/QmVcjLaB2WgcqdtRFrni7ZNfi2RqM222WaG7T4ZH2FFZcD",
+    "address": "0xa31adbab149e8641620ac948f548d1ee13b90622e241f914dcdf2773876d0810::nasdaq_4200::NASDAQ_4200",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x5c63b3c6b905f88cdb9bcc2569476b18de8f2be7cdfd89d62875ddbbf5638a47::fun::FUN": {
+    "ticker": "FUN",
+    "name": "FUN Token",
+    "icon": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+    "address": "0x5c63b3c6b905f88cdb9bcc2569476b18de8f2be7cdfd89d62875ddbbf5638a47::fun::FUN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x57a59d2a0234c18da932f943ddeb42c2c1c8edd258da527df88340627a3c7b4b::luce::LUCE": {
+    "ticker": "$LUCE",
+    "name": "Sui’s Mascot LUCE",
+    "icon": "https://images.hop.ag/ipfs/QmeEerocjzoMJDiP2rNaSTzHvB5XkhLT9LyLKAkYsZ4Kqs",
+    "address": "0x57a59d2a0234c18da932f943ddeb42c2c1c8edd258da527df88340627a3c7b4b::luce::LUCE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x8e8ed27534097bfad0395cf6048a2038d0596e2eaec00b836793aa993613c92f::zxfa::ZXFA": {
+    "ticker": "ZXFA",
+    "name": "SFKSA",
+    "icon": "https://images.hop.ag/ipfs/QmbsPuRTycWmNLvRLthrkMMDY6r4DAAkX5vJM7rU55Y5RR",
+    "address": "0x8e8ed27534097bfad0395cf6048a2038d0596e2eaec00b836793aa993613c92f::zxfa::ZXFA",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xf2a267a05604f665960b0ca5c3dc22550ed9643d70549119202cf23fe68a6670::suipreme::SUIPREME": {
+    "ticker": "SUIPREME",
+    "name": "Suipreme",
+    "icon": "https://images.hop.ag/ipfs/QmWCLr7TLrhSR1XtdpX4ymDSkpAnkiwWQvGByB3H3m2Byy",
+    "address": "0xf2a267a05604f665960b0ca5c3dc22550ed9643d70549119202cf23fe68a6670::suipreme::SUIPREME",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x1d0798647403bd8286320158002cdc5ff13e5b99858e078496963a76f1a7d7de::suicam::SUICAM": {
+    "ticker": "SUICAM",
+    "name": "Sui Camel",
+    "icon": "https://images.hop.ag/ipfs/QmWEFmaApMk8JNzfPBPjoa7jXdkX6TEXmMyvX5wKj9Fc3Z",
+    "address": "0x1d0798647403bd8286320158002cdc5ff13e5b99858e078496963a76f1a7d7de::suicam::SUICAM",
+    "verified": true,
+    "decimals": 6
+  },
+  "0xfc4ce3b927206c95e9596e56f79a8754cdb5099ef673fb468881d34973b655b4::hotter::HOTTER": {
+    "ticker": "Hotter",
+    "name": "Hotter",
+    "icon": "https://images.hop.ag/ipfs/QmdijSRgKiEJ3Ps1kifv28c4thzBKqdywHnz2CGTYceYT4",
+    "address": "0xfc4ce3b927206c95e9596e56f79a8754cdb5099ef673fb468881d34973b655b4::hotter::HOTTER",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x317a7a090b6788654db4a66cd6161b83bc777e44ba9ef442a0208926f52efaf8::sdoge::SDOGE": {
+    "ticker": "Sdoge",
+    "name": "Sui Doge",
+    "icon": "https://images.hop.ag/ipfs/QmSPjQH4nom6qS7ZyV7eB76spSUDSnDCFyasvUbgutcaKx",
+    "address": "0x317a7a090b6788654db4a66cd6161b83bc777e44ba9ef442a0208926f52efaf8::sdoge::SDOGE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9f541a9a7fd929141df7397d0a055fb3fe95923e6213f82cfe80a269b63a38c6::pepe::PEPE": {
+    "ticker": "pepe",
+    "name": "Pepe",
+    "icon": "https://images.hop.ag/ipfs/QmeDbTg7ktsBoQwRU7t7oxhPrBXd56dPU7FEdkQh1qkoAT",
+    "address": "0x9f541a9a7fd929141df7397d0a055fb3fe95923e6213f82cfe80a269b63a38c6::pepe::PEPE",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x57144a76174e6e154a0035fd3d5579221c4741c7e877f4f597f5b19ff61df8c2::ban::BAN": {
+    "ticker": "Ban",
+    "name": "Comedian",
+    "icon": "https://images.hop.ag/ipfs/QmXdp7yUDHKR9UMhwRkeMe681aKRwAJxBxappQPjuYw9dd",
+    "address": "0x57144a76174e6e154a0035fd3d5579221c4741c7e877f4f597f5b19ff61df8c2::ban::BAN",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x27568cfb7c28c8f5bf838c2b9ffa52a023b241df21baa6f0ef19d3a1d030dc69::fubao::FUBAO": {
+    "ticker": "FUBAO",
+    "name": "Hop Fubao",
+    "icon": "https://images.hop.ag/ipfs/QmSn1MHFmeNtQGxoCSp5H2zQrNeqGmNUd98XmFRnh8n2qd",
+    "address": "0x27568cfb7c28c8f5bf838c2b9ffa52a023b241df21baa6f0ef19d3a1d030dc69::fubao::FUBAO",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x44251553b776d40dd9bf47a21ef346ec1fc92744eaae138cae57a8f78a7758c2::trump::TRUMP": {
+    "ticker": "TRUMP",
+    "name": "TRUMP",
+    "icon": "https://images.hop.ag/ipfs/QmNh9eDkt994Jus4zUKZejcYp3tSEjUndXUZ8KbPgkrfzT",
+    "address": "0x44251553b776d40dd9bf47a21ef346ec1fc92744eaae138cae57a8f78a7758c2::trump::TRUMP",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x52a5242fabb7c1136cdc8b4480fab3a540207228f173255ed79b42d155577a2e::four20690::FOUR20690": {
+    "ticker": "420690",
+    "name": "Pepe",
+    "icon": "https://images.hop.ag/ipfs/QmT3n9QXTeUQFVHGUGBeKCDT94S5HJJ6jHtYk99V5RyQ14",
+    "address": "0x52a5242fabb7c1136cdc8b4480fab3a540207228f173255ed79b42d155577a2e::four20690::FOUR20690",
+    "verified": true,
+    "decimals": 6
+  },
+  "0x9cd1754646c095963087261ed9a27b04292426f7f98a3e4923d5a1bfe29874f8::rkamala::RKAMALA": {
+    "ticker": "rKamala",
+    "name": "Retardio Kamala",
+    "icon": "https://images.hop.ag/ipfs/QmPefXawJjkrfWEk2Pt8hQUHFmCEZCbCBYbaf3p7naQnea",
+    "address": "0x9cd1754646c095963087261ed9a27b04292426f7f98a3e4923d5a1bfe29874f8::rkamala::RKAMALA",
+    "verified": true,
+    "decimals": 6
+  }
+}
