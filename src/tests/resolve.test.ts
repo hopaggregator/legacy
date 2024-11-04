@@ -9,15 +9,7 @@ async function resolveTest() {
 
   for(let i = 0; i < LegacyCoinTypes.length; i++) {
     const coinType = LegacyCoinTypes[i];
-    const result = await getLegacyMetadata(sui_client, coinType);
-    metadata_map[coinType] = {
-      ticker: result.symbol,
-      name: result.name,
-      icon: result.iconUrl,
-      address: coinType,
-      verified: true,
-      decimals: 6
-    };
+    metadata_map[coinType] = await getLegacyMetadata(sui_client, coinType);
   }
 
   console.log(JSON.stringify(metadata_map, null, 2));
