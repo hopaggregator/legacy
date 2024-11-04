@@ -1,6 +1,6 @@
 ## Hop Legacy Coins
 
-Use this library to resolve all metadata for the 472 first coins, launched on Hop Fun.
+Use this library to resolve all metadata for the 471 first coins, launched on Hop Fun.
 
 `npm install @hop.ag/legacy`
 
