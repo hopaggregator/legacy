@@ -25,6 +25,9 @@ const coinType = "0x43e9045850072b10168c565ca7c57060a420015343023a49e87e6e47d3a7
 const coin_metadata: CoinMetadata = await getLegacyMetadata[coinType];
 ```
 
+### Total Supply
+Each of these coins has ```1,000,000,000``` total supply and ```6``` decimal places.
+
 #### Why did this happen?
 Sui RPC V1.0 does not pick up our frozen metadata for these coins. V2.0 will automatically
 pick them up, however, for the time being, we recommend all of our partners to integrate
