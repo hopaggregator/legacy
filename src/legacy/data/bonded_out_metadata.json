@@ -1,0 +1,100 @@
+{
+  "0x43e9045850072b10168c565ca7c57060a420015343023a49e87e6e47d3a74231::hoppy::HOPPY": {
+    "name": "HOP BUNNY",
+    "symbol": "HOPPY",
+    "description": "HOP BUNNY",
+    "iconUrl": "https://images.hop.ag/ipfs/QmdSDb1nWDfZFnfrExfkYXvk7R3AMGiWcJQw2cAN354CCy",
+    "decimals": 6
+  },
+  "0x0d7acc8e91ea02582f3111dd6809f4f65e2ca2c1a0d13c966af3a673603ced42::orcie::ORCIE": {
+    "name": "Orcie",
+    "symbol": "ORCIE",
+    "description": "Here to make a splash on Sui!",
+    "iconUrl": "https://images.hop.ag/ipfs/QmZUt7qM1GH1aTggoNMykKhP4F8kffagsrfkkEACav83KL",
+    "decimals": 6
+  },
+  "0xe74876860836a4e2f2aed6cf8620f2652d8efc0d3c6e0255047b7c63c0e194fa::swoop::SWOOP": {
+    "name": "Swoop",
+    "symbol": "Swoop",
+    "description": "🐤💧 Woop Woop Woop 💧🐤",
+    "iconUrl": "https://images.hop.ag/ipfs/Qmb9SzPXE58pxXy8fXkGae31uSGfo9cPuhTHRNeS95FhWz",
+    "decimals": 6
+  },
+  "0xf05381d5c15833ddec7c4060e3b9bf3dded29cfa81d034ab0f693e68bcd9f9db::rachop::RACHOP": {
+    "name": "Rachop",
+    "symbol": "RACHOP",
+    "description": "Rachop is one of the first projects of Hopfun. Our lead characters, Rachop the pirate raccoon and his loyal friend, HoP the Hopfun mascot İnvite you to join them on their thrilling adventures",
+    "iconUrl": "https://images.hop.ag/ipfs/QmcU72eDV2E2SnH9kbTTcNunjXrRUqDJBKMteLuxtJjXPt",
+    "decimals": 6
+  },
+  "0x5217def12dd5c456244d6cd643f4360736ba281c7b3cda1d7a7ed45a49119606::hopdog::HOPDOG": {
+    "name": "HOPDOG",
+    "symbol": "HOPDOG",
+    "description": "Meet Hopdog, the dog of SUI and loves to hop!",
+    "iconUrl": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+    "decimals": 6
+  },
+  "0xff6d855f2876cd5b5bfaa7fcbbb9721f447290606699a6207b4a7757e3eea0ae::sgf::SGF": {
+    "name": "Smoking Sui Giga Fish",
+    "symbol": "SGF",
+    "description": "No soy larps. No jeets. Only $SGF. What are you waiting for? Join us.",
+    "iconUrl": "https://images.hop.ag/ipfs/QmdF5cs4EQtKrFzaWw6HJjmn3Xg35N5xxK6vDS25F39e1j",
+    "decimals": 6
+  },
+  "0xd5fcf6a2947411e145a01e31cf97d43d13d9cd37b7cac2bb3296f7539ebaaf4a::rex::REX": {
+    "name": "suirex",
+    "symbol": "REX",
+    "description": "I'm Rex. W're all Rex",
+    "iconUrl": "https://images.hop.ag/ipfs/QmUzqQG6zVXzQ3moLjrFhb3MnrAG2ufmKS6emzd7L2xNqn",
+    "decimals": 6
+  },
+  "0x660edaa68c5553d962d99770153e6acf564c7bc2ba7b85b856e41f3df39333e6::unihop::UNIHOP": {
+    "name": "UNIHOP",
+    "symbol": "UNIHOP",
+    "description": "The dog of sui co-founder, Evan Cheng.",
+    "iconUrl": "https://images.hop.ag/ipfs/QmTLVZuQqm4A1UQaktUSyVeGcA7hzba4qq6ZL4oM421nfs",
+    "decimals": 6
+  },
+  "0xfea33f6aa98650530e61347fe4e34b31d1cf4b3fbb02b0c09f110c950d873205::horse::HORSE": {
+    "name": "Suihorse",
+    "symbol": "HORSE",
+    "description": "The chillest horse in the sui",
+    "iconUrl": "https://images.hop.ag/ipfs/QmfLLvTxyZuCXGujr532hX89vK5rxqkyD5DDZxrwaDkThm",
+    "decimals": 6
+  },
+  "0x5c931e75a2aebbed6b314a80e722cd9ba8696c5a59c2db8143ed6845a69dd476::hopcat::HOPCAT": {
+    "name": "HopCat",
+    "symbol": "HopCat",
+    "description": "First cat on Hop Fun",
+    "iconUrl": "https://images.hop.ag/ipfs/QmWBx34wFTPcn8u2RbT74MgrKZFcbssptPYZWZhHQM3oVt",
+    "decimals": 6
+  },
+  "0x930294bc1273f445091e127dbdd02b5992e936e35bae7245f57528a579a2ac4e::pnut::PNUT": {
+    "name": "Peanut The Squirrel",
+    "symbol": "PNUT ",
+    "description": "PEANUT FOREVER. FUCK THE NYSDEC",
+    "iconUrl": "https://images.hop.ag/ipfs/QmSfHV3Gx7MHA6Lkvbuu8KTrNe6YmDU2kGUxfc5FhdGY3B",
+    "decimals": 6
+  },
+  "0xe185b86cec4fbbae7b91344eaf0035fd3496988b7b25c85b778b316e2d073c7a::ollie::OLLIE": {
+    "name": "Rockstar Otter",
+    "symbol": "Ollie",
+    "description": "Ollie To A Dolly $$$",
+    "iconUrl": "https://images.hop.ag/ipfs/QmYfPDSwukxiDGbfiKBm1Tg7qLYJvR76Am5yUAHF2vk58Z",
+    "decimals": 6
+  },
+  "0xba25c11b32159ecc215bd67a85ef2ae00edf1d278ad04198ffa6aae2c09bc12e::xai::XAI": {
+    "name": "Xai Memes",
+    "symbol": "XAI",
+    "description": "Meme",
+    "iconUrl": "https://images.hop.ag/ipfs/QmXVRmyotXfz5zSNmSM6Ao4qmmsry9CF5fsowYzZHxgSvP",
+    "decimals": 6
+  },
+  "0x27568cfb7c28c8f5bf838c2b9ffa52a023b241df21baa6f0ef19d3a1d030dc69::fubao::FUBAO": {
+    "name": "Hop Fubao",
+    "symbol": "FUBAO",
+    "description": "I’m HopFubao, the cutest meme inspired by none other than Fubao Panda!\n\nI’m about to hop onto SUI and I can’t wait to bring a little bit of panda love and joy to your moon bag!\n\nIf you’re looking for something playful and fun, I’m here to make your portfolio a whole lot cuter!",
+    "iconUrl": "https://images.hop.ag/ipfs/QmSn1MHFmeNtQGxoCSp5H2zQrNeqGmNUd98XmFRnh8n2qd",
+    "decimals": 6
+  }
+}
